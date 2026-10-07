@@ -1,11 +1,11 @@
 {
-    "version":  "2.0.3",
-    "notes":  "澜枢 v2 2.0.3:设置页铺满窗口宽度,背景选择改为网格排列;关于页更简洁,新增「检查更新」。",
-    "pub_date":  "2026-10-07T03:02:22Z",
+    "version":  "2.0.4",
+    "notes":  "规则白皮书:只收美区英文原文规则,只有导航文字变化不再算修订;卡片显示中文概要;来源监控显示各自规则名;新增「全部 / 美国本土 / 跨境」切换与适用范围标签。",
+    "pub_date":  "2026-10-07T19:37:43Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQXcyQWdGQU1LL0xBR1EwTTVrbCttNDlXbUxHT1ljVi9mS0VrNjJ4RE44UVRRZEVTK1JsbzU4VHl2Qzc3RFdBS0llTlJHQlROSE1aSzgwNHpySWY3QVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzQxOTkwCWZpbGU65r6c5p6iIHYyXzIuMC4zX3g2NC1zZXR1cC5leGUKUDJiMHM1N0c1eGt0cjROOE01QlNtOGs1MW9EcFNSU1JjcUQwSnFCUG9iQUp1TnRwdElyRG1hT2NkWkl0L3VkUFdXeFpvMmlzQXBORHpoMlB6VUxkQ1E9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.0.3/lanshu-v2_2.0.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQTBFVGdnUVRYbnB3a0pwSnFNaEJQUHZvR2N6NVRMcklhYW40aGJ5dXR0Y2syUlhmMGc2cHN6cGZ1SDdUSEJvbTZjU21jOWxUQng5KzJuV3Z6THZCRHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDAxNjYyCWZpbGU65r6c5p6iIHYyXzIuMC40X3g2NC1zZXR1cC5leGUKN001d3pRcnduWVR1aXBEdWszU0c5bEV4QjhIWHNGd1ZwYm9JTnNLL1o1Q0JoRjI4dWhOTVFSdkJqcEJ5aFpIY0FFVEpNRW9wUmduS0FHTnVXekVnRGc9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.0.4/lanshu-v2_2.0.4_x64-setup.exe"
                                          }
                   }
 }
