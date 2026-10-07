@@ -1,0 +1,27 @@
+# 推送 v<版本> 标签时,把 releases/<版本>/ 里的已签名安装包发布成 GitHub Release。
+# 带 PRERELEASE 文件的版本发布为预发布(测试版)。latest.json 由发版脚本在 Release 可下载后再更新。
+name: Publish release
+
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ github.ref_name }}
+        run: |
+          ver="${TAG#v}"; dir="releases/$ver"
+          if [ ! -d "$dir" ]; then echo "::error::$dir not found"; exit 1; fi
+          flags=()
+          if [ -f "$dir/PRERELEASE" ]; then flags+=(--prerelease); fi
+          gh release create "$TAG" --verify-tag --title "澜枢 v2 $ver" --notes-file "$dir/NOTES.md" "${flags[@]}" "$dir"/*.exe "$dir"/*.sig

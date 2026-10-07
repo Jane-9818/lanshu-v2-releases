@@ -1,0 +1,2 @@
+*.exe binary
+*.sig text eol=lf
