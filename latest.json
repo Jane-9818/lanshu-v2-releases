@@ -1,11 +1,11 @@
 {
-    "version":  "2.0.6",
-    "notes":  "规则来源异常时在白皮书和今日页顶部显示提醒",
-    "pub_date":  "2026-10-07T20:57:34Z",
+    "version":  "2.0.7",
+    "notes":  "白皮书支持大量美区规则:左侧按分类分组、八章筛选、多个关键词同时搜索,卡片显示所属章节。",
+    "pub_date":  "2026-10-07T23:20:51Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQTlwTHpXK3lacTRTREFMNGVYeVBPSmhuUllnUVN4UkN2STY4TWhud2NKQ29VTEJFM1g0MG9PT3pDM0hrNVlJRE1wMWxhcytZQ1hwb283cUJUaGVRekFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDA2NTExCWZpbGU65r6c5p6iIHYyXzIuMC42X3g2NC1zZXR1cC5leGUKN3JFTmttNkJ6WTdRMTBZdGlhZWpUZHhzVE91V21xYllMbytMM0pJU2RRRkJSVXVlSmV4dTZKRGlKeHFrUnM3WTVsOUlUSGgwU1dlbkdEYVFhOWJIRFE9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.0.6/lanshu-v2_2.0.6_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQTkwNnBkbndjWEVtT050N1o4Q1VZdmtWbjN1NU5kdVl2NHlpTUFhMzJqZHU3SEkrZGFyNmRXWU5DL3FBT1Vma1d6dlZ1blQ0RWF2c2JKZWRYOXJxbGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE1MDk1CWZpbGU65r6c5p6iIHYyXzIuMC43X3g2NC1zZXR1cC5leGUKOFVEQWVMSUxVSXgvRHRYYnRnRHRyRnJ4RlJJMUN2NHV4eEJhMGx5YUd3b1ZmY0VoVk82bE1vWFN4dko2QU1rWG1PS2VFbzA0YVFFRzF1dEIrcUM4Q3c9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.0.7/lanshu-v2_2.0.7_x64-setup.exe"
                                          }
                   }
 }
