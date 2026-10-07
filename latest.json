@@ -1,11 +1,11 @@
 {
-    "version":  "2.0.2",
-    "notes":  "test 2.0.2 (updater test build, do not use)",
-    "pub_date":  "2026-10-07T02:30:13Z",
+    "version":  "2.0.1",
+    "notes":  "澜枢 v2 2.0.1:支持自动更新(以后有新版本会在软件右下角提示「立即更新」)。",
+    "pub_date":  "2026-10-07T02:30:32Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQTJHeGpGeHhHNHFIY3ExNjlPZzIzOHRxQ3I0SHJFbkVQNWZnQXdDeldUVmFKR1hoaVdndnFoT3ZqTTdMbVNiQmhQVDFGdjFiZnFLM0R1cjM3Z21IeGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzQwMTM0CWZpbGU65r6c5p6iIHYyXzIuMC4yX3g2NC1zZXR1cC5leGUKRjNIWmpSZnN1VHVFWnd6TGV2QzNWQTZhbHJmR0xnOEtDKzVYeUtSdVcxUTMxbktlZjd5VTg3NEZaT1ZlT0p4VFlTV25VaDlkd1hOWUNGR2d4Z3dwQ1E9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.0.2/lanshu-v2_2.0.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQTI4WWFtckpOZlQwN0M5NE5NMzMra3pWbVU1UG9idHFyaC9sam1qRTNjSHdYT00wSHFkSFFrL1JYbnhZbXc2dnJmNHpHSEgyNThiZ0VQRlZRMjZkS2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzM5NjcyCWZpbGU65r6c5p6iIHYyXzIuMC4xX3g2NC1zZXR1cC5leGUKd2JCc1pvWTlZaWY1TmljbytUSDJucnRyRUdYc3pndHFBSjNzUC94aGJOSkVwUGEwdG03ZEtxZjZVYW9hekJ2OEtVWXd1ZEtXZFJLaDZvZDNpTWNQQ1E9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.0.1/lanshu-v2_2.0.1_x64-setup.exe"
                                          }
                   }
 }
