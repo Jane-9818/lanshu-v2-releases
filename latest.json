@@ -1,11 +1,11 @@
 {
-    "version":  "2.1.3",
-    "notes":  "来源只提示官方已下架;违规自查不再显示本地改写;白皮书按直播/短视频筛选;内嵌情绪回收站",
-    "pub_date":  "2026-10-08T20:22:36Z",
+    "version":  "2.1.4",
+    "notes":  "情绪回收站只在软件内打开,去掉在浏览器打开",
+    "pub_date":  "2026-10-08T20:31:28Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQTkxQnkrZUxCSnVUbWg5clRFN09paEdhK1pCMnk5SlVZbjF5cHhlZXBwN1U4RGEwZWU1OE1YcWpHVzZYMjRiMTFUaDVmZEtyMUNqUk56QzRBMkRDMGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDkwODAxCWZpbGU65r6c5p6iIHYyXzIuMS4zX3g2NC1zZXR1cC5leGUKQXNKNmN0bkhXUUNMNDBLb1FRSFg0Qy94OXRFbGVSNC9wZm5ReWtDOEplYXhPR29zdXNMK05zNnUvMWxidXdiN0pHeER4Sms2cHZtNUJwTDlxZzY1REE9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.1.3/lanshu-v2_2.1.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQTRPakpQNEVzZnVDaUliTGhqUTJWNGlmOGlIcWkrK1BtdFViRVZoUitjMVRiVTNjS0ovcEpJcnZQbUJldnJVUzhseTdwQXJMYnB0SStDUTZvY211dlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDkxMzI4CWZpbGU65r6c5p6iIHYyXzIuMS40X3g2NC1zZXR1cC5leGUKanhVUmN0WVFzWkRDWjEyR0d0LzZ3RUFYZURkdGdGUGdieVEvTktlWjZoRC9jdTR6emROS21RY2tWZVBqS1RpQndZcnRvQUNTa0NndDNpQkNSN1VuQ1E9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.1.4/lanshu-v2_2.1.4_x64-setup.exe"
                                          }
                   }
 }
