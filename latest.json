@@ -1,11 +1,11 @@
 {
-    "version":  "2.0.7",
-    "notes":  "白皮书支持大量美区规则:左侧按分类分组、八章筛选、多个关键词同时搜索,卡片显示所属章节。",
-    "pub_date":  "2026-10-07T23:20:51Z",
+    "version":  "2.0.8",
+    "notes":  "白皮书支持中文搜索(退货退款、发货时效、达人佣金等,中英文都能搜),结果按相关度排序;卡片显示中文标题 + 英文官方名;章节筛选按钮不再换行",
+    "pub_date":  "2026-10-08T01:09:05Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQTkwNnBkbndjWEVtT050N1o4Q1VZdmtWbjN1NU5kdVl2NHlpTUFhMzJqZHU3SEkrZGFyNmRXWU5DL3FBT1Vma1d6dlZ1blQ0RWF2c2JKZWRYOXJxbGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE1MDk1CWZpbGU65r6c5p6iIHYyXzIuMC43X3g2NC1zZXR1cC5leGUKOFVEQWVMSUxVSXgvRHRYYnRnRHRyRnJ4RlJJMUN2NHV4eEJhMGx5YUd3b1ZmY0VoVk82bE1vWFN4dko2QU1rWG1PS2VFbzA0YVFFRzF1dEIrcUM4Q3c9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.0.7/lanshu-v2_2.0.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQS9WdGRIMWtFKzNGUWxJcmtUUEgvWE4zMUtnWlh4U2twQ0xNNkM4YXNBYm9STklOcUVyQXo4NmlWejNGd1VhVEQ4UHkwak84ejlVQS9QYWZ3VEZBZndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDIxNTk5CWZpbGU65r6c5p6iIHYyXzIuMC44X3g2NC1zZXR1cC5leGUKMFh3QXlhQ3Y5aXVQNkUzeEtxVENoTnBZZTRrc0dFMWdmektaRmJvU3JUU1ZBLzRzNXFBVmVEWFFKNHl5T0pqejZ5YWlhQldzRU96NERVNTZPSG0rQnc9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.0.8/lanshu-v2_2.0.8_x64-setup.exe"
                                          }
                   }
 }
