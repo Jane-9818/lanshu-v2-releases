@@ -1,11 +1,11 @@
 {
-    "version":  "2.1.1",
-    "notes":  "违规自查:整段合规改写(保留结构和卖点,附中文改写说明,改写后自动复检);新增「搜索友好度」(按 TikTok Shop 美区官方 Listing 指南逐项检查 + 建议关键词,不代表平台算法、不保证流量)",
-    "pub_date":  "2026-10-08T08:44:32Z",
+    "version":  "2.1.2",
+    "notes":  "违规自查拆成 4 个模式:标题自查、产品描述自查、关键词搜索(Search terms)、Product Highlight;逐条检查、合规改写和搜索友好度;关键词可一键查相关规则",
+    "pub_date":  "2026-10-08T19:22:30Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQTc5bnZOWC9JbVBVQnVtdFdsemJzK1dKMDRJUnZJaVBCOEYxbnlkQzNHU3lqVXBxS3E3Njg2UkdOM0pDNTd1REdjR1VSTWFkR3VVaTlpdmVwSFYxVUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDQ4OTM4CWZpbGU65r6c5p6iIHYyXzIuMS4xX3g2NC1zZXR1cC5leGUKZjJadzBRRHN6WE9KRkhNL0FNQVp4SEtnaUkvaHk1QUJOaFlNTVpLalNGOEJSK3Z0d2s5RkNXZlBuc2N6QmNmVXVDMHhObzc2K1VIRXhYU25pSUhnQ1E9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.1.1/lanshu-v2_2.1.1_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQS9nb3lYNUJ0WVc4MGExL1BOS1dZSjIvL1poZVZ4TmF0SEh3SzVuVnlUeE1DZEh1STdaMEZQOVNhY3NGaUxFTmNlc3VsbDdKVGVjRlg3R2pCZ091NlFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDg2NjY2CWZpbGU65r6c5p6iIHYyXzIuMS4yX3g2NC1zZXR1cC5leGUKMWJxVFEzSFQzV1FlMWxnT0hoSTBiTDV1YmxETlBtWEh0ZzNqWHdMTTdTQzZEUlZySjJaSjBUVzBaN2l5aFZWKzNFdkFaSmg5Tm1KcGNVZktndEtlQUE9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.1.2/lanshu-v2_2.1.2_x64-setup.exe"
                                          }
                   }
 }
