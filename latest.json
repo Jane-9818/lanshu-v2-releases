@@ -1,11 +1,11 @@
 {
-    "version":  "2.1.4",
-    "notes":  "情绪回收站只在软件内打开,去掉在浏览器打开",
-    "pub_date":  "2026-10-08T20:31:28Z",
+    "version":  "2.1.5",
+    "notes":  "新设备第一次打开时问名字/入驻码的弹窗改成和启动封面一致的卡片样式(柔和配色、圆角、小贴纸,浅色/深色都适配),文案更简短。",
+    "pub_date":  "2026-10-09T22:15:25Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQTRPakpQNEVzZnVDaUliTGhqUTJWNGlmOGlIcWkrK1BtdFViRVZoUitjMVRiVTNjS0ovcEpJcnZQbUJldnJVUzhseTdwQXJMYnB0SStDUTZvY211dlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDkxMzI4CWZpbGU65r6c5p6iIHYyXzIuMS40X3g2NC1zZXR1cC5leGUKanhVUmN0WVFzWkRDWjEyR0d0LzZ3RUFYZURkdGdGUGdieVEvTktlWjZoRC9jdTR6emROS21RY2tWZVBqS1RpQndZcnRvQUNTa0NndDNpQkNSN1VuQ1E9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.1.4/lanshu-v2_2.1.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQTlvNWk0T1pNT3hzbk5zZHB3VHFYbDhnT2pwUHZGUTIybTE4VStDdGF0NWZybGd1c3g0RTVFKzVneWpXV3QrR3I3cVdLQWpwcWxEZ3lsL2pkRXFCdnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTgzOTU5CWZpbGU65r6c5p6iIHYyXzIuMS41X3g2NC1zZXR1cC5leGUKRzFHRUhEdmpVaGRLSEd0ZkhadDh1OUdZdjNVcnNkMDZlU0Nidk9hemlSWVd2OGpqNGtpc1orNmo5MEpESWR6QmFxMHlqa3BJSHBkaUNLaGtWK25pQUE9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.1.5/lanshu-v2_2.1.5_x64-setup.exe"
                                          }
                   }
 }
