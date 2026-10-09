@@ -1,11 +1,11 @@
 {
-    "version":  "2.1.5",
-    "notes":  "新设备第一次打开时问名字/入驻码的弹窗改成和启动封面一致的卡片样式(柔和配色、圆角、小贴纸,浅色/深色都适配),文案更简短。",
-    "pub_date":  "2026-10-09T22:15:25Z",
+    "version":  "2.1.6",
+    "notes":  "AI 聊天:回答不再出现表格,下方显示依据的官方规则卡片(本土/跨境、一句话原因、「官方原文」按钮),并新增快捷问题。违规自查:顶部直接给出「可以发 / 建议修改 / 不要发」,问题按风险排序,点开可看原因、改法和对应官方规则;宠物零食类目新增发布前检查。规则白皮书:新增业务影响标签(宠物零食/直播/短视频/通用/待确认)和筛选。",
+    "pub_date":  "2026-10-09T23:40:11Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQTlvNWk0T1pNT3hzbk5zZHB3VHFYbDhnT2pwUHZGUTIybTE4VStDdGF0NWZybGd1c3g0RTVFKzVneWpXV3QrR3I3cVdLQWpwcWxEZ3lsL2pkRXFCdnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTgzOTU5CWZpbGU65r6c5p6iIHYyXzIuMS41X3g2NC1zZXR1cC5leGUKRzFHRUhEdmpVaGRLSEd0ZkhadDh1OUdZdjNVcnNkMDZlU0Nidk9hemlSWVd2OGpqNGtpc1orNmo5MEpESWR6QmFxMHlqa3BJSHBkaUNLaGtWK25pQUE9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.1.5/lanshu-v2_2.1.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQTcvVHNBT3paY0JOQkk0S2pUdkxXUEdrVC9VcHdvUU4vV3pLTTJsS0g1aGozeXBPK000enFTRU5LSExJREh3VGxkWmZmN2Y3MXVvdmhabVQyeWVjRndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTg5MDY3CWZpbGU65r6c5p6iIHYyXzIuMS42X3g2NC1zZXR1cC5leGUKRWNhQUJncWdIclIvRXpDQWw3SVpobmpkSkVjT2l2aXNtTE1uTjA3bThjTitlZUFyanJXUGlrM2hBMUtkd1N1eThxRXllMEFGMmozMUtMb1FUMitJREE9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.1.6/lanshu-v2_2.1.6_x64-setup.exe"
                                          }
                   }
 }
