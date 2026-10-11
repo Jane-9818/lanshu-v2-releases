@@ -1,11 +1,11 @@
 {
-    "version":  "2.1.9",
-    "notes":  "经营工具新加「ID 侦探」:贴 TikTok 链接或用户名,查出商品 PID、视频 VID、账号 UID,带商品图、视频封面或头像,点一下就复制",
-    "pub_date":  "2026-10-11T02:59:56Z",
+    "version":  "2.2.1",
+    "notes":  "全新韩系清新风格 + 邮箱账号登录和团队协作;大促日历补全店铺活动;ID 侦探可查店铺;申诉助手先分析再写申诉(500 字符内);费用计算器算真实利润;深色模式换成暖色调;网络不稳时可一键重试",
+    "pub_date":  "2026-10-11T06:10:35Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQThJcTVsUTg0NWI5MFNTMG40bGZjUFo5S3Y1QjJNMXRpL09wbUd0WmtOdS9WcXVONDNyMVNncW5ZZ0k4cUdrbXFtbU5TakxDWEtaZTFiNnhWN1Rhd2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjg3NDYyCWZpbGU65r6c5p6iIHYyXzIuMS45X3g2NC1zZXR1cC5leGUKb08zYlk1MDRSVVJHR1dycHFGWVF4U1lVR29jc3ZTTXZLNndMWEtZQ2lDZkVnYUVWc2tuNzdNdkY0eW52bVU5NnJQNE5XUmlrekNNRy9zUTVMOEs0Q3c9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.1.9/lanshu-v2_2.1.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQXhzbjBpckpWSTVNMHZWWXAxQVJrVVpmYXRvZjh2Yzl6YW45OFRJY3dqL3dYR05YRE5EN3VaRFpFQzR0WXJaTWNlYStnRERCRnlPMnllK2htN2N3Z1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjk4ODkwCWZpbGU65r6c5p6iIHYyXzIuMi4xX3g2NC1zZXR1cC5leGUKdUkzNUZnZkNSMllvYjBhODlHZVBUa3drSWE5Zmd3YS90Z1crMG5MSzFhZUM1NzA4YVQ5bVBEa1pSNGhVcHZVd293bXZPSW0wM2lNTkdERDY4bmZuQ3c9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.1/lanshu-v2_2.2.1_x64-setup.exe"
                                          }
                   }
 }
