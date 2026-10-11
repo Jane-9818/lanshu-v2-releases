@@ -1,11 +1,11 @@
 {
-    "version":  "2.1.7",
-    "notes":  "官方原文按官方排版和图片展示;白皮书按栏目筛选、按组折叠;新增直播工具、经营工具、规则变动通知;任务可一键/批量完成;界面和字体更精致",
-    "pub_date":  "2026-10-11T00:59:37Z",
+    "version":  "2.1.8",
+    "notes":  "日期框和其他输入框统一;大促日历手机版更紧凑,点开某天的卡片不再被底栏挡住;手机统一系统字体;自查和直播的标签不再被切掉;去掉重复标题和难懂的说明",
+    "pub_date":  "2026-10-11T02:24:11Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQTlrOTk3N2d2ZEhScHppV055cUdBSzlXWlQ0dm53UmJuN2FYWmxOMzdUSFh2Q2hldlkwSEpWMVliZXVveU5reFpxczRtSVZiY0FVcEgvTVczQ3ZONkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjgwMjA2CWZpbGU65r6c5p6iIHYyXzIuMS43X3g2NC1zZXR1cC5leGUKU0hSVEhKU0NNVHJiczZLVVNjNDRWdThZeU82Ull0bTJoYmR1a05WWkZLSW5hUWV0aUhVMFI4T292REhMQnBQTndiT1hieGpiNTNJSkxycEpqV21RRFE9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.1.7/lanshu-v2_2.1.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTWl1bWFsa2lFQTF4bnNVOVEyZzl5V0JwNmlpeSszbUd5RmpRb0RkZFZDSmdKUWtFWGVsdnZzTnNqcVRSamdOQmxnRHRKbGF5WkNqOHlhOWtDS1dQd2hPVDF1L2VpYVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjg1MzE3CWZpbGU65r6c5p6iIHYyXzIuMS44X3g2NC1zZXR1cC5leGUKVjVVTzFaK1piSWtIWXgrOFFiZXA0NlZMS2Z5MnlBVGh4ZHpHUjZWQ0FQMFdxeHVyOVB3b2tYNUZwaHZ4cU4ybXRSYXF3dDlvQWpaYytSK1QyVW9pQlE9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.1.8/lanshu-v2_2.1.8_x64-setup.exe"
                                          }
                   }
 }
