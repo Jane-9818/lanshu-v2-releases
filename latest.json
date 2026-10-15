@@ -1,11 +1,11 @@
 {
-    "version":  "2.2.4",
-    "notes":  "团队概览新增测验成绩(每日测验和新人测验);新建任务默认组内可见;负责人能看到所有任务;大促日历加「该备货了」提醒;规则影响清单打开更快;经营工具里的页面都有返回按钮;插件提示在壁纸上更清楚",
-    "pub_date":  "2026-10-15T20:06:26Z",
+    "version":  "2.2.5",
+    "notes":  "电脑版去掉返回键（手机版保留）",
+    "pub_date":  "2026-10-15T20:24:07Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZreFd1RDh4MnZmTlZaa0pkYTh5SnhEMXJ2YVdsaDVEbFJXZHorcTVLSmpzbm43WGFmaHNoNE5PVXlIUEZHVDhNOFR2M1l5OFVLeHBGc1dNcFdQbFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDk0NjU0CWZpbGU65r6c5p6iIHYyXzIuMi40X3g2NC1zZXR1cC5leGUKNlRpN2I4V1l4dWRoWWZZT1FGd0xRRStUcDVUK2JBVmQ4dTJXMnF1MVB3cjRXeVBhOWc3bDRXMG1XejJiZGJqdm9LcHFjNXlJSm9yWEM4cHNLVzg4Qmc9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.4/lanshu-v2_2.2.4_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2xNcFhCYm5IZ0g4djF1eUZwYUZjYndsMlRsS0lCeW5xR0RabTZWdUZVc3pFTG9XY2ZJM3d3UEpkOG5kOWFrU2djQllWdmZxTXliZ2xPZUJ0R0FmOGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDk1NzAwCWZpbGU65r6c5p6iIHYyXzIuMi41X3g2NC1zZXR1cC5leGUKY3ZQOXhJUHVWT0ljWkhjbWZyb216aGthR3M5K1A4K3BUTWNkZDUvVGUyeDJ5Tm90YTd5R3F4QXN0UmlBdVNKVjgvZWMvdTdUdmhmZHhJc2tleGhQQWc9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.5/lanshu-v2_2.2.5_x64-setup.exe"
                                          }
                   }
 }
