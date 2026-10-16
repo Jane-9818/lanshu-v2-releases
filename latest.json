@@ -1,11 +1,11 @@
 {
-    "version":  "2.2.8",
-    "notes":  "Task page: My tab shows the task list; cleaner merged rule-check rows; faster tab switching; ID detective blank paste box",
-    "pub_date":  "2026-10-16T06:48:18Z",
+    "version":  "2.2.9",
+    "notes":  "Fix: pasting screenshots (Ctrl+V) in AI chat and the appeal screenshot box; rule checks show only real members and the latest rule versions",
+    "pub_date":  "2026-10-16T07:52:58Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FjZm1MaWpwaElWTkx1c05nM2NqUkovL3FXeW1Nay80YUsvd1VNb1FhaXZRZjNycUxTTGtrVHRuM0x2R0hpYVlSQ0R4ai9ldzFwOUVwdXp6Q1BqcHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTMzMTYzCWZpbGU65r6c5p6iIHYyXzIuMi44X3g2NC1zZXR1cC5leGUKMkVaTjAvNkswMzhVeUJqZVlWenJ3UVNpNnpvVS9lUE9LU0IyVG96REwzdlBiZHZWK3o2QmZ2V015TUFwMFQ2V01sdzJEZitJTnd6VG5sRFRRUys3Qnc9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.8/lanshu-v2_2.2.8_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2c3c0hoNld0eWRXRUJ4ejlOdjYwa1pMMm9oajg1OEdzc3VzbmR3QUpycUJld0htWXNBOEFKb3JLQzN3eUJXZ3dIWEpOUjhsaG0zalgxVjhmN1E4T3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTM3MDQ4CWZpbGU65r6c5p6iIHYyXzIuMi45X3g2NC1zZXR1cC5leGUKZ2JIcTZyT1RJZTcyS2ZSQTJ3Q3pUdGIwQVhOQjROdlRWUXhmY0FWeEY0OVdzTHZXd3hmUjJ6ZnFXdWUyc1BFbGEyTnJ1WlZTNzBOUzl6bWpSb0FtRFE9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.9/lanshu-v2_2.2.9_x64-setup.exe"
                                          }
                   }
 }
