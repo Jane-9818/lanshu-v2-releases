@@ -1,11 +1,11 @@
 {
-    "version":  "2.2.7",
-    "notes":  "New sections; review analysis rename; screenshot upload/drag-drop; merged rule-check view",
-    "pub_date":  "2026-10-16T05:02:25Z",
+    "version":  "2.2.8",
+    "notes":  "Task page: My tab shows the task list; cleaner merged rule-check rows; faster tab switching; ID detective blank paste box",
+    "pub_date":  "2026-10-16T06:48:18Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2hJMVAxYkNjbXh2TEhGbUtaVFdqRjhtYjBtZDhFSURZQU42TWowMTlzUTk4YUxvV0JPcWUyWmlERVVISUNDYm5zaDVHZUg5NnIzUE9KckxvODJlaEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTI2ODEyCWZpbGU65r6c5p6iIHYyXzIuMi43X3g2NC1zZXR1cC5leGUKVURRbktrbVBhcWRCMHF2Sy9zQ2YxWitwejc1U1dlVUxCU3NjVXh1Nys2clFRTzduVjRJd2RleE9aVlBNVHdrZkRqalozRnp0ZnJYejVpd1d5aVlTQXc9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.7/lanshu-v2_2.2.7_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FjZm1MaWpwaElWTkx1c05nM2NqUkovL3FXeW1Nay80YUsvd1VNb1FhaXZRZjNycUxTTGtrVHRuM0x2R0hpYVlSQ0R4ai9ldzFwOUVwdXp6Q1BqcHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTMzMTYzCWZpbGU65r6c5p6iIHYyXzIuMi44X3g2NC1zZXR1cC5leGUKMkVaTjAvNkswMzhVeUJqZVlWenJ3UVNpNnpvVS9lUE9LU0IyVG96REwzdlBiZHZWK3o2QmZ2V015TUFwMFQ2V01sdzJEZitJTnd6VG5sRFRRUys3Qnc9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.8/lanshu-v2_2.2.8_x64-setup.exe"
                                          }
                   }
 }
