@@ -1,11 +1,11 @@
 {
-    "version":  "2.2.10",
-    "notes":  "Faster: rule-check overview loads in about a second, rules list builds 60 at a time, smoother scrolling on phones, fewer duplicate requests at start-up",
-    "pub_date":  "2026-10-16T10:08:34Z",
+    "version":  "2.2.11",
+    "notes":  "Faster rules white paper: the list downloads about 6x less data, rule details load when opened, search runs on the server",
+    "pub_date":  "2026-10-16T10:22:32Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3YrYXJMa2JnQTR0NEpZWkJTUjloWmJyREJ3NEVtNmFCbTU4cUd5WmZDRkl1VTdZeE8zM1NNN1V2T1hpODZ0ZDZ3M3QrL1ZNcHhkRW1TekRhUFZibmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTQ1MTg1CWZpbGU65r6c5p6iIHYyXzIuMi4xMF94NjQtc2V0dXAuZXhlCjIrOWRuckNONXE0YStCbnRza3JTN2w3MUh0ZlA0dkRZeVl5ZlFDQXBUbU04cUZFNjBKZG8rRGhyQ1d2dHBjUDlZajZ1OFdSbC9QQU9FZ0g3V0U2SERnPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.10/lanshu-v2_2.2.10_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2xXMWl3eUN0SVhabFc0OHRWZEhOY01MNkpGZUdoQXJHQUtudDVzNUIzTlptNGpqR2pMVlh3WUozSEtSNzdPaWVFT1VHNHg1YmtwdzZjRHErS09MendvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTQ2MDIyCWZpbGU65r6c5p6iIHYyXzIuMi4xMV94NjQtc2V0dXAuZXhlCnRGN2FZbzVXMVM4WktTTDc4RUI2a3NKMlNBR2hPRW1KeDdWTDBFd2tIY2FpdVhjeEd5VVRXNDlDT3AwV0g2RThCWG92RVM4L2FLSVhlQ2l1REZERkNBPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.11/lanshu-v2_2.2.11_x64-setup.exe"
                                          }
                   }
 }
