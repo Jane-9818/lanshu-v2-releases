@@ -1,0 +1,1 @@
+Task page: My tab shows the task list; cleaner merged rule-check rows; faster tab switching; ID detective blank paste box
