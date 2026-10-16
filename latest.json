@@ -1,11 +1,11 @@
 {
-    "version":  "2.2.5",
-    "notes":  "电脑版去掉返回键（手机版保留）",
-    "pub_date":  "2026-10-15T20:24:07Z",
+    "version":  "2.2.7",
+    "notes":  "New sections; review analysis rename; screenshot upload/drag-drop; merged rule-check view",
+    "pub_date":  "2026-10-16T05:02:25Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2xNcFhCYm5IZ0g4djF1eUZwYUZjYndsMlRsS0lCeW5xR0RabTZWdUZVc3pFTG9XY2ZJM3d3UEpkOG5kOWFrU2djQllWdmZxTXliZ2xPZUJ0R0FmOGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDk1NzAwCWZpbGU65r6c5p6iIHYyXzIuMi41X3g2NC1zZXR1cC5leGUKY3ZQOXhJUHVWT0ljWkhjbWZyb216aGthR3M5K1A4K3BUTWNkZDUvVGUyeDJ5Tm90YTd5R3F4QXN0UmlBdVNKVjgvZWMvdTdUdmhmZHhJc2tleGhQQWc9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.5/lanshu-v2_2.2.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2hJMVAxYkNjbXh2TEhGbUtaVFdqRjhtYjBtZDhFSURZQU42TWowMTlzUTk4YUxvV0JPcWUyWmlERVVISUNDYm5zaDVHZUg5NnIzUE9KckxvODJlaEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTI2ODEyCWZpbGU65r6c5p6iIHYyXzIuMi43X3g2NC1zZXR1cC5leGUKVURRbktrbVBhcWRCMHF2Sy9zQ2YxWitwejc1U1dlVUxCU3NjVXh1Nys2clFRTzduVjRJd2RleE9aVlBNVHdrZkRqalozRnp0ZnJYejVpd1d5aVlTQXc9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.7/lanshu-v2_2.2.7_x64-setup.exe"
                                          }
                   }
 }
