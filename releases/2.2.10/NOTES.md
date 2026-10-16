@@ -1,0 +1,1 @@
+Faster: rule-check overview loads in about a second, rules list builds 60 at a time, smoother scrolling on phones, fewer duplicate requests at start-up
