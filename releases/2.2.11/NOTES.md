@@ -1,0 +1,1 @@
+Faster rules white paper: the list downloads about 6x less data, rule details load when opened, search runs on the server
