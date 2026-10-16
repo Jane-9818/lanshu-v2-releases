@@ -1,11 +1,11 @@
 {
-    "version":  "2.2.12",
-    "notes":  "Team overview: new quiz summary table at the top (today, latest score, streak, onboarding levels, most-missed topics)",
-    "pub_date":  "2026-10-16T10:45:26Z",
+    "version":  "2.2.13",
+    "notes":  "Live tools redesigned by workflow (before / during / after the stream); new Live daily report: paste or upload the live dashboard screenshot, fill in host and products, and get a report with key data, highlights and what to improve",
+    "pub_date":  "2026-10-16T20:33:59Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FJRGhjdXJPU3QrTUM0OG90d05JTStyeWhJRzRxdDJSMXhDV0ovV0pkeGxjcWthNTZkcGxCUVdLNm5pNVNnR2hYU1BPbDNQNWZPdjBqaUY2Z1NFVnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTQ3Mzk3CWZpbGU65r6c5p6iIHYyXzIuMi4xMl94NjQtc2V0dXAuZXhlCnpnTDdJUWloZE8wVi95dURkQ25QK0JmWUQyaVYycDZCMVJubmhSZytoeUdLcFgzS09id2NmbzRqNHQ4dGkvdWRuMlZKM3UwVlNkcFlNTjJWWTAyQURRPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.12/lanshu-v2_2.2.12_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tyYkJyMUZ0cmRTQ2J5QXlodklCK0xZaUcrTEI3YlpQc3NtalhTcm9BQk51QlAweTZ2U1BPamN2MnQvRUQ3OC9PN2ZUTlpGbmZOTjRzb09aMExEV3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTgyNzEwCWZpbGU65r6c5p6iIHYyXzIuMi4xM194NjQtc2V0dXAuZXhlCnVQVllUcE1FdDN0UVZ3RnRJZmNlWTkzRC9iS2RYZkxsSDBSVzlhY0Z2L2MzMFR5ZnNyL2cvSVJzU1QzQWdpbUJyR0xBdVo1QkI5STBiSFZJNm1FdUR3PT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.13/lanshu-v2_2.2.13_x64-setup.exe"
                                          }
                   }
 }
