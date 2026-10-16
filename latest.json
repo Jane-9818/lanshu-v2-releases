@@ -1,11 +1,11 @@
 {
-    "version":  "2.2.11",
-    "notes":  "Faster rules white paper: the list downloads about 6x less data, rule details load when opened, search runs on the server",
-    "pub_date":  "2026-10-16T10:22:32Z",
+    "version":  "2.2.12",
+    "notes":  "Team overview: new quiz summary table at the top (today, latest score, streak, onboarding levels, most-missed topics)",
+    "pub_date":  "2026-10-16T10:45:26Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2xXMWl3eUN0SVhabFc0OHRWZEhOY01MNkpGZUdoQXJHQUtudDVzNUIzTlptNGpqR2pMVlh3WUozSEtSNzdPaWVFT1VHNHg1YmtwdzZjRHErS09MendvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTQ2MDIyCWZpbGU65r6c5p6iIHYyXzIuMi4xMV94NjQtc2V0dXAuZXhlCnRGN2FZbzVXMVM4WktTTDc4RUI2a3NKMlNBR2hPRW1KeDdWTDBFd2tIY2FpdVhjeEd5VVRXNDlDT3AwV0g2RThCWG92RVM4L2FLSVhlQ2l1REZERkNBPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.11/lanshu-v2_2.2.11_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FJRGhjdXJPU3QrTUM0OG90d05JTStyeWhJRzRxdDJSMXhDV0ovV0pkeGxjcWthNTZkcGxCUVdLNm5pNVNnR2hYU1BPbDNQNWZPdjBqaUY2Z1NFVnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTQ3Mzk3CWZpbGU65r6c5p6iIHYyXzIuMi4xMl94NjQtc2V0dXAuZXhlCnpnTDdJUWloZE8wVi95dURkQ25QK0JmWUQyaVYycDZCMVJubmhSZytoeUdLcFgzS09id2NmbzRqNHQ4dGkvdWRuMlZKM3UwVlNkcFlNTjJWWTAyQURRPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.12/lanshu-v2_2.2.12_x64-setup.exe"
                                          }
                   }
 }
