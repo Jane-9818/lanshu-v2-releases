@@ -1,0 +1,1 @@
+Fix: pasting screenshots (Ctrl+V) in AI chat and the appeal screenshot box; rule checks show only real members and the latest rule versions
