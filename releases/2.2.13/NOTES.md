@@ -1,0 +1,1 @@
+Live tools redesigned by workflow (before / during / after the stream); new Live daily report: paste or upload the live dashboard screenshot, fill in host and products, and get a report with key data, highlights and what to improve
