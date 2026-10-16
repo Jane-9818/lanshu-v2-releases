@@ -1,11 +1,11 @@
 {
-    "version":  "2.2.9",
-    "notes":  "Fix: pasting screenshots (Ctrl+V) in AI chat and the appeal screenshot box; rule checks show only real members and the latest rule versions",
-    "pub_date":  "2026-10-16T07:52:58Z",
+    "version":  "2.2.10",
+    "notes":  "Faster: rule-check overview loads in about a second, rules list builds 60 at a time, smoother scrolling on phones, fewer duplicate requests at start-up",
+    "pub_date":  "2026-10-16T10:08:34Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2c3c0hoNld0eWRXRUJ4ejlOdjYwa1pMMm9oajg1OEdzc3VzbmR3QUpycUJld0htWXNBOEFKb3JLQzN3eUJXZ3dIWEpOUjhsaG0zalgxVjhmN1E4T3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTM3MDQ4CWZpbGU65r6c5p6iIHYyXzIuMi45X3g2NC1zZXR1cC5leGUKZ2JIcTZyT1RJZTcyS2ZSQTJ3Q3pUdGIwQVhOQjROdlRWUXhmY0FWeEY0OVdzTHZXd3hmUjJ6ZnFXdWUyc1BFbGEyTnJ1WlZTNzBOUzl6bWpSb0FtRFE9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.9/lanshu-v2_2.2.9_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3YrYXJMa2JnQTR0NEpZWkJTUjloWmJyREJ3NEVtNmFCbTU4cUd5WmZDRkl1VTdZeE8zM1NNN1V2T1hpODZ0ZDZ3M3QrL1ZNcHhkRW1TekRhUFZibmdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTQ1MTg1CWZpbGU65r6c5p6iIHYyXzIuMi4xMF94NjQtc2V0dXAuZXhlCjIrOWRuckNONXE0YStCbnRza3JTN2w3MUh0ZlA0dkRZeVl5ZlFDQXBUbU04cUZFNjBKZG8rRGhyQ1d2dHBjUDlZajZ1OFdSbC9QQU9FZ0g3V0U2SERnPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.10/lanshu-v2_2.2.10_x64-setup.exe"
                                          }
                   }
 }
