@@ -1,0 +1,1 @@
+Redesigned Restock Advisor and Own-Store Negative Review pages (store data first, SKUs grouped by out of stock / under 14 days / campaign gap, review theme bars); upload or paste your own avatar; new Profile page to change your avatar, name and login email
