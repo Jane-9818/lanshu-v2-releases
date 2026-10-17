@@ -1,0 +1,1 @@
+Restock Advisor, Own-Store Negative Review and Creator pages now show each authorized store separately: store switcher at the top (remembers your choice), All Stores overview (out of stock / campaign gap / negative rate), and Restock Advisor can group SKUs by product; avatar upload fix
