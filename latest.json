@@ -1,11 +1,11 @@
 {
-    "version":  "2.2.14",
-    "notes":  "Redesigned Restock Advisor and Own-Store Negative Review pages (store data first, SKUs grouped by out of stock / under 14 days / campaign gap, review theme bars); upload or paste your own avatar; new Profile page to change your avatar, name and login email",
-    "pub_date":  "2026-10-17T15:06:05Z",
+    "version":  "2.2.15",
+    "notes":  "Restock Advisor, Own-Store Negative Review and Creator pages now show each authorized store separately: store switcher at the top (remembers your choice), All Stores overview (out of stock / campaign gap / negative rate), and Restock Advisor can group SKUs by product; avatar upload fix",
+    "pub_date":  "2026-10-17T17:48:17Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY20zSGhxbXRQczRhZ0FiaFRxUEVBTWc3RzJvSUVBS1ZJRGxudWpZbUJGVU9HdFBSc2hyT0UrdW02aVk1N1JUbUhzOFlyNlo4WVNxZ0ViWS84dVVDZ2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjQ5NDQwCWZpbGU65r6c5p6iIHYyXzIuMi4xNF94NjQtc2V0dXAuZXhlCmpMTWlURnRGSkFoNnNQZ3VCZDhsT1BjYmllUXZaSXI0b1kvVXp6WDFBc044VEJYZU5hMTNzVmxaYytOc0R1dEQvU295WE1DYVUxT1hXTGdlQi9nOURBPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.14/lanshu-v2_2.2.14_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2lBZVcwOU5JN1VKV2lhTWplTnIxeDBRdUtrYnVXclV3YmY5NkdJWVdRT1Z4ZDJWTmRwOGx3eHVrOHk0NnAwclFaOEJpS2NTcENVNFZRR1RoTFJWbWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjU5MTcxCWZpbGU65r6c5p6iIHYyXzIuMi4xNV94NjQtc2V0dXAuZXhlCjBLMENua3NaSVJxZktqa1Q4ZnY3V3JFcXBrb0plbHg3QUJRSXFUaCswV0w5TUR3ZDN0TE5WTkZuaGdBRXZ0WUVSYjNHclBqZ3c5eXU0bXpoQVlFUUJRPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.15/lanshu-v2_2.2.15_x64-setup.exe"
                                          }
                   }
 }
