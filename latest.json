@@ -1,11 +1,11 @@
 {
-    "version":  "2.2.13",
-    "notes":  "Live tools redesigned by workflow (before / during / after the stream); new Live daily report: paste or upload the live dashboard screenshot, fill in host and products, and get a report with key data, highlights and what to improve",
-    "pub_date":  "2026-10-16T20:33:59Z",
+    "version":  "2.2.14",
+    "notes":  "Redesigned Restock Advisor and Own-Store Negative Review pages (store data first, SKUs grouped by out of stock / under 14 days / campaign gap, review theme bars); upload or paste your own avatar; new Profile page to change your avatar, name and login email",
+    "pub_date":  "2026-10-17T15:06:05Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tyYkJyMUZ0cmRTQ2J5QXlodklCK0xZaUcrTEI3YlpQc3NtalhTcm9BQk51QlAweTZ2U1BPamN2MnQvRUQ3OC9PN2ZUTlpGbmZOTjRzb09aMExEV3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTgyNzEwCWZpbGU65r6c5p6iIHYyXzIuMi4xM194NjQtc2V0dXAuZXhlCnVQVllUcE1FdDN0UVZ3RnRJZmNlWTkzRC9iS2RYZkxsSDBSVzlhY0Z2L2MzMFR5ZnNyL2cvSVJzU1QzQWdpbUJyR0xBdVo1QkI5STBiSFZJNm1FdUR3PT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.13/lanshu-v2_2.2.13_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY20zSGhxbXRQczRhZ0FiaFRxUEVBTWc3RzJvSUVBS1ZJRGxudWpZbUJGVU9HdFBSc2hyT0UrdW02aVk1N1JUbUhzOFlyNlo4WVNxZ0ViWS84dVVDZ2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjQ5NDQwCWZpbGU65r6c5p6iIHYyXzIuMi4xNF94NjQtc2V0dXAuZXhlCmpMTWlURnRGSkFoNnNQZ3VCZDhsT1BjYmllUXZaSXI0b1kvVXp6WDFBc044VEJYZU5hMTNzVmxaYytOc0R1dEQvU295WE1DYVUxT1hXTGdlQi9nOURBPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.14/lanshu-v2_2.2.14_x64-setup.exe"
                                          }
                   }
 }
