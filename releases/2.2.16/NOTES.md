@@ -1,0 +1,1 @@
+New LANSHU logo: floating-island app icon and brush-calligraphy wordmark (sidebar, sign-in screen, AI Chat); Whitepaper filters (sales channel / business impact) are now two compact dropdowns on one line
