@@ -1,11 +1,11 @@
 {
-    "version":  "2.2.16",
-    "notes":  "New LANSHU logo: floating-island app icon and brush-calligraphy wordmark (sidebar, sign-in screen, AI Chat); Whitepaper filters (sales channel / business impact) are now two compact dropdowns on one line",
-    "pub_date":  "2026-10-18T06:03:19Z",
+    "version":  "2.2.17",
+    "notes":  "New Live Duration view next to Live Report (date range, shop and host filters, session list and total) with a shareable summary image; the app now refreshes less often in the background and catches up when you return to the window",
+    "pub_date":  "2026-10-19T17:42:34Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2hjZ0tYaVpVTXFGOUx5YTM0eU1aNUd4aEdkRDd0bldHZzd0OWF2a2lqOWdSTUZTR0xQWlBsZ1R3MDJWejRrYTIwdVc4NFpqQlN4bFFDZ1lTRUQ0S0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzAzMjcwCWZpbGU65r6c5p6iIHYyXzIuMi4xNl94NjQtc2V0dXAuZXhlCkV6RWJJUVlVbmkwK3dRUkdlM2RrTzluQzBCRkVkcW1rd25lSlgwaDBmYjRmTHlIMHBsTkFabFNRYjE2ZzJPeUYwTlBPdERxM2tVN1hINTBmMERJRkFBPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.16/lanshu-v2_2.2.16_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JmWHpiRjBLUWdhdnFlZUpTTU1jUURnN3IxY2RSQWYySjV1aFh3TGQzcTR3cGpJZ3hpNVhZM0o4SDI1bXpacHE1TzZGaGpIWXpZSDhsMm1RUmprZ2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDMxNjI4CWZpbGU65r6c5p6iIHYyXzIuMi4xN194NjQtc2V0dXAuZXhlCmJ1bjVBYjNQcWs0NmRpZktPYk04ZUQ0OE1BMjRpV3pqeUV3cWlUSlRjNVZ4ZHRxQWhDUnVYTWVDU2JYTHE0Vyt6SnJyUkw2NnJZMDh3c0MzUmdyZUR3PT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.17/lanshu-v2_2.2.17_x64-setup.exe"
                                          }
                   }
 }
