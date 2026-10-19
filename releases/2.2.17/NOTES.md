@@ -1,0 +1,1 @@
+New Live Duration view next to Live Report (date range, shop and host filters, session list and total) with a shareable summary image; the app now refreshes less often in the background and catches up when you return to the window
