@@ -1,19 +1,19 @@
 {
-    "version":  "2.2.18",
-    "notes":  "Redesigned Restock Plan: per-SKU daily rate since the last price change, promo multiplier range from past campaigns, planned promo price / lead time / safety days / traffic boost inputs, low-likely-high restock amounts and a latest order-by date",
-    "pub_date":  "2026-10-20T05:48:29Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3RvZEt4cTN1R0F6dktsTDg3N2ZrcHhYQWE0RGJtNmNycnIxWGlzU25udDR6K05TR05kUVF6RGlBdEx1Y2w2bE1FZ3YrTGtEbWpNblNJTHZMaEJiaUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDc1MTc4CWZpbGU65r6c5p6iIHYyXzIuMi4xOF94NjQtc2V0dXAuZXhlCmpBZ1htb1RlWkNWazBoR0lmdkV5dFJwSWdiY1dOblFpNDRuNVJLdzY0SERGTmluU0Y0aFJkQzc5anlxVm5JZnFPc3B5cWdDOE0yUk0zaXUyeVE1dUJ3PT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.18/lanshu-v2_2.2.18_x64-setup.exe"
-                                         },
-                      "darwin-aarch64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZSU3N4cFdDenNyRWhXYzBPaEk2anhUVnc4M2FCaFNkNmlka1lXaUh2alNzK3dna2VPdm9yeDRaWE9ob3Q5cFJkb2FqLzNIOFRUV0x3UkxWbVo0Y0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM1ODkyCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKcTFlNHpMMjIyVStMM3ZqUllsb2JVa1JmeStSZmhvY3I2VVFzdzVqbXpDTVhLRVFlR0thWnoyWDM0c1ZSWElITjRCZHhYR1NGVVVHTE54WnhFZk0wQmc9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.18/LANSHU-v2.2.18-macOS-universal.app.tar.gz"
-                                         },
-                      "darwin-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZSU3N4cFdDenNyRWhXYzBPaEk2anhUVnc4M2FCaFNkNmlka1lXaUh2alNzK3dna2VPdm9yeDRaWE9ob3Q5cFJkb2FqLzNIOFRUV0x3UkxWbVo0Y0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM1ODkyCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKcTFlNHpMMjIyVStMM3ZqUllsb2JVa1JmeStSZmhvY3I2VVFzdzVqbXpDTVhLRVFlR0thWnoyWDM0c1ZSWElITjRCZHhYR1NGVVVHTE54WnhFZk0wQmc9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.18/LANSHU-v2.2.18-macOS-universal.app.tar.gz"
-                                         }
-                  }
+  "version": "2.2.19",
+  "notes": "Live duration: add a missed session (补录一场) with date, shop, host and start/end time or minutes; counted in totals and the shared image. Mac builds now get in-app updates.",
+  "pub_date": "2026-10-20T22:50:34Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2hOZ2NFbjVQbEpnZXUrNG02WWNuSzlRdCtGWGdvUEpMOXRxRUh4RXZSVDByWW50WTYwcjdDWVIwMXVWNUpZVmgvbEx6bFhGaG9PUHBoWDRYZllzNWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM2NDAwCWZpbGU65r6c5p6iIHYyXzIuMi4xOV94NjQtc2V0dXAuZXhlCkpFWEJPekJvLzlMSnpySjEzcXQwQUllSUkrZkRORitFRllWR0F3alBoRDJLTmVib0hZK3ZtNC9yMGh4RjJvd0JxWC9WZnpOb0tYTGQ4NzJvbWFxU0NBPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.19/lanshu-v2_2.2.19_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2hjblpIcmhLWnNCTkxxZDA3ZDI4Wm9DN1lGckVhV0lGdXdWMml2cGsxcGZ0UElESEtVa0szMnBqZE9SL0oya2xUajUwRlc5cnVLSjdBZVM2NnoxcEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM2MzIyCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKL3A0OVcyNld4Lzc1Z3IrUi9zYlpoYTR6bXFlUDlqVWp3dUNWdWY1R3pzN05BbkRyRTlIZkc1MDZVZmRvenBHUVRLWlJuVjRiRTdzNEU5TVZ1VmVzQ1E9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.19/LANSHU-v2.2.19-macOS-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2hjblpIcmhLWnNCTkxxZDA3ZDI4Wm9DN1lGckVhV0lGdXdWMml2cGsxcGZ0UElESEtVa0szMnBqZE9SL0oya2xUajUwRlc5cnVLSjdBZVM2NnoxcEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM2MzIyCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKL3A0OVcyNld4Lzc1Z3IrUi9zYlpoYTR6bXFlUDlqVWp3dUNWdWY1R3pzN05BbkRyRTlIZkc1MDZVZmRvenBHUVRLWlJuVjRiRTdzNEU5TVZ1VmVzQ1E9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.19/LANSHU-v2.2.19-macOS-universal.app.tar.gz"
+    }
+  }
 }
