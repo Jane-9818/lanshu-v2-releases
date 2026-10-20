@@ -1,0 +1,1 @@
+Live duration: add a missed session (补录一场) with date, shop, host and start/end time or minutes; counted in totals and the shared image. Mac builds now get in-app updates.
