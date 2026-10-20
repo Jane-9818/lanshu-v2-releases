@@ -1,0 +1,1 @@
+Live duration: select several shops to combine totals and the shared image; add a missed session by uploading live dashboard screenshots (auto-read date, shop, times, duration).
