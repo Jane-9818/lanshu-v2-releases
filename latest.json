@@ -1,11 +1,11 @@
 {
-    "version":  "2.2.17",
-    "notes":  "New Live Duration view next to Live Report (date range, shop and host filters, session list and total) with a shareable summary image; the app now refreshes less often in the background and catches up when you return to the window",
-    "pub_date":  "2026-10-19T17:42:34Z",
+    "version":  "2.2.18",
+    "notes":  "Redesigned Restock Plan: per-SKU daily rate since the last price change, promo multiplier range from past campaigns, planned promo price / lead time / safety days / traffic boost inputs, low-likely-high restock amounts and a latest order-by date",
+    "pub_date":  "2026-10-20T05:48:29Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JmWHpiRjBLUWdhdnFlZUpTTU1jUURnN3IxY2RSQWYySjV1aFh3TGQzcTR3cGpJZ3hpNVhZM0o4SDI1bXpacHE1TzZGaGpIWXpZSDhsMm1RUmprZ2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDMxNjI4CWZpbGU65r6c5p6iIHYyXzIuMi4xN194NjQtc2V0dXAuZXhlCmJ1bjVBYjNQcWs0NmRpZktPYk04ZUQ0OE1BMjRpV3pqeUV3cWlUSlRjNVZ4ZHRxQWhDUnVYTWVDU2JYTHE0Vyt6SnJyUkw2NnJZMDh3c0MzUmdyZUR3PT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.17/lanshu-v2_2.2.17_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3RvZEt4cTN1R0F6dktsTDg3N2ZrcHhYQWE0RGJtNmNycnIxWGlzU25udDR6K05TR05kUVF6RGlBdEx1Y2w2bE1FZ3YrTGtEbWpNblNJTHZMaEJiaUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDc1MTc4CWZpbGU65r6c5p6iIHYyXzIuMi4xOF94NjQtc2V0dXAuZXhlCmpBZ1htb1RlWkNWazBoR0lmdkV5dFJwSWdiY1dOblFpNDRuNVJLdzY0SERGTmluU0Y0aFJkQzc5anlxVm5JZnFPc3B5cWdDOE0yUk0zaXUyeVE1dUJ3PT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.18/lanshu-v2_2.2.18_x64-setup.exe"
                                          }
                   }
 }
