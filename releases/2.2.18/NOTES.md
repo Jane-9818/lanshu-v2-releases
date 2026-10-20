@@ -1,0 +1,1 @@
+Redesigned Restock Plan: per-SKU daily rate since the last price change, promo multiplier range from past campaigns, planned promo price / lead time / safety days / traffic boost inputs, low-likely-high restock amounts and a latest order-by date
