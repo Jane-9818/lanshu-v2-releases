@@ -1,0 +1,1 @@
+Live tools grouped list; new host work hours (shift split, double read, save + change log, video +15 min); daily report key metrics highlighted.
