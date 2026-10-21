@@ -1,0 +1,1 @@
+Shop accounts: card menu (add / edit shop / edit account / delete card) and cleaner category tabs.
