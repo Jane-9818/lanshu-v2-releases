@@ -1,19 +1,19 @@
 {
-  "version": "2.2.24",
-  "notes": "Shop accounts: card menu (add / edit shop / edit account / delete card) and cleaner category tabs.",
-  "pub_date": "2026-10-21T03:52:12Z",
+  "version": "2.2.25",
+  "notes": "Shop accounts: rename a whole card (all accounts and card info move together; same-name cards can be merged after confirming).",
+  "pub_date": "2026-10-21T04:18:59Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY29kMFBpczdUM2hheFl6Qk1rWUhwWTdjWWpxR1lSUWJjcWRqM3F6d3loaWFVejhWSUovaW9NeFZETnhUQ1pnNlJEQU9mZkYyaERqYVpUTFd4c1NMdWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTU0NTU3CWZpbGU65r6c5p6iIHYyXzIuMi4yNF94NjQtc2V0dXAuZXhlCk5hTVl0alMvMnVsbUFXWDd0U2d4Znc2dHR5VVNwSkJ0L1ZvNGJlNHIyWlRRQVpyc1QwcENiWXZkcG5MMHhwZUphWllSRzBNN0NrbEM1dFRRNTB3UUJnPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.24/lanshu-v2_2.2.24_x64-setup.exe"
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.25/lanshu-v2_2.2.25_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2luc0Y1ajJQK1hSZ2pNOU1IT0REZ0Znemp1eTFPM0ZIU1FzVFlrcFhRQWNOWlhrOElZZ1RZRlpDN216QTN2YkNNM1VoMTJjbEhheGQ4UFFpUWJUd1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTU2MTQzCWZpbGU65r6c5p6iIHYyXzIuMi4yNV94NjQtc2V0dXAuZXhlCm9RZFQ5MmdQejl3d0lNeTJPWGFteW1vVXdDRTJJejA5bm9CL2FKd3RsYW9CNTFsWmQyUkVDUW1nazFZM0FDMTVpMGJSN213NmsvNDk0emFGeVJlSURnPT0K"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY29ucmxjQUs1dXZpbzQvZXBqUnJPVE9LWGFuNnB3b1o2QW4yUUI4RFlDT090SG1FVVZWNmdQdy8rU1E2anVTWnZRbXRDcERXUW1tZk4wWjVUeXRzZXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTU0NTg1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKaXRkSXViN29CMFZsUnU0VGpESXhDcEVhbytSb205USswTXZyL2VuNDBuMjl6Q1hpWVVDWUlBbFVENy8wc3B3RksxdXhoY29MRVZXaW9lL0dvSCtsQlE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.24/LANSHU-v2.2.24-macOS-universal.app.tar.gz"
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.25/LANSHU-v2.2.25-macOS-universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY253T0dDUjBhNU90ekNZWS9XT09NMWpPVXZ6U0FLaWhyRmZBcXBmVXNNRURkVktGckZ1Y2pVYzNJWWxGNkRBTVNoV0ZRdU5KRG5QM2w1NFhPQVEvK3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTU2MTc3CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKVEVHdlNhVjZZZHVMbDNVMksvQk04ckZJdEliK3FPTWl6Nzd3NTRWejloYUhkdjl6WG02SzM5L0d1dDZiZ3RuVWhGZGNUYTNteUt1UEtmTng2Q3VEQ2c9PQo="
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY29ucmxjQUs1dXZpbzQvZXBqUnJPVE9LWGFuNnB3b1o2QW4yUUI4RFlDT090SG1FVVZWNmdQdy8rU1E2anVTWnZRbXRDcERXUW1tZk4wWjVUeXRzZXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTU0NTg1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKaXRkSXViN29CMFZsUnU0VGpESXhDcEVhbytSb205USswTXZyL2VuNDBuMjl6Q1hpWVVDWUlBbFVENy8wc3B3RksxdXhoY29MRVZXaW9lL0dvSCtsQlE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.24/LANSHU-v2.2.24-macOS-universal.app.tar.gz"
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.25/LANSHU-v2.2.25-macOS-universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY253T0dDUjBhNU90ekNZWS9XT09NMWpPVXZ6U0FLaWhyRmZBcXBmVXNNRURkVktGckZ1Y2pVYzNJWWxGNkRBTVNoV0ZRdU5KRG5QM2w1NFhPQVEvK3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTU2MTc3CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKVEVHdlNhVjZZZHVMbDNVMksvQk04ckZJdEliK3FPTWl6Nzd3NTRWejloYUhkdjl6WG02SzM5L0d1dDZiZ3RuVWhGZGNUYTNteUt1UEtmTng2Q3VEQ2c9PQo="
     }
   }
 }
