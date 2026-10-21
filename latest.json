@@ -1,19 +1,19 @@
 {
-  "version": "2.2.26",
-  "notes": "直播工具改为分组列表；新增主播工时（换班拆分、两次识别、确认保存+修改记录、拍视频+15分钟）；日报重点标出进房率/平均停留时长/转化率。",
-  "pub_date": "2026-10-21T22:19:27Z",
+  "version": "2.2.27",
+  "notes": "直播日报：大屏数据卡片、直播间策略写得更具体、可导出 PDF、填写内容不丢；品牌直播时长可上传日报 PDF 补录；团队概览按团队分组；团队管理员可以给新人测验出题。",
+  "pub_date": "2026-10-21T23:42:08Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3I0TjIxb01iVGlucGtLaHpEZFFoY0dDUGlTdlFra1o3Z0t3UHJxMGdUVVc0cVB0bFl2Y0RNSWpsc3Z0bHFYQ1NEMTBnbUMwSGRkUFVJRmsxWTlJRUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjIwNzg5CWZpbGU65r6c5p6iIHYyXzIuMi4yNl94NjQtc2V0dXAuZXhlClNLWC9RUFQwa1JKVHVVcHFyK0J1bEVRMThzWGZyZzM2TGYvMGt2SGJOSW5NTnNoYTlTQXE0ZkszTWo5UHlCT2M0TFc1VjJxeDJjc2cwcS95WTN4bERBPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.26/lanshu-v2_2.2.26_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3NiTFBSbWxJMDRHUUtBQU9MQWZKUlRaeGJGbGVIWGNoTGFBNWsydWdvUzhYUkZHVU0renljdmU0RkZjVWFqWUxKUVlxUytWVDJ0elRod0FGdURMakEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI1Nzg1CWZpbGU65r6c5p6iIHYyXzIuMi4yN194NjQtc2V0dXAuZXhlCmFQUENCZTFXOFpLSnM1RDBpRGJHcFBST0lpekR6QmpzQkhVdXdneUNqQzhmQkFwcjZEN0c2VlpkZUs1cVlIUDh3enArOXYxZFFJeU9GSFptY2NsUkRnPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.27/lanshu-v2_2.2.27_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3EwWndaQXE3Vzd0djRjNGszait0akpaRnlsZThUNnJLKzJMaXlXVFpyRzNCNTBuREQzYktiTEZyVk5EVkhFbmNEbFJLTGMrSDlIQk81TGVBZmdnZ0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjIxMDg2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKZTZIanRPQzIxMFdKKy96bENmbEdXdjErZDFDQlRwdmV6cGRNcnQ3RHZtdTFzc0ZocXpNNHozVHFPRDFTZXk5dlpLeTVhSEFGWG15blJXNW50MDBTQnc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.26/LANSHU-v2.2.26-macOS-universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZsdGMycmlINXArMDRnRDF6S1hvVHFkY3pwUk1VSjcrT1NIN0thS1ZQbVR0ZC9OWUNsQ3FvK08zU2hObktBVVpucmFoTi94TTVtYmtrWGNUTVdJMndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI2MDQyCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKUHU4c0ZNUGxXWnBQYWdBenYwaU9mZDlUT3ptMDB0bnB1cDFSa1pRc1lQTGZ6aFgxRzFrbmZoTFlQWitGQVJPTy9lb3Y0YmNjb3M5S21KMVJBUFJzQUE9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.27/LANSHU-v2.2.27-macOS-universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3EwWndaQXE3Vzd0djRjNGszait0akpaRnlsZThUNnJLKzJMaXlXVFpyRzNCNTBuREQzYktiTEZyVk5EVkhFbmNEbFJLTGMrSDlIQk81TGVBZmdnZ0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjIxMDg2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKZTZIanRPQzIxMFdKKy96bENmbEdXdjErZDFDQlRwdmV6cGRNcnQ3RHZtdTFzc0ZocXpNNHozVHFPRDFTZXk5dlpLeTVhSEFGWG15blJXNW50MDBTQnc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.26/LANSHU-v2.2.26-macOS-universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZsdGMycmlINXArMDRnRDF6S1hvVHFkY3pwUk1VSjcrT1NIN0thS1ZQbVR0ZC9OWUNsQ3FvK08zU2hObktBVVpucmFoTi94TTVtYmtrWGNUTVdJMndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI2MDQyCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKUHU4c0ZNUGxXWnBQYWdBenYwaU9mZDlUT3ptMDB0bnB1cDFSa1pRc1lQTGZ6aFgxRzFrbmZoTFlQWitGQVJPTy9lb3Y0YmNjb3M5S21KMVJBUFJzQUE9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.27/LANSHU-v2.2.27-macOS-universal.app.tar.gz"
     }
   }
 }
