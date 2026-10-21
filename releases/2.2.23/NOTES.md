@@ -1,0 +1,1 @@
+Shop accounts: bulk delete (select cards or accounts, confirm before deleting) and a more compact layout.
