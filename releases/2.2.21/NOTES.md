@@ -1,0 +1,1 @@
+Shop accounts (team logins, encrypted, reveal/copy with log); live duration image preview fixed; rule page no longer opens by itself; daily report shows dashboard screenshots and copies them with the text.
