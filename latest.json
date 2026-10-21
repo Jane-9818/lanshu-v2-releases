@@ -1,19 +1,19 @@
 {
-  "version": "2.2.23",
-  "notes": "Shop accounts: bulk delete (select cards or accounts, confirm before deleting) and a more compact layout.",
-  "pub_date": "2026-10-21T03:26:42Z",
+  "version": "2.2.24",
+  "notes": "Shop accounts: card menu (add / edit shop / edit account / delete card) and cleaner category tabs.",
+  "pub_date": "2026-10-21T03:52:12Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2t4SzEybWNWdTZHbTZrMVNZVWVzbmFaUndGSk5tUGtQQlAvL3BldmJDaUVzaHhxbnVrM0FyNU4wOCtjYzQzYk5jdG5RUjNjOTZTVmxzbm80Z3dGdVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTUzMDIzCWZpbGU65r6c5p6iIHYyXzIuMi4yM194NjQtc2V0dXAuZXhlCi9jaDQ0cFEyU052OWdrODRBY1NYTXZ1N25pLzJ1bEFXV0Z6MVFiaUVWd3A5N0hPY2lUT3JGRjhLckNwV1l3dTAyVEk4YnVMMlB2amxxdmcxYlhHUERBPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.23/lanshu-v2_2.2.23_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY29kMFBpczdUM2hheFl6Qk1rWUhwWTdjWWpxR1lSUWJjcWRqM3F6d3loaWFVejhWSUovaW9NeFZETnhUQ1pnNlJEQU9mZkYyaERqYVpUTFd4c1NMdWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTU0NTU3CWZpbGU65r6c5p6iIHYyXzIuMi4yNF94NjQtc2V0dXAuZXhlCk5hTVl0alMvMnVsbUFXWDd0U2d4Znc2dHR5VVNwSkJ0L1ZvNGJlNHIyWlRRQVpyc1QwcENiWXZkcG5MMHhwZUphWllSRzBNN0NrbEM1dFRRNTB3UUJnPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.24/lanshu-v2_2.2.24_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3M0dGJQQ3V6TDljMFVreGxFckMxT0hMRXJ6bno2aU9YaExaZXdTZGZjY0F5MzZqV2o2ZisrcEthZGh0ZnZ5ME5mZDRjaWpQQ2tMZzVHdDNNZ3dCdUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTUzMDI2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKcmV6NWZxT3VsTUhXSGh3bTM5cDlFWGIrL3ovdTdIMzJYZGszSWZVbGJPclZFREU2QndOUlJSWEJwc0ZiaGpsZDdVamJPMkl6REg5aU9OWktUWldYREE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.23/LANSHU-v2.2.23-macOS-universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY29ucmxjQUs1dXZpbzQvZXBqUnJPVE9LWGFuNnB3b1o2QW4yUUI4RFlDT090SG1FVVZWNmdQdy8rU1E2anVTWnZRbXRDcERXUW1tZk4wWjVUeXRzZXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTU0NTg1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKaXRkSXViN29CMFZsUnU0VGpESXhDcEVhbytSb205USswTXZyL2VuNDBuMjl6Q1hpWVVDWUlBbFVENy8wc3B3RksxdXhoY29MRVZXaW9lL0dvSCtsQlE9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.24/LANSHU-v2.2.24-macOS-universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3M0dGJQQ3V6TDljMFVreGxFckMxT0hMRXJ6bno2aU9YaExaZXdTZGZjY0F5MzZqV2o2ZisrcEthZGh0ZnZ5ME5mZDRjaWpQQ2tMZzVHdDNNZ3dCdUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTUzMDI2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKcmV6NWZxT3VsTUhXSGh3bTM5cDlFWGIrL3ovdTdIMzJYZGszSWZVbGJPclZFREU2QndOUlJSWEJwc0ZiaGpsZDdVamJPMkl6REg5aU9OWktUWldYREE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.23/LANSHU-v2.2.23-macOS-universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY29ucmxjQUs1dXZpbzQvZXBqUnJPVE9LWGFuNnB3b1o2QW4yUUI4RFlDT090SG1FVVZWNmdQdy8rU1E2anVTWnZRbXRDcERXUW1tZk4wWjVUeXRzZXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTU0NTg1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKaXRkSXViN29CMFZsUnU0VGpESXhDcEVhbytSb205USswTXZyL2VuNDBuMjl6Q1hpWVVDWUlBbFVENy8wc3B3RksxdXhoY29MRVZXaW9lL0dvSCtsQlE9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.24/LANSHU-v2.2.24-macOS-universal.app.tar.gz"
     }
   }
 }
