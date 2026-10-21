@@ -1,0 +1,1 @@
+Shop accounts: one card per shop, four tabs (shops / agencies / websites / payment accounts), editable operations owner on each shop card.
