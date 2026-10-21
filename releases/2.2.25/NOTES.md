@@ -1,0 +1,1 @@
+Shop accounts: rename a whole card (all accounts and card info move together; same-name cards can be merged after confirming).
