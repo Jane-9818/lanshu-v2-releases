@@ -1,19 +1,19 @@
 {
-  "version": "2.2.20",
-  "notes": "Live duration: select several shops to combine totals and the shared image; add a missed session by uploading live dashboard screenshots (auto-read date, shop, times, duration).",
-  "pub_date": "2026-10-20T23:19:58Z",
+  "version": "2.2.21",
+  "notes": "Shop accounts (team logins, encrypted, reveal/copy with log); live duration image preview fixed; rule page no longer opens by itself; daily report shows dashboard screenshots and copies them with the text.",
+  "pub_date": "2026-10-21T01:02:45Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3I1UUNKbkZlZlZ2UlF0QnpXYXhwdCtheVhEYlVmU0k1SndOVzdLTGtzS1RseW5tZnlvQlZaQVF2R1VDemJJSzdwem9WQ3VrL0ZlTSt1N3liY0QxTUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM4MjA1CWZpbGU65r6c5p6iIHYyXzIuMi4yMF94NjQtc2V0dXAuZXhlClZRd3UySHdUMDF6bGJlUFpyVUNKN0NEbS92bk9ZOFZZTkFrc0kyVGJmWVRTMDBiQk12ZStXZThVcm5wZ3pYUFNxVnhsRHBNaDl5WFJUTkdGNEl6YUJRPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.20/lanshu-v2_2.2.20_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY29IVkVmWlA2bldQN2F2VVBNRE81NzkxdjRBQitxd1I5eG5tVmdON0hWZ1UzZFRsRTh2cENIckZEMkNaVkUzZGhlaTJ3cTVtekZ3eDFhNTRYUHRDdFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTQ0Mjc1CWZpbGU65r6c5p6iIHYyXzIuMi4yMV94NjQtc2V0dXAuZXhlCklHMGM2bTB3cDRhRDhIeUNtak9CQjhXekx6WDJZdXBuNzBJb0ZzbWw3TkwvWUh0MHI2cm1OcWs0QkJ4UlFiYzJheTFwMHJmZU1XNDc3QlFZQkE1MkFRPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.21/lanshu-v2_2.2.21_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3N0dzltblRWSTJLOHZXSmZQZG1CSFRMWmRBUFlEZnRxNVVFSkFHSUZNbFIyRmpDVWVHY0FucjhBTzJzVGRsR21jYlpwWHNITW5hUk5DaTNEaU9wY3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM4MTYzCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKM0prcXowakJ1dHhJK0hYVEVHVnRxM2N5U1dsUWd3bW5wZ3hYVTVYRlMzMkJYTHYvSElGTzFPVk9EemI2eDJaVTdTTEo0b2VqSGV1bEI3aWRkVU5xQnc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.20/LANSHU-v2.2.20-macOS-universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2hzMlhhSEhRNjE4MEVTNndlTzkvZEkzVUVyK1FFY2VEajloMmtKUHlMNVFCYVNNMlU0cmR5dE9NM3BLdUhOOEQzdFFkdTU4andjUDdZNXd3Z1oxalFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTQ0MjQ2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKd054bmtOQTdJWW5Yd25QbTBjRHZwOXV4QjUvRTRNZ3BjUGkrN2Q4aE5ySEdERDUzRWwrM2t4QjYrZVlTdEtlQjE4Y2ExdTZmbkwxQ2k5RWVYV09jQmc9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.21/LANSHU-v2.2.21-macOS-universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3N0dzltblRWSTJLOHZXSmZQZG1CSFRMWmRBUFlEZnRxNVVFSkFHSUZNbFIyRmpDVWVHY0FucjhBTzJzVGRsR21jYlpwWHNITW5hUk5DaTNEaU9wY3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTM4MTYzCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKM0prcXowakJ1dHhJK0hYVEVHVnRxM2N5U1dsUWd3bW5wZ3hYVTVYRlMzMkJYTHYvSElGTzFPVk9EemI2eDJaVTdTTEo0b2VqSGV1bEI3aWRkVU5xQnc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.20/LANSHU-v2.2.20-macOS-universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2hzMlhhSEhRNjE4MEVTNndlTzkvZEkzVUVyK1FFY2VEajloMmtKUHlMNVFCYVNNMlU0cmR5dE9NM3BLdUhOOEQzdFFkdTU4andjUDdZNXd3Z1oxalFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTQ0MjQ2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKd054bmtOQTdJWW5Yd25QbTBjRHZwOXV4QjUvRTRNZ3BjUGkrN2Q4aE5ySEdERDUzRWwrM2t4QjYrZVlTdEtlQjE4Y2ExdTZmbkwxQ2k5RWVYV09jQmc9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.21/LANSHU-v2.2.21-macOS-universal.app.tar.gz"
     }
   }
 }
