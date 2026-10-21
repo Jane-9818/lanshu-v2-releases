@@ -1,0 +1,1 @@
+Daily report: big-screen data cards, more concrete live-room strategy, export PDF, inputs kept; brand live hours from daily-report PDF; team overview grouped by team; team admins can write their own quiz questions.
