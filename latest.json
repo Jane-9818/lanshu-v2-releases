@@ -1,19 +1,19 @@
 {
-  "version": "2.2.28",
-  "notes": "Live daily report: optional auction sales sheet with per-product summary, team-shared expected prices and advice; promo calendar redesigned (top 5 deadlines, long-running programs folded, max 3 per week).",
-  "pub_date": "2026-10-22T00:43:20Z",
+  "version": "2.2.29",
+  "notes": "Live duration page now counts by live account handle: filter, session list and the summary image show the account; manual and PDF entries ask for the handle.",
+  "pub_date": "2026-10-22T01:27:09Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FIUUNiQ3lmS3I0T3FyczExeDVRVEFJU1ZnT2g2aTY2RUVPb1QxTkh6amFVMUhOMGp3TldmSXVJbVFiZVpuUk1XdlYvZFBSWjdZN0xHQUpZOXV4WEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI5NjI2CWZpbGU65r6c5p6iIHYyXzIuMi4yOF94NjQtc2V0dXAuZXhlCmRScE1BYTVadDdUQWJ4QjNVam1aNFBpN1B0R2o0OFRPYTZhdzVqUGpUZElibk1UdGtlbUg5U1Z4NHJwdFd2TlZYbkorOEJ0Y2ZqNDVENEdWZ2MrMkRBPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.28/lanshu-v2_2.2.28_x64-setup.exe"
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.29/lanshu-v2_2.2.29_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2pjaGZtZjZNbUtPODc0SUNRN2R3UjZ0NFBVUkpQbU1ML2lrKzJQMExwLzBxLzlJNWk5Y3RQMDZ1RFVTQ0VCVEsrOUZjc1o1bkZGd1YvcmV4bDhpcVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjMyMjMyCWZpbGU65r6c5p6iIHYyXzIuMi4yOV94NjQtc2V0dXAuZXhlCjFrV0JDRFllU2VMRVJWVUVvdGpNd2xCbTQ2NGhkdW5Cb0ZUY2lERFc5K2NNK0g2VFBpK0M1bHovc2RpbTg5MEpMYmh6a0ZHSGR1UDh3ZzgwZi9LSEJBPT0K"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JJTnNWOXIzclNPNERTakZwOTBaaU1NQk04LzlqbHIyVy9WUFNlQ2VaV2ozWnJkUmYzSWZGRER1c2tpTFFkV0xITTlIQVpxQ0hOSVZCbU93NDJFM1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI5MjM4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKOTRONWFSOWFoWFFDRXExVm5XSHIwUXBVSWpNN2dWdG16UVZJcGJ2NmxSTENmc0ZTTThGTjY5T2hFcjlaSWRCOEhCSmVQNVhVa1U0dlBhVjVpQ2ZoQVE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.28/LANSHU-v2.2.28-macOS-universal.app.tar.gz"
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.29/LANSHU-v2.2.29-macOS-universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JkRWVkYkZFVEJxNjQzNVo1V3E5WDd6UGw5MGJVK1kvYVY4OHJvc1ZtQSs3YW9PeFhvcjNJVzNyYUFESWttNXkrRW5EQkNoZzZpcGt2bXp2bDBuSkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjMyMjU0CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKckUzYjFGRGZ4em9qcVhTaEhrYTBzdnRkSXlTYTBSMWRleEFjbzJmeHlZY29RdHJPSkVOdm9GS3FFdWVrd1JmaTZGRTV3RmpxZEMzNk8zZWt2Vk52Q0E9PQo="
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JJTnNWOXIzclNPNERTakZwOTBaaU1NQk04LzlqbHIyVy9WUFNlQ2VaV2ozWnJkUmYzSWZGRER1c2tpTFFkV0xITTlIQVpxQ0hOSVZCbU93NDJFM1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI5MjM4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKOTRONWFSOWFoWFFDRXExVm5XSHIwUXBVSWpNN2dWdG16UVZJcGJ2NmxSTENmc0ZTTThGTjY5T2hFcjlaSWRCOEhCSmVQNVhVa1U0dlBhVjVpQ2ZoQVE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.28/LANSHU-v2.2.28-macOS-universal.app.tar.gz"
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.29/LANSHU-v2.2.29-macOS-universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JkRWVkYkZFVEJxNjQzNVo1V3E5WDd6UGw5MGJVK1kvYVY4OHJvc1ZtQSs3YW9PeFhvcjNJVzNyYUFESWttNXkrRW5EQkNoZzZpcGt2bXp2bDBuSkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjMyMjU0CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKckUzYjFGRGZ4em9qcVhTaEhrYTBzdnRkSXlTYTBSMWRleEFjbzJmeHlZY29RdHJPSkVOdm9GS3FFdWVrd1JmaTZGRTV3RmpxZEMzNk8zZWt2Vk52Q0E9PQo="
     }
   }
 }
