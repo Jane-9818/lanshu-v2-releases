@@ -1,19 +1,19 @@
 {
-  "version": "2.2.29",
-  "notes": "Live duration page now counts by live account handle: filter, session list and the summary image show the account; manual and PDF entries ask for the handle.",
-  "pub_date": "2026-10-22T01:27:09Z",
+  "version": "2.2.30",
+  "notes": "Live duration summary image: each session is a roomy two-line card with the full account handle; long lists no longer get cramped and the footnote is no longer cut.",
+  "pub_date": "2026-10-22T01:47:34Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.29/lanshu-v2_2.2.29_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2pjaGZtZjZNbUtPODc0SUNRN2R3UjZ0NFBVUkpQbU1ML2lrKzJQMExwLzBxLzlJNWk5Y3RQMDZ1RFVTQ0VCVEsrOUZjc1o1bkZGd1YvcmV4bDhpcVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjMyMjMyCWZpbGU65r6c5p6iIHYyXzIuMi4yOV94NjQtc2V0dXAuZXhlCjFrV0JDRFllU2VMRVJWVUVvdGpNd2xCbTQ2NGhkdW5Cb0ZUY2lERFc5K2NNK0g2VFBpK0M1bHovc2RpbTg5MEpMYmh6a0ZHSGR1UDh3ZzgwZi9LSEJBPT0K"
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.30/lanshu-v2_2.2.30_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2hDVHRTVGJPTlU1RmVhNUhwTDVQUTdBeEVVQzJyTVNlTVpIRTg5aGVadjdERUI0MkZlMjNUcW9KblZUS3ZmK3lBNlJjQWNnR2VQaWdpcm92QTA2N0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjMzNDg3CWZpbGU65r6c5p6iIHYyXzIuMi4zMF94NjQtc2V0dXAuZXhlCkhESWlLMG9raEdacStBOTA4R3BTUTNiM0V6bDgvb3V2VzM3RU4zcThHU1plOEFicWdOb29hUm1KelVIQlR5eFBIWWlndVBjaUVRSkRJWDZoUENTbEJRPT0K"
     },
     "darwin-aarch64": {
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.29/LANSHU-v2.2.29-macOS-universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JkRWVkYkZFVEJxNjQzNVo1V3E5WDd6UGw5MGJVK1kvYVY4OHJvc1ZtQSs3YW9PeFhvcjNJVzNyYUFESWttNXkrRW5EQkNoZzZpcGt2bXp2bDBuSkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjMyMjU0CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKckUzYjFGRGZ4em9qcVhTaEhrYTBzdnRkSXlTYTBSMWRleEFjbzJmeHlZY29RdHJPSkVOdm9GS3FFdWVrd1JmaTZGRTV3RmpxZEMzNk8zZWt2Vk52Q0E9PQo="
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.30/LANSHU-v2.2.30-macOS-universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3NHMTdjSFBiRXFrNjUvL0xueC9FdkZodUVMNTl6Mkt5WW5lcFZLUUhNTVNBMzBNeUhzaDlaMENCcFYzbkNaMVB6MnZuUjQzcVRXWU1BSTRqbzcyaUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjMzNTEwCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKNGxhcGRkVHZab0d3Mnc1cTEzSHNnQmpSZm9CdFU3UUtIdHdiU1I0aUNadEs4cnhiMzY3dDJEMGthSWRmK0kzUERVZVZySGNPdFczamxqVk9ZM2wzRFE9PQo="
     },
     "darwin-x86_64": {
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.29/LANSHU-v2.2.29-macOS-universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JkRWVkYkZFVEJxNjQzNVo1V3E5WDd6UGw5MGJVK1kvYVY4OHJvc1ZtQSs3YW9PeFhvcjNJVzNyYUFESWttNXkrRW5EQkNoZzZpcGt2bXp2bDBuSkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjMyMjU0CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKckUzYjFGRGZ4em9qcVhTaEhrYTBzdnRkSXlTYTBSMWRleEFjbzJmeHlZY29RdHJPSkVOdm9GS3FFdWVrd1JmaTZGRTV3RmpxZEMzNk8zZWt2Vk52Q0E9PQo="
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.30/LANSHU-v2.2.30-macOS-universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3NHMTdjSFBiRXFrNjUvL0xueC9FdkZodUVMNTl6Mkt5WW5lcFZLUUhNTVNBMzBNeUhzaDlaMENCcFYzbkNaMVB6MnZuUjQzcVRXWU1BSTRqbzcyaUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjMzNTEwCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKNGxhcGRkVHZab0d3Mnc1cTEzSHNnQmpSZm9CdFU3UUtIdHdiU1I0aUNadEs4cnhiMzY3dDJEMGthSWRmK0kzUERVZVZySGNPdFczamxqVk9ZM2wzRFE9PQo="
     }
   }
 }
