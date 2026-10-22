@@ -1,19 +1,19 @@
 {
-  "version": "2.2.27",
-  "notes": "直播日报：大屏数据卡片、直播间策略写得更具体、可导出 PDF、填写内容不丢；品牌直播时长可上传日报 PDF 补录；团队概览按团队分组；团队管理员可以给新人测验出题。",
-  "pub_date": "2026-10-21T23:42:08Z",
+  "version": "2.2.28",
+  "notes": "Live daily report: optional auction sales sheet with per-product summary, team-shared expected prices and advice; promo calendar redesigned (top 5 deadlines, long-running programs folded, max 3 per week).",
+  "pub_date": "2026-10-22T00:43:20Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3NiTFBSbWxJMDRHUUtBQU9MQWZKUlRaeGJGbGVIWGNoTGFBNWsydWdvUzhYUkZHVU0renljdmU0RkZjVWFqWUxKUVlxUytWVDJ0elRod0FGdURMakEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI1Nzg1CWZpbGU65r6c5p6iIHYyXzIuMi4yN194NjQtc2V0dXAuZXhlCmFQUENCZTFXOFpLSnM1RDBpRGJHcFBST0lpekR6QmpzQkhVdXdneUNqQzhmQkFwcjZEN0c2VlpkZUs1cVlIUDh3enArOXYxZFFJeU9GSFptY2NsUkRnPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.27/lanshu-v2_2.2.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FIUUNiQ3lmS3I0T3FyczExeDVRVEFJU1ZnT2g2aTY2RUVPb1QxTkh6amFVMUhOMGp3TldmSXVJbVFiZVpuUk1XdlYvZFBSWjdZN0xHQUpZOXV4WEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI5NjI2CWZpbGU65r6c5p6iIHYyXzIuMi4yOF94NjQtc2V0dXAuZXhlCmRScE1BYTVadDdUQWJ4QjNVam1aNFBpN1B0R2o0OFRPYTZhdzVqUGpUZElibk1UdGtlbUg5U1Z4NHJwdFd2TlZYbkorOEJ0Y2ZqNDVENEdWZ2MrMkRBPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.28/lanshu-v2_2.2.28_x64-setup.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZsdGMycmlINXArMDRnRDF6S1hvVHFkY3pwUk1VSjcrT1NIN0thS1ZQbVR0ZC9OWUNsQ3FvK08zU2hObktBVVpucmFoTi94TTVtYmtrWGNUTVdJMndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI2MDQyCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKUHU4c0ZNUGxXWnBQYWdBenYwaU9mZDlUT3ptMDB0bnB1cDFSa1pRc1lQTGZ6aFgxRzFrbmZoTFlQWitGQVJPTy9lb3Y0YmNjb3M5S21KMVJBUFJzQUE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.27/LANSHU-v2.2.27-macOS-universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JJTnNWOXIzclNPNERTakZwOTBaaU1NQk04LzlqbHIyVy9WUFNlQ2VaV2ozWnJkUmYzSWZGRER1c2tpTFFkV0xITTlIQVpxQ0hOSVZCbU93NDJFM1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI5MjM4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKOTRONWFSOWFoWFFDRXExVm5XSHIwUXBVSWpNN2dWdG16UVZJcGJ2NmxSTENmc0ZTTThGTjY5T2hFcjlaSWRCOEhCSmVQNVhVa1U0dlBhVjVpQ2ZoQVE9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.28/LANSHU-v2.2.28-macOS-universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZsdGMycmlINXArMDRnRDF6S1hvVHFkY3pwUk1VSjcrT1NIN0thS1ZQbVR0ZC9OWUNsQ3FvK08zU2hObktBVVpucmFoTi94TTVtYmtrWGNUTVdJMndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI2MDQyCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKUHU4c0ZNUGxXWnBQYWdBenYwaU9mZDlUT3ptMDB0bnB1cDFSa1pRc1lQTGZ6aFgxRzFrbmZoTFlQWitGQVJPTy9lb3Y0YmNjb3M5S21KMVJBUFJzQUE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.27/LANSHU-v2.2.27-macOS-universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JJTnNWOXIzclNPNERTakZwOTBaaU1NQk04LzlqbHIyVy9WUFNlQ2VaV2ozWnJkUmYzSWZGRER1c2tpTFFkV0xITTlIQVpxQ0hOSVZCbU93NDJFM1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjI5MjM4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKOTRONWFSOWFoWFFDRXExVm5XSHIwUXBVSWpNN2dWdG16UVZJcGJ2NmxSTENmc0ZTTThGTjY5T2hFcjlaSWRCOEhCSmVQNVhVa1U0dlBhVjVpQ2ZoQVE9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.28/LANSHU-v2.2.28-macOS-universal.app.tar.gz"
     }
   }
 }
