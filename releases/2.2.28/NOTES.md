@@ -1,0 +1,1 @@
+Live daily report: optional auction sales sheet with per-product summary, team-shared expected prices and advice; promo calendar redesigned (top 5 deadlines, long-running programs folded, max 3 per week).
