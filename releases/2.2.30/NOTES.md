@@ -1,0 +1,1 @@
+Live duration summary image: each session is a roomy two-line card with the full account handle; long lists no longer get cramped and the footnote is no longer cut.
