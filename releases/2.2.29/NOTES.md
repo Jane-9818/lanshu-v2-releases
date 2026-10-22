@@ -1,0 +1,1 @@
+Live duration page now counts by live account handle: filter, session list and the summary image show the account; manual and PDF entries ask for the handle.
