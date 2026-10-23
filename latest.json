@@ -1,19 +1,11 @@
 {
-  "version": "2.2.32",
-  "notes": "澜枢 2.2.32:去掉入驻码(只用邮箱账号登录);违规自查类目改为 TikTok Shop 美区官方一级类目并可搜索;达人合作速查里的 @达人和视频可直接打开 TikTok;直播工具的话术自查升级为完整检查。",
-  "pub_date": "2026-10-23T18:50:12Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2s2VDNCYjFzKzNlMGpCbGZMQjc3bUIrQWQ1d2E0VjlVVnRYMlJid01WY2lZeFFZVllSSExhV0cyeHY0Njg1UzRGR0lUWEF4eG8rUnQ3YWp3ZG10d1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgxMzI0CWZpbGU65r6c5p6iIHYyXzIuMi4zMl94NjQtc2V0dXAuZXhlCk1IbUhEUHNoWnhsRGtrWEFwZy9yN2xiMVRUUlZwSmZSNHNwWWpBb3Y5ZkpMV2VSUHV6ZkdNak0zQkQ0TFgxT0xpZ1h5SWxFWFlhRlpnWDdjSWxOMEJBPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.32/lanshu-v2_2.2.32_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2pPWGo2eG4wai9ES3VRN3FDOTBiS2Zuay9JZXJXUWRIL0RkbnRQVzRhYVJxZlJXYW1zTWxlSDk5WStyNWpGVmZEbndWK3NrZEdmeHUwaVJiOUxBcFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzcyNTg0CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKOEd4WisxeUdRbWZZdHk3T1RUUk9EZFhwUGovTnNjZE9ocFpTWllBK2VIQS9MWXpKZk9LK1Y5engyZWNqMDhqNndHYjZjaTl6QWRvZ3N2WHNLWlc2QXc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.32/LANSHU-v2.2.32-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2pPWGo2eG4wai9ES3VRN3FDOTBiS2Zuay9JZXJXUWRIL0RkbnRQVzRhYVJxZlJXYW1zTWxlSDk5WStyNWpGVmZEbndWK3NrZEdmeHUwaVJiOUxBcFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzcyNTg0CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKOEd4WisxeUdRbWZZdHk3T1RUUk9EZFhwUGovTnNjZE9ocFpTWllBK2VIQS9MWXpKZk9LK1Y5engyZWNqMDhqNndHYjZjaTl6QWRvZ3N2WHNLWlc2QXc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.32/LANSHU-v2.2.32-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.33",
+    "notes":  "Live daily report: every point the operator writes is kept in a 运营记录 section and cited in highlights / to-improve; reports no longer get cut off. Report text boxes grow with the text and can be dragged larger.",
+    "pub_date":  "2026-10-23T22:18:47Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY25kb1hHTVJuRXIyVEE3bnBFNlNVbGxaOEdlaGRCZk9CTXhBS2dHQnExL3pFZFNJZmJJV3ZjdnRzQWEvNEU0TFZCMGU0RDljVTI2YnJNSEpkZnBjWVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzkzODQxCWZpbGU65r6c5p6iIHYyXzIuMi4zM194NjQtc2V0dXAuZXhlClZzcjJBT3dQYjczTGV2K2JyVVNwUTBPRXNkKzV0YkVNVmw3aUhEcGhrbmMrb0IyOXpEeG5ldkVYbTFzbzZRa1pIc0FUZzJkampDM1Y5ZHpRNzJxdUR3PT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.33/lanshu-v2_2.2.33_x64-setup.exe"
+                                         }
+                  }
 }
