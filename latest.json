@@ -1,19 +1,11 @@
 {
-  "version": "2.2.31",
-  "notes": "iPhone 导出 PDF 改为分享面板;新人测验团队自出题计入闯关",
-  "pub_date": "2026-10-23T04:21:24Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZSQzlvNldtUlJ6U3QxRFIrVFJUTWhoTU1hV2VZNGZWLy92VkVYSjAxelFRMjQxYUw0R3NheWI1cVZEa3RpZ2NoSm5PTDF5bTdEcWcwd0xZalFpWGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzI5MDY5CWZpbGU65r6c5p6iIHYyXzIuMi4zMV94NjQtc2V0dXAuZXhlCjgrR2Q2MkcrVlVGOWpxaWxQYmw3MXFoU2QzZDUzbzBoNERXS29UYk5RUUpkVWE4TXRvZVpFYlJWSm5vbWJvdzJ4eDByNHNYMmljemxqSjRuT28yUkFRPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.31/lanshu-v2_2.2.31_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FnVVNlcEI0a294Sm5Jd2VWNS9mWmp0cmdSMDV1alZnMHZiLzF4VHZsdGJ3Z254WUgrM096cWJPeVRJcGt6KzY5QUlPekJHS2d2YnEra0FFVXFOUEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzI5MDA3CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKbXRRMExMRHhyNURkbmdScnRzQjhjdnY3Z1NrVVZOSktvTnp6NURqUVlsaVNVT1RZbDQ4YmozL250bWVIT2ZKRHJlZjYzaHgvanZIWXRjUzA1NDYzREE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.31/LANSHU-v2.2.31-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FnVVNlcEI0a294Sm5Jd2VWNS9mWmp0cmdSMDV1alZnMHZiLzF4VHZsdGJ3Z254WUgrM096cWJPeVRJcGt6KzY5QUlPekJHS2d2YnEra0FFVXFOUEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzI5MDA3CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKbXRRMExMRHhyNURkbmdScnRzQjhjdnY3Z1NrVVZOSktvTnp6NURqUVlsaVNVT1RZbDQ4YmozL250bWVIT2ZKRHJlZjYzaHgvanZIWXRjUzA1NDYzREE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.31/LANSHU-v2.2.31-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.32",
+    "notes":  "澜枢 2.2.32:去掉入驻码(只用邮箱账号登录);违规自查类目改为 TikTok Shop 美区官方一级类目并可搜索;达人合作速查里的 @达人和视频可直接打开 TikTok;直播工具的话术自查升级为完整检查。",
+    "pub_date":  "2026-10-23T18:50:12Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2s2VDNCYjFzKzNlMGpCbGZMQjc3bUIrQWQ1d2E0VjlVVnRYMlJid01WY2lZeFFZVllSSExhV0cyeHY0Njg1UzRGR0lUWEF4eG8rUnQ3YWp3ZG10d1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzgxMzI0CWZpbGU65r6c5p6iIHYyXzIuMi4zMl94NjQtc2V0dXAuZXhlCk1IbUhEUHNoWnhsRGtrWEFwZy9yN2xiMVRUUlZwSmZSNHNwWWpBb3Y5ZkpMV2VSUHV6ZkdNak0zQkQ0TFgxT0xpZ1h5SWxFWFlhRlpnWDdjSWxOMEJBPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.32/lanshu-v2_2.2.32_x64-setup.exe"
+                                         }
+                  }
 }
