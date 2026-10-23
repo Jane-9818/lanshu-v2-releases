@@ -1,0 +1,1 @@
+Live daily report: every point the operator writes is kept in a 运营记录 section and cited in highlights / to-improve; reports no longer get cut off. Report text boxes grow with the text and can be dragged larger.
