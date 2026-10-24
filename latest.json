@@ -1,19 +1,11 @@
 {
-  "version": "2.2.33",
-  "notes": "Live daily report: every point the operator writes is kept in a 运营记录 section and cited in highlights / to-improve; reports no longer get cut off. Report text boxes grow with the text and can be dragged larger.",
-  "pub_date": "2026-10-23T22:18:47Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY25kb1hHTVJuRXIyVEE3bnBFNlNVbGxaOEdlaGRCZk9CTXhBS2dHQnExL3pFZFNJZmJJV3ZjdnRzQWEvNEU0TFZCMGU0RDljVTI2YnJNSEpkZnBjWVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzkzODQxCWZpbGU65r6c5p6iIHYyXzIuMi4zM194NjQtc2V0dXAuZXhlClZzcjJBT3dQYjczTGV2K2JyVVNwUTBPRXNkKzV0YkVNVmw3aUhEcGhrbmMrb0IyOXpEeG5ldkVYbTFzbzZRa1pIc0FUZzJkampDM1Y5ZHpRNzJxdUR3PT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.33/lanshu-v2_2.2.33_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3J3WFNYVUozd3crTWtGZUYwN0p5S1NmNjUyRytaYWhyRlpiVERkWkZoemRjNFJEZUg1c0d3YW14aStuOVhBcUhOMjVVQThjUEZLSTVTUHFLTGhNMndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzkzNjgzCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKeEJxZE5rRkp3ZEtlb3JMNkI5N3hsZ2ZJYTFRWGZzcFhWaGU1YnZjTlFqM1ZrdkZTdk9ObG1GdDVXZHFqSHByMHN2aWc0UWRFVkR5UFBFcHdPdVZZQmc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.33/LANSHU-v2.2.33-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3J3WFNYVUozd3crTWtGZUYwN0p5S1NmNjUyRytaYWhyRlpiVERkWkZoemRjNFJEZUg1c0d3YW14aStuOVhBcUhOMjVVQThjUEZLSTVTUHFLTGhNMndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzkzNjgzCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKeEJxZE5rRkp3ZEtlb3JMNkI5N3hsZ2ZJYTFRWGZzcFhWaGU1YnZjTlFqM1ZrdkZTdk9ObG1GdDVXZHFqSHByMHN2aWc0UWRFVkR5UFBFcHdPdVZZQmc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.33/LANSHU-v2.2.33-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.34",
+    "notes":  "Host hours: new commission and brand GMV report for any date range (1% / 2% per session), with Excel export. Live daily report keeps every operator point and matches each fix to the right metric.",
+    "pub_date":  "2026-10-24T02:44:57Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2phdmIyRUFCWEZEbTR5U3FUVXljQlM1UFI0VVRMUnMvbGxUcksxNHB1Tnk1cWZkNTJCTDBpcEZxV1A0Q0w4QlhubVdKbEpSQmt6a2NDL3FjK3JGSkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODA5ODEyCWZpbGU65r6c5p6iIHYyXzIuMi4zNF94NjQtc2V0dXAuZXhlClF4TVVlblhXVE5hdUp3SW9MQWU2dUxuakRpYzZ6aG9LZWNPQ0RUeFBRVVluU1FFeFJKQUdWaUIwcmRxWDJQY0FLQUYyK3BYT2grMVFWNHJkY1AvOUN3PT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.34/lanshu-v2_2.2.34_x64-setup.exe"
+                                         }
+                  }
 }
