@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.34",
-    "notes":  "Host hours: new commission and brand GMV report for any date range (1% / 2% per session), with Excel export. Live daily report keeps every operator point and matches each fix to the right metric.",
-    "pub_date":  "2026-10-24T02:44:57Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2phdmIyRUFCWEZEbTR5U3FUVXljQlM1UFI0VVRMUnMvbGxUcksxNHB1Tnk1cWZkNTJCTDBpcEZxV1A0Q0w4QlhubVdKbEpSQmt6a2NDL3FjK3JGSkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODA5ODEyCWZpbGU65r6c5p6iIHYyXzIuMi4zNF94NjQtc2V0dXAuZXhlClF4TVVlblhXVE5hdUp3SW9MQWU2dUxuakRpYzZ6aG9LZWNPQ0RUeFBRVVluU1FFeFJKQUdWaUIwcmRxWDJQY0FLQUYyK3BYT2grMVFWNHJkY1AvOUN3PT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.34/lanshu-v2_2.2.34_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.2.34",
+  "notes": "Host hours: new commission and brand GMV report for any date range (1% / 2% per session), with Excel export. Live daily report keeps every operator point and matches each fix to the right metric.",
+  "pub_date": "2026-10-24T02:44:57Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2phdmIyRUFCWEZEbTR5U3FUVXljQlM1UFI0VVRMUnMvbGxUcksxNHB1Tnk1cWZkNTJCTDBpcEZxV1A0Q0w4QlhubVdKbEpSQmt6a2NDL3FjK3JGSkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODA5ODEyCWZpbGU65r6c5p6iIHYyXzIuMi4zNF94NjQtc2V0dXAuZXhlClF4TVVlblhXVE5hdUp3SW9MQWU2dUxuakRpYzZ6aG9LZWNPQ0RUeFBRVVluU1FFeFJKQUdWaUIwcmRxWDJQY0FLQUYyK3BYT2grMVFWNHJkY1AvOUN3PT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.34/lanshu-v2_2.2.34_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3IraTRJVE9VYjJoVVFRZGpOdm0rbTd5L2lkZ3VWWWFqdGY3RFFZSlJpUy9VeGMrdWM1UWdaeHVZNWkweC96dDJDMjV1TjhqbE9CWlhjUVZRc25CcHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODA5ODE4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKdGdDNm03cjNQMUtKZHhsaVF2Y2F3a3ZKbGRUMWJLZGpRVHNtYkNNNVQwaCthNUNzNnRjNVRzd2V6ZkJ0cmExam03NVhkUU1sVnc3S0JFUVBxODZKREE9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.34/LANSHU-v2.2.34-macOS-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3IraTRJVE9VYjJoVVFRZGpOdm0rbTd5L2lkZ3VWWWFqdGY3RFFZSlJpUy9VeGMrdWM1UWdaeHVZNWkweC96dDJDMjV1TjhqbE9CWlhjUVZRc25CcHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODA5ODE4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKdGdDNm03cjNQMUtKZHhsaVF2Y2F3a3ZKbGRUMWJLZGpRVHNtYkNNNVQwaCthNUNzNnRjNVRzd2V6ZkJ0cmExam03NVhkUU1sVnc3S0JFUVBxODZKREE9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.34/LANSHU-v2.2.34-macOS-universal.app.tar.gz"
+    }
+  }
 }
