@@ -1,0 +1,1 @@
+Commission and brand GMV page: cleaner layout (dates fit on phones, solid cards in light and dark mode), durations shown as hours and minutes, export disabled when there is no data, with a shortcut to log host hours.
