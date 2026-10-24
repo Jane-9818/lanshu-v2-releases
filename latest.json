@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.35",
-    "notes":  "Commission and brand GMV page is simpler: the commission rule and rates are no longer shown on the page (the Excel export still includes them).",
-    "pub_date":  "2026-10-24T03:05:45Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY21ESW1wOHJUbFRPc08yR0trQnU5UzVsNzlkMkxNSHN0akpXOCtwUzg0UVprWmk3MW1YbVk4Zlp3T0Q5d2JLY3A3SldWNU41Q1NPWmtNNm40blM2QWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODExMDY0CWZpbGU65r6c5p6iIHYyXzIuMi4zNV94NjQtc2V0dXAuZXhlCkt5U1R4OG4yMFdTY2FGMXB4Znc4NkdXWXJ5N3RZZExWYmd6L1RtanlsZ3BmMC9EWWoxZWpacmlBNTlmQ3owSUtwWGZ4RjRtYXNmZDNONlR2SkN3ZUJBPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.35/lanshu-v2_2.2.35_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.2.35",
+  "notes": "Commission and brand GMV page is simpler: the commission rule and rates are no longer shown on the page (the Excel export still includes them).",
+  "pub_date": "2026-10-24T03:05:45Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY21ESW1wOHJUbFRPc08yR0trQnU5UzVsNzlkMkxNSHN0akpXOCtwUzg0UVprWmk3MW1YbVk4Zlp3T0Q5d2JLY3A3SldWNU41Q1NPWmtNNm40blM2QWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODExMDY0CWZpbGU65r6c5p6iIHYyXzIuMi4zNV94NjQtc2V0dXAuZXhlCkt5U1R4OG4yMFdTY2FGMXB4Znc4NkdXWXJ5N3RZZExWYmd6L1RtanlsZ3BmMC9EWWoxZWpacmlBNTlmQ3owSUtwWGZ4RjRtYXNmZDNONlR2SkN3ZUJBPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.35/lanshu-v2_2.2.35_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2d4eHZjVDZZQTgyT3p6QzZFdUVGTjhjMm90M04vY01SVFF4eDZDcmlmVmlGNXJwTk5vWGNoMytMSk9aQW9veXlEMmVLbFY5V0NYYU81S0toYmdlZndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODExMjUxCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKNUVqS2o5RWhiTm5DQjNmZS8wWjVLcmxLY3dwQW1IOEtsbTdvZW9BRituUWY1a1hzSUxGYnFSeFpHM2FOVCt1MlFTdFd6dDJleUMzb3pwd25hKzQwQkE9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.35/LANSHU-v2.2.35-macOS-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2d4eHZjVDZZQTgyT3p6QzZFdUVGTjhjMm90M04vY01SVFF4eDZDcmlmVmlGNXJwTk5vWGNoMytMSk9aQW9veXlEMmVLbFY5V0NYYU81S0toYmdlZndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODExMjUxCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKNUVqS2o5RWhiTm5DQjNmZS8wWjVLcmxLY3dwQW1IOEtsbTdvZW9BRituUWY1a1hzSUxGYnFSeFpHM2FOVCt1MlFTdFd6dDJleUMzb3pwd25hKzQwQkE9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.35/LANSHU-v2.2.35-macOS-universal.app.tar.gz"
+    }
+  }
 }
