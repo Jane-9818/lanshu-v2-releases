@@ -1,0 +1,1 @@
+Host hours: new commission and brand GMV report for any date range (1% / 2% per session), with Excel export. Live daily report keeps every operator point and matches each fix to the right metric.
