@@ -1,0 +1,1 @@
+Commission and brand GMV page is simpler: the commission rule and rates are no longer shown on the page (the Excel export still includes them).
