@@ -1,0 +1,1 @@
+Sign-in required: nothing in the app is shown or usable before you sign in (only sign in / sign up / reset password).
