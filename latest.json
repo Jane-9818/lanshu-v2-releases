@@ -1,19 +1,11 @@
 {
-  "version": "2.2.38",
-  "notes": "Sign-in required: nothing in the app is shown or usable before you sign in (only sign in / sign up / reset password).",
-  "pub_date": "2026-10-27T05:57:44Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FBR1Vjczg1VmZDbkRmempnNFp0NXViTWs2U3lDRnNaVFdzcWt3NUlRTm0xeUtmczRReWlQWmdFVWdWVWRMdDhjc1llZ2MyWnNGS3d3TDhSL1M1Z1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDgwNTgwCWZpbGU65r6c5p6iIHYyXzIuMi4zOF94NjQtc2V0dXAuZXhlCkFveWlJQjgvdGw4V1dNUjFHemV2K3NlYXNOaEl5a1BHdGFwUXZNNWhKQ0NQM0svaC9VK1ZHN1VOcHJ0MVE4bnlPV0NESUJVWDF4dEdvaGp2WFBrNkF3PT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.38/lanshu-v2_2.2.38_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2dMdXZnVjRrdVJITk9YbTZBWjg1SnFwWlFhQnF1emVrTlNPUWtNRnJWNHUrUE1hYm5NT1FpbXBQeVBCTjJzMXZGSitHeFdQT2RoMW1tQkVNMXdZdUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDgwNzg1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKZFVuKzZRSnM2eHVSZmdpYXc0MWEvQk5uQmtaS3R1Y09TNVhMSkUxTTFYRXlzUzMvQzUvd1grdVZtSTB5TjZGVEhDSStuS1dmWWVudzhMVkFKQllyQlE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.38/LANSHU-v2.2.38-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2dMdXZnVjRrdVJITk9YbTZBWjg1SnFwWlFhQnF1emVrTlNPUWtNRnJWNHUrUE1hYm5NT1FpbXBQeVBCTjJzMXZGSitHeFdQT2RoMW1tQkVNMXdZdUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDgwNzg1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKZFVuKzZRSnM2eHVSZmdpYXc0MWEvQk5uQmtaS3R1Y09TNVhMSkUxTTFYRXlzUzMvQzUvd1grdVZtSTB5TjZGVEhDSStuS1dmWWVudzhMVkFKQllyQlE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.38/LANSHU-v2.2.38-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.39",
+    "notes":  "New brand: glass 澜枢 logo, blue-violet palette, animated launch screen; sign-in required.",
+    "pub_date":  "2026-10-27T18:52:38Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZYL1NFcXhlSnRhN2hCNm0yeWZYQzhybDhVejZGWGd3ejVtd3ZMQi9BOVZHMnZtMnpKaFV0NllwdG95eU95alRObEtmcWFvSDNvMFRNVndQU0pLbVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTI2OTQ5CWZpbGU65r6c5p6iIHYyXzIuMi4zOV94NjQtc2V0dXAuZXhlCjdBMHhmbGgxeW1ib0dQbmhHSmpES3lSdlBxRDM3QmpPdXoyYXFldWhNenl6WjRSV1ZKZ2g1WWNsVTdwSzRqTjdKRUlkbHVnSDZPQU1aRlNaNHZqRURRPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.39/lanshu-v2_2.2.39_x64-setup.exe"
+                                         }
+                  }
 }
