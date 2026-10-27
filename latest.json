@@ -1,19 +1,11 @@
 {
-  "version": "2.2.36",
-  "notes": "Commission and brand GMV page: cleaner layout (dates fit on phones, solid cards in light and dark mode), durations shown as hours and minutes, export disabled when there is no data, with a shortcut to log host hours.",
-  "pub_date": "2026-10-24T03:24:09Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2dxcDY1WjcyM2ZnM0tSREVCbUZyRnpLMFM2c2RMRUI4ZnF6WFB2V0xaRW5pS0NaVitmQXNkbGFmKzFudzdlZ1o2VS83M0RJcGhzOHVNMFNtSWF6OGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODEyMTY3CWZpbGU65r6c5p6iIHYyXzIuMi4zNl94NjQtc2V0dXAuZXhlCnhwQ2xML0duclJ0dDFYeVhiS1ljamMwblA3OXlLUmRWa1NZUG05YmJzWGIzNHl2bE80TEUxWWJhRytYUnhnSWpsejlGTVZVaytvY2N0RkJLMjRMMkNRPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.36/lanshu-v2_2.2.36_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2lUMWczcHFPcnc2OGxBK0JBMU8vc1plUFZ2bnBGYnc2L1ZiREV5RmI0ZUxRTkErcXZXNHN2VnFWa1BJNENMYnYyNXlEZnlGVSs2d1ExRFhoUDlaTWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODEyNjE2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKd2FsRHh3RWpRS3krajFhN2FRaWJuNldJVjlncFZLbmIvWFFaeENXeTNMMi9OWk5EeHkyY1R6YVVQQVB2d05zczdXTjM0cTFPdXY2czgxR2g3ajNvQWc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.36/LANSHU-v2.2.36-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2lUMWczcHFPcnc2OGxBK0JBMU8vc1plUFZ2bnBGYnc2L1ZiREV5RmI0ZUxRTkErcXZXNHN2VnFWa1BJNENMYnYyNXlEZnlGVSs2d1ExRFhoUDlaTWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODEyNjE2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKd2FsRHh3RWpRS3krajFhN2FRaWJuNldJVjlncFZLbmIvWFFaeENXeTNMMi9OWk5EeHkyY1R6YVVQQVB2d05zczdXTjM0cTFPdXY2czgxR2g3ajNvQWc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.36/LANSHU-v2.2.36-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.37",
+    "notes":  "Team join requests: avatar, name and the approve / move / reject buttons now sit on one compact line.",
+    "pub_date":  "2026-10-27T04:07:12Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tzUCtuaDVrWXZ4MWxWVEE0QTlaVUU0NVpSbU1LQjE5dkxpcHUvYkc3c250SHdWWk11bDVFeTVxaWU3MUpmSUdTUEQ3M2FSWVZ1S0VuNjdzMnp3cEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDczOTQ5CWZpbGU65r6c5p6iIHYyXzIuMi4zN194NjQtc2V0dXAuZXhlCmJldzhtaitkZFcrcnVmK3RMYkhtZGoxS0ZwRHBXOWVzRDhsN0lUWGc4SjdGZnFGR3NlNjF3Sks1LzN2SHUzNU16OWdQV1UrdVdxMlZabGRab3JES0FnPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.37/lanshu-v2_2.2.37_x64-setup.exe"
+                                         }
+                  }
 }
