@@ -1,19 +1,11 @@
 {
-  "version": "2.2.37",
-  "notes": "Team join requests: avatar, name and the approve / move / reject buttons now sit on one compact line.",
-  "pub_date": "2026-10-27T04:07:12Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tzUCtuaDVrWXZ4MWxWVEE0QTlaVUU0NVpSbU1LQjE5dkxpcHUvYkc3c250SHdWWk11bDVFeTVxaWU3MUpmSUdTUEQ3M2FSWVZ1S0VuNjdzMnp3cEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDczOTQ5CWZpbGU65r6c5p6iIHYyXzIuMi4zN194NjQtc2V0dXAuZXhlCmJldzhtaitkZFcrcnVmK3RMYkhtZGoxS0ZwRHBXOWVzRDhsN0lUWGc4SjdGZnFGR3NlNjF3Sks1LzN2SHUzNU16OWdQV1UrdVdxMlZabGRab3JES0FnPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.37/lanshu-v2_2.2.37_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FFTG1JYWQ4S1NlY3BudGI2QkMrUlBCRnR2R3AxVEd6cjRTYjR4aU5tajIxRmRhaXl0M2hwS3h5WjVEUVFJbUhCTFl4VjBqWHJ1aDRmS0s4czNNRGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDc0MTM5CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKTCtqTVNmWGREM3dBU2M4aGR1M3lpYVNvY2Q3Z1dXUU1NR3MvaVd2RHhTVHY2SHRKTzFZUUpnQ2lvVUduT2ZWOHNrSlVWTFBRWkJRbUpnMW1kZEx3QkE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.37/LANSHU-v2.2.37-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FFTG1JYWQ4S1NlY3BudGI2QkMrUlBCRnR2R3AxVEd6cjRTYjR4aU5tajIxRmRhaXl0M2hwS3h5WjVEUVFJbUhCTFl4VjBqWHJ1aDRmS0s4czNNRGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDc0MTM5CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKTCtqTVNmWGREM3dBU2M4aGR1M3lpYVNvY2Q3Z1dXUU1NR3MvaVd2RHhTVHY2SHRKTzFZUUpnQ2lvVUduT2ZWOHNrSlVWTFBRWkJRbUpnMW1kZEx3QkE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.37/LANSHU-v2.2.37-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.38",
+    "notes":  "Sign-in required: nothing in the app is shown or usable before you sign in (only sign in / sign up / reset password).",
+    "pub_date":  "2026-10-27T05:57:44Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FBR1Vjczg1VmZDbkRmempnNFp0NXViTWs2U3lDRnNaVFdzcWt3NUlRTm0xeUtmczRReWlQWmdFVWdWVWRMdDhjc1llZ2MyWnNGS3d3TDhSL1M1Z1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDgwNTgwCWZpbGU65r6c5p6iIHYyXzIuMi4zOF94NjQtc2V0dXAuZXhlCkFveWlJQjgvdGw4V1dNUjFHemV2K3NlYXNOaEl5a1BHdGFwUXZNNWhKQ0NQM0svaC9VK1ZHN1VOcHJ0MVE4bnlPV0NESUJVWDF4dEdvaGp2WFBrNkF3PT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.38/lanshu-v2_2.2.38_x64-setup.exe"
+                                         }
+                  }
 }
