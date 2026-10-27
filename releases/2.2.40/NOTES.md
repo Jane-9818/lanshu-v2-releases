@@ -1,0 +1,1 @@
+Exports are clean: PDF print has no tauri.localhost header/footer; confirmations use in-app dialogs.
