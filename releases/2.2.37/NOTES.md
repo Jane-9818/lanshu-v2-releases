@@ -1,0 +1,1 @@
+Team join requests: avatar, name and the approve / move / reject buttons now sit on one compact line.
