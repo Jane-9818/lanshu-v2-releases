@@ -1,19 +1,11 @@
 {
-  "version": "2.2.40",
-  "notes": "Exports are clean: PDF print has no tauri.localhost header/footer; confirmations use in-app dialogs.",
-  "pub_date": "2026-10-27T23:48:45Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FiTVgyWlNMVG9pYzJIbDBDUDhyNmNZZU5va2htcW9sclZtMEFrY3F0NE0wdHBmdEdMM1ZSNkVSN2pVVEpQM2E1TmZHOG1CMnY0TTlibk1WcXVHY0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTQ0ODQxCWZpbGU65r6c5p6iIHYyXzIuMi40MF94NjQtc2V0dXAuZXhlCjROeUNaeDRNQzdSV0tuTDYyeS9TS1FKLzZRY2hzdU9ta2V5RUN6OXBGL3FhaldMMVlQb1dzMy9mMUJpQ3E4OTFFSDRsOHZNNGNqSmtvdlBzYTM1SERnPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.40/lanshu-v2_2.2.40_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3NDTUZHVFgxQkVXVGRYKzZmZmhXczBXamJsNXZDUW1taGM5MjFiS3VXZ0pieUFpaVZzd0oyNndQbWcyUFRCaGR6SW92aFYxSm5RY2tXM0hsYko0eVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTQ0ODY4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKSnhhN3NRZzFjMktuR1FuWEF3QVZqQWcxbXJmMkhEa3U2aVc5WnYyS3N1U2dOMkRQQldvYWx3UDNGTEVleUYxTFk2NXZuRzY5UHNzZjIrdHRNVEs2Q2c9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.40/LANSHU-v2.2.40-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3NDTUZHVFgxQkVXVGRYKzZmZmhXczBXamJsNXZDUW1taGM5MjFiS3VXZ0pieUFpaVZzd0oyNndQbWcyUFRCaGR6SW92aFYxSm5RY2tXM0hsYko0eVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTQ0ODY4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKSnhhN3NRZzFjMktuR1FuWEF3QVZqQWcxbXJmMkhEa3U2aVc5WnYyS3N1U2dOMkRQQldvYWx3UDNGTEVleUYxTFk2NXZuRzY5UHNzZjIrdHRNVEs2Q2c9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.40/LANSHU-v2.2.40-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.41",
+    "notes":  "Daily host-hours summary, vlog overtime label, faster startup, team approval gate.",
+    "pub_date":  "2026-10-31T00:06:14Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2lkclo2MWtJRHBJS3J5OGtKTkN1OU81UG0wdFZUOW1ScUlKUDBLZDlveHRLV0hPZ0FTMEo4MWZJTmpINjFFdGxWS0hRYU9qYlBGRXF3MGc2V2kvdHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDA1MDkxCWZpbGU65r6c5p6iIHYyXzIuMi40MV94NjQtc2V0dXAuZXhlCkRoajNuR3VkQ2VQbm5INmMvZThlcklaWkpFRkdFUThPMFNEU3d5L2hRejN2bTZOMVdJcWVsTWY3Rk5zSjVtZGlycGFCaCsydXhWdnNuTnhyVWI1SUJBPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.41/lanshu-v2_2.2.41_x64-setup.exe"
+                                         }
+                  }
 }
