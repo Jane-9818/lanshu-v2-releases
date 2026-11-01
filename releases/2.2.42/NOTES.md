@@ -1,0 +1,1 @@
+Host hours from live reports (pending lead confirmation), handover split, confirm by lead or live ops.
