@@ -1,0 +1,1 @@
+Solid cards over custom wallpaper on all pages; compact host-hours date and summary rows.
