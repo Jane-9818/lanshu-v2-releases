@@ -1,0 +1,1 @@
+Team overview cards solid over custom wallpaper; includes 2.2.43 layout fixes.
