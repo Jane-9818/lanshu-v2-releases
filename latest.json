@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.45",
-    "notes":  "Frosted cards over custom wallpaper; date fields fit on iPhone.",
-    "pub_date":  "2026-11-02T01:58:11Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY29hdWxzSHYrMFBuWWJFNVZJSnBZd1diRjM0Z21zeVNPbjhjNHo2djM1MGU1eXpRL1Z4ZjFQdjEvTE5SeXdNL0YvRkpNNDJiYUtRVGRPSWViQU9xa1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTg0NjA5CWZpbGU65r6c5p6iIHYyXzIuMi40NV94NjQtc2V0dXAuZXhlCmlYRWJuZFltK0h1WlVjUW0zNkxXMC83U3JnaDhHd05ka1J1L0lOeFIrWGxySHhRNlpycy9maEdVUHhBRHpyMUl2dkpuUXFsNFRIVUlUcElaUXlmZEJRPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.45/lanshu-v2_2.2.45_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.2.45",
+  "notes": "Frosted cards over custom wallpaper; date fields fit on iPhone.",
+  "pub_date": "2026-11-02T01:58:11Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY29hdWxzSHYrMFBuWWJFNVZJSnBZd1diRjM0Z21zeVNPbjhjNHo2djM1MGU1eXpRL1Z4ZjFQdjEvTE5SeXdNL0YvRkpNNDJiYUtRVGRPSWViQU9xa1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTg0NjA5CWZpbGU65r6c5p6iIHYyXzIuMi40NV94NjQtc2V0dXAuZXhlCmlYRWJuZFltK0h1WlVjUW0zNkxXMC83U3JnaDhHd05ka1J1L0lOeFIrWGxySHhRNlpycy9maEdVUHhBRHpyMUl2dkpuUXFsNFRIVUlUcElaUXlmZEJRPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.45/lanshu-v2_2.2.45_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3UvdSszN2Z5N2tuU2hqVXhEb3VuZVZhSm5MaEc3MC8wRXBrSzN6Ny9MSnRiaSs2eFFjbXliOGdmdElaelVNSlZEU1ZuZjh0TGZxZzhJbEhJOC9hSEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTg0NjQxCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKSVUrL2xnWlMvcUZZU1huSmx4ZjJyOG9rVWFQWWJqVzVwRmk5SldPOTVCVzRqVGkwcTNJK3BhVVNRKy8rVWFYMnZuQm1mWjJOek45YnUvY2h6b2NaQ0E9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.45/LANSHU-v2.2.45-macOS-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3UvdSszN2Z5N2tuU2hqVXhEb3VuZVZhSm5MaEc3MC8wRXBrSzN6Ny9MSnRiaSs2eFFjbXliOGdmdElaelVNSlZEU1ZuZjh0TGZxZzhJbEhJOC9hSEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTg0NjQxCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKSVUrL2xnWlMvcUZZU1huSmx4ZjJyOG9rVWFQWWJqVzVwRmk5SldPOTVCVzRqVGkwcTNJK3BhVVNRKy8rVWFYMnZuQm1mWjJOek45YnUvY2h6b2NaQ0E9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.45/LANSHU-v2.2.45-macOS-universal.app.tar.gz"
+    }
+  }
 }
