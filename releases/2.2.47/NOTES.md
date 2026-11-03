@@ -1,0 +1,1 @@
+Update card now shows for everyone upgrading; includes all 2.2.46 changes.
