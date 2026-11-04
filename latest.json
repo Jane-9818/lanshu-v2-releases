@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.48",
-    "notes":  "拍视频加时要组长核实；日报、直播时长、主播工时三边联动；PDF 补录读不到主播可以选或之后补；深色和壁纸下更清楚。",
-    "pub_date":  "2026-11-04T21:56:10Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2s0cVgyRFdpNUFqSis1UUR6eGdJWVp5WFk0bHdSc2FqRWNpeUJwcTMrRDR2UWdPRXMrZklUQmNoUDZGTW16YWU0a3M2ZmJtazg5QTRqN1FyZytCVXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI5Mjg3CWZpbGU65r6c5p6iIHYyXzIuMi40OF94NjQtc2V0dXAuZXhlClovQVRSOUJ0VlUzNVBWSW1CRGR2K0VHekluQ0xlREpCSTZnNldNUDZ3ODMzK3dPUVkyQlg2NmZZUDk3L3ZEbDRWSmtMTlNWVkZUK3lIQVpRRDZQOUFBPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.48/lanshu-v2_2.2.48_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.2.48",
+  "notes": "拍视频加时要组长核实；日报、直播时长、主播工时三边联动；PDF 补录读不到主播可以选或之后补；深色和壁纸下更清楚。",
+  "pub_date": "2026-11-04T21:56:10Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2s0cVgyRFdpNUFqSis1UUR6eGdJWVp5WFk0bHdSc2FqRWNpeUJwcTMrRDR2UWdPRXMrZklUQmNoUDZGTW16YWU0a3M2ZmJtazg5QTRqN1FyZytCVXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI5Mjg3CWZpbGU65r6c5p6iIHYyXzIuMi40OF94NjQtc2V0dXAuZXhlClovQVRSOUJ0VlUzNVBWSW1CRGR2K0VHekluQ0xlREpCSTZnNldNUDZ3ODMzK3dPUVkyQlg2NmZZUDk3L3ZEbDRWSmtMTlNWVkZUK3lIQVpRRDZQOUFBPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.48/lanshu-v2_2.2.48_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3U3YVdheUhpV0E0YnBkR21JVmxhRkRvcnZsazdBcXpYNkRCNFcrTG94dzB6OWt1alliRDVrZXZGTkJwaXhVRFFVbDdBakp1UmwrU2ZZU0ttWjJpQndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI5NDQ1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKWjdsaXE0UU85UVdrb3J5RTNGYmY2dXNZMHEveVErMUY3aVYvcjZrVEFKZ09VTUo1VUFVOEpObC92MnY3UlMzQlFJMDhRcTVlVDlXdi9Ub3NTejBkQ3c9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.48/LANSHU-v2.2.48-macOS-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3U3YVdheUhpV0E0YnBkR21JVmxhRkRvcnZsazdBcXpYNkRCNFcrTG94dzB6OWt1alliRDVrZXZGTkJwaXhVRFFVbDdBakp1UmwrU2ZZU0ttWjJpQndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI5NDQ1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKWjdsaXE0UU85UVdrb3J5RTNGYmY2dXNZMHEveVErMUY3aVYvcjZrVEFKZ09VTUo1VUFVOEpObC92MnY3UlMzQlFJMDhRcTVlVDlXdi9Ub3NTejBkQ3c9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.48/LANSHU-v2.2.48-macOS-universal.app.tar.gz"
+    }
+  }
 }
