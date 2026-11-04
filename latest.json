@@ -1,19 +1,11 @@
 {
-  "version": "2.2.48",
-  "notes": "拍视频加时要组长核实；日报、直播时长、主播工时三边联动；PDF 补录读不到主播可以选或之后补；深色和壁纸下更清楚。",
-  "pub_date": "2026-11-04T21:56:10Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2s0cVgyRFdpNUFqSis1UUR6eGdJWVp5WFk0bHdSc2FqRWNpeUJwcTMrRDR2UWdPRXMrZklUQmNoUDZGTW16YWU0a3M2ZmJtazg5QTRqN1FyZytCVXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI5Mjg3CWZpbGU65r6c5p6iIHYyXzIuMi40OF94NjQtc2V0dXAuZXhlClovQVRSOUJ0VlUzNVBWSW1CRGR2K0VHekluQ0xlREpCSTZnNldNUDZ3ODMzK3dPUVkyQlg2NmZZUDk3L3ZEbDRWSmtMTlNWVkZUK3lIQVpRRDZQOUFBPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.48/lanshu-v2_2.2.48_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3U3YVdheUhpV0E0YnBkR21JVmxhRkRvcnZsazdBcXpYNkRCNFcrTG94dzB6OWt1alliRDVrZXZGTkJwaXhVRFFVbDdBakp1UmwrU2ZZU0ttWjJpQndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI5NDQ1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKWjdsaXE0UU85UVdrb3J5RTNGYmY2dXNZMHEveVErMUY3aVYvcjZrVEFKZ09VTUo1VUFVOEpObC92MnY3UlMzQlFJMDhRcTVlVDlXdi9Ub3NTejBkQ3c9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.48/LANSHU-v2.2.48-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3U3YVdheUhpV0E0YnBkR21JVmxhRkRvcnZsazdBcXpYNkRCNFcrTG94dzB6OWt1alliRDVrZXZGTkJwaXhVRFFVbDdBakp1UmwrU2ZZU0ttWjJpQndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODI5NDQ1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKWjdsaXE0UU85UVdrb3J5RTNGYmY2dXNZMHEveVErMUY3aVYvcjZrVEFKZ09VTUo1VUFVOEpObC92MnY3UlMzQlFJMDhRcTVlVDlXdi9Ub3NTejBkQ3c9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.48/LANSHU-v2.2.48-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.49",
+    "notes":  "Mac 上「导出 PDF」能下载了；主播工时页今天有记录就停在今天，交完日报直接跳到那天。",
+    "pub_date":  "2026-11-04T22:50:59Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2x1VG1hN1F4eUkrNVBlY2RzSHJ5dWRmMmdYMDhvWHI4SU4rekw1NWhHS0F0T3V4OUpMMGFtbjNEdjU4MW5ZOWpRckYvV3FON3ZJZVUxaFVlYmRwQ3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODMyNTc3CWZpbGU65r6c5p6iIHYyXzIuMi40OV94NjQtc2V0dXAuZXhlClRMOE9UbUVHQ0ZndW0vNkFrSGYzRlVBendyM202LzZGK25meGdSL0V3UG5XYkMyc2V3Wjg1NnFtRC9wMElicjJwaHlwYUFLOGVIVlhNbWFyM3FlREFnPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.49/lanshu-v2_2.2.49_x64-setup.exe"
+                                         }
+                  }
 }
