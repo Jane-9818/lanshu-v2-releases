@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.47",
-    "notes":  "Update card now shows for everyone upgrading; includes all 2.2.46 changes.",
-    "pub_date":  "2026-11-04T00:00:07Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2dwN2F1alZ4eTdDMkdSQU9kOUxrcjQ5SDNhRlUxUXpXd3MyRy9LTWxoQVZsWE5WTVFGQXpDb0lBMUxrL0JHaGJOSnMrL29aRzRuMGZYY21Ba0dXU0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzUwMzI0CWZpbGU65r6c5p6iIHYyXzIuMi40N194NjQtc2V0dXAuZXhlCmZNRUNrYy8rODNZWEIwZDVrRlBDL053RzBJbW15TkJhSFRLU1dtS3N0RnlWYjR4RmxhcU5JRlZvNHE2UzloRkU4S2x3eUx3RUhHZXRrdkVJZ0hmVEFRPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.47/lanshu-v2_2.2.47_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.2.47",
+  "notes": "Update card now shows for everyone upgrading; includes all 2.2.46 changes.",
+  "pub_date": "2026-11-04T00:00:07Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2dwN2F1alZ4eTdDMkdSQU9kOUxrcjQ5SDNhRlUxUXpXd3MyRy9LTWxoQVZsWE5WTVFGQXpDb0lBMUxrL0JHaGJOSnMrL29aRzRuMGZYY21Ba0dXU0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzUwMzI0CWZpbGU65r6c5p6iIHYyXzIuMi40N194NjQtc2V0dXAuZXhlCmZNRUNrYy8rODNZWEIwZDVrRlBDL053RzBJbW15TkJhSFRLU1dtS3N0RnlWYjR4RmxhcU5JRlZvNHE2UzloRkU4S2x3eUx3RUhHZXRrdkVJZ0hmVEFRPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.47/lanshu-v2_2.2.47_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3RxR1UrRjEvQjdKSGtJZXN0V2VYV014S3UrUWQ0N1BBdWFBZXlNeXNDbVpEZWExQkFVMHBsREFrdjlHMEUxVThIN3ZNVlJlbU9JMnRiY3lQN0l0YndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzUwMzQ5CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKaFRYbVpJakF6RHRkblpFUndSWlJKNFJ4SklaSmdKM2Zwc2hHcFFzY3BXZXZYcEZVQnIrZjZuTmNidzEvVXFkMTV5RmFIWVVaQ3FRWEpNblZ3Z0xhQ1E9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.47/LANSHU-v2.2.47-macOS-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3RxR1UrRjEvQjdKSGtJZXN0V2VYV014S3UrUWQ0N1BBdWFBZXlNeXNDbVpEZWExQkFVMHBsREFrdjlHMEUxVThIN3ZNVlJlbU9JMnRiY3lQN0l0YndRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzUwMzQ5CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKaFRYbVpJakF6RHRkblpFUndSWlJKNFJ4SklaSmdKM2Zwc2hHcFFzY3BXZXZYcEZVQnIrZjZuTmNidzEvVXFkMTV5RmFIWVVaQ3FRWEpNblZ3Z0xhQ1E9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.47/LANSHU-v2.2.47-macOS-universal.app.tar.gz"
+    }
+  }
 }
