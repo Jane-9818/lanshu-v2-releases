@@ -1,19 +1,11 @@
 {
-  "version": "2.2.50",
-  "notes": "v2.2.50：👑 所有者与管理员；🗑️ 彻底删除已移出成员；📏 主播工时卡片窄时数字不重叠",
-  "pub_date": "2026-11-05T02:28:02Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tpbVphUDJxZ3NTbGp0aW53UGd4QWpVMHFPTlAxZlZ5OXdMd3RiaC82WUd5UnNkREVrZlJ1RWVEamt1SFJaRVJsUE9wZG1CVTBtRG01S0cvdGhoU0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ1NjAwCWZpbGU65r6c5p6iIHYyXzIuMi41MF94NjQtc2V0dXAuZXhlCm5hYnNtUi9ud3ZCdVZvbFBmNXpZMzJxOVlqNUtsVnQvTkFGS2dCVUh3ZWsvbkJYYTdYUnFyMzl0VWRVMzhNM1lSWVFRMm1xbHpYRnJxNUlBb0VSNENnPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.50/lanshu-v2_2.2.50_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tUdzZUdkkzQ2Ztc1pVMFRSK2ZxUjNTTjlQU0FjcFJzOERwVUovQndBSzlIRlE3bHM4anRDcVhwdXBOeDVFMWo5Z2FSK3FaR2RKOVZHSzNYdTVkS0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ1NDk1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKbHJxTmpRRXo4a0pvVW9tc0JsTTVBK3Y1TUxCR05zQUwrME9nM2E4UkZ0eWRNK0hmTVVNaWh3SkV2dGFvR0g0c2ZBbkx6dTlFWFAwcVFXejlrNTlDQ1E9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.50/LANSHU-v2.2.50-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tUdzZUdkkzQ2Ztc1pVMFRSK2ZxUjNTTjlQU0FjcFJzOERwVUovQndBSzlIRlE3bHM4anRDcVhwdXBOeDVFMWo5Z2FSK3FaR2RKOVZHSzNYdTVkS0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODQ1NDk1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKbHJxTmpRRXo4a0pvVW9tc0JsTTVBK3Y1TUxCR05zQUwrME9nM2E4UkZ0eWRNK0hmTVVNaWh3SkV2dGFvR0g0c2ZBbkx6dTlFWFAwcVFXejlrNTlDQ1E9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.50/LANSHU-v2.2.50-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.51",
+    "notes":  "v2.2.51：🧭 直播工具筛选菜单不再被卡片挡住；⏱️ 时长汇总不再把待确认算成没读到；📏 主播工时窄屏数字不重叠",
+    "pub_date":  "2026-11-05T04:27:30Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY25neTE1ZDNSMUJpN1lZMkZpYUJvYjEybXI3d20waGdNTU9iQTF3UmgyR0pQVmFrUG9tNlNWN0J0Mk9MeGRPL3lpWTUzOEMwdHR4ZGo2U3daQ24xMndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODUyNzY1CWZpbGU65r6c5p6iIHYyXzIuMi41MV94NjQtc2V0dXAuZXhlCjNNY1NhOUpiT0VkUmtxMzRhQ0w3WmpqVk4yWEtEODJlVXh6UTczK1gvN2JnVkhwZUFWTDNIS2JicHB6ZnlhTHhPdEpjQVVveEEyRFVBOE1YWDdOREJnPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.51/lanshu-v2_2.2.51_x64-setup.exe"
+                                         }
+                  }
 }
