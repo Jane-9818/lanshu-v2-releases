@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.57",
-    "notes":  "组长确认一场，直播时长和拍视频一起计入。确认后上方主播卡显示直播时长、GMV 和总工作时长。佣金和品牌 GMV 只有组长、管理员和所有者能看。",
-    "pub_date":  "2026-11-06T22:03:35Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3E1K0RMNVkzN0pNN21aTU9WNUlsNFVTUGg0cCtFMG1NcEVFeDJ2NHZRenZqQU1qUFh2MWlESUhCaEZwc3RiMi9ZTll2eURhVVFJWTZTa28xcXh5S2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDAyNTMwCWZpbGU65r6c5p6iIHYyXzIuMi41N194NjQtc2V0dXAuZXhlCnBZZUNlR3krZ2hSVGxYanVKdUhKYnIrdkdGZTNRZkVRbUg5bVFybnhlYnR1RmkrbTdONlZYYko1SEhPdVhzajFTd0Q4RHNOTnlQL2hjU0kydXgwWENRPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.57/lanshu-v2_2.2.57_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.2.57",
+  "notes": "组长确认一场，直播时长和拍视频一起计入。确认后上方主播卡显示直播时长、GMV 和总工作时长。佣金和品牌 GMV 只有组长、管理员和所有者能看。",
+  "pub_date": "2026-11-06T22:03:35Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3E1K0RMNVkzN0pNN21aTU9WNUlsNFVTUGg0cCtFMG1NcEVFeDJ2NHZRenZqQU1qUFh2MWlESUhCaEZwc3RiMi9ZTll2eURhVVFJWTZTa28xcXh5S2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDAyNTMwCWZpbGU65r6c5p6iIHYyXzIuMi41N194NjQtc2V0dXAuZXhlCnBZZUNlR3krZ2hSVGxYanVKdUhKYnIrdkdGZTNRZkVRbUg5bVFybnhlYnR1RmkrbTdONlZYYko1SEhPdVhzajFTd0Q4RHNOTnlQL2hjU0kydXgwWENRPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.57/lanshu-v2_2.2.57_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2o0akJwL3NNY1lTeEpvYVRHM1hrcnZsdEhQd0t2OWsxN1pUS3NVbEVoRldYMzgvbUQ0NnNNSnZ4TU9NR21rdk1Tbkg5VzFNNEdoUnJUTmk1a2dGaEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDAyODQ3CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKTHZjOG1kNVdpZ3FCem9nTEZrMndmbFdvQThxOThHL05qK3E0V2xOWkFHVkdOT3hTK1V0enRIY3l4OFpIdzJtaWFUSW4vdGZyaXVaeE5mUzl1dVRlQ0E9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.57/LANSHU-v2.2.57-macOS-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2o0akJwL3NNY1lTeEpvYVRHM1hrcnZsdEhQd0t2OWsxN1pUS3NVbEVoRldYMzgvbUQ0NnNNSnZ4TU9NR21rdk1Tbkg5VzFNNEdoUnJUTmk1a2dGaEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDAyODQ3CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKTHZjOG1kNVdpZ3FCem9nTEZrMndmbFdvQThxOThHL05qK3E0V2xOWkFHVkdOT3hTK1V0enRIY3l4OFpIdzJtaWFUSW4vdGZyaXVaeE5mUzl1dVRlQ0E9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.57/LANSHU-v2.2.57-macOS-universal.app.tar.gz"
+    }
+  }
 }
