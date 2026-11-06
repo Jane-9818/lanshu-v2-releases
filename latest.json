@@ -1,19 +1,11 @@
 {
-    "version": "2.2.55",
-    "notes": "点功能立刻进目标页：先出页壳，数据后台再填，不用干等。直播工具切 tab（主播工时等）马上换掉总览，不再停在上一页。今日 / 白皮书电脑端也先出上次缓存，再安静刷新。",
-    "pub_date": "2026-11-06T03:27:38Z",
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3B3bnhFRlNxZzU3Nnh2QWdNUUFhRGtHc2ZEME5NUTRhaVFQd0l1YXgxUW9NblQwcWlvR2c4ZzRJL1MwSm9WeVQyZ3FxenJMak5lZERTRW81b2hxandnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTM1NTcxCWZpbGU65r6c5p6iIHYyXzIuMi41NV94NjQtc2V0dXAuZXhlCjI4RHBwY0dJRTg3bU15TkJEWUxRdE9jWERyOFg3Ym1QWUlaOXFaOHZEaktMUiticnBMWWxwUndPekJOL2x2UjRxaktNSnJob280bWdMSjY3R2xWc0F3PT0K",
-            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.55/lanshu-v2_2.2.55_x64-setup.exe"
-        },
-        "darwin-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY29la2owT2d3V0pvQ2I5RmVOTzhwbmJnYk44blQxN2xZSU82ZW1xUEo4WTQ3RmFnTi9ITnd2bmtXVXQxT3phZWZJZG14eXJPa2c4NldnZTZIVHNyTlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTM1NTcyCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKQUFWbThWWDJlM2hVa3F6cDRyTno2aEpkQVVvbVpXN1JRb0dLNkluUHNXOHVpUVRwRzZmWTJYVVhXSi9rYmFMQnJTaWwyS2tzQ042NmZEM1JNVVZwQ0E9PQo=",
-            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.55/LANSHU-v2.2.55-macOS-universal.app.tar.gz"
-        },
-        "darwin-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY29la2owT2d3V0pvQ2I5RmVOTzhwbmJnYk44blQxN2xZSU82ZW1xUEo4WTQ3RmFnTi9ITnd2bmtXVXQxT3phZWZJZG14eXJPa2c4NldnZTZIVHNyTlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTM1NTcyCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKQUFWbThWWDJlM2hVa3F6cDRyTno2aEpkQVVvbVpXN1JRb0dLNkluUHNXOHVpUVRwRzZmWTJYVVhXSi9rYmFMQnJTaWwyS2tzQ042NmZEM1JNVVZwQ0E9PQo=",
-            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.55/LANSHU-v2.2.55-macOS-universal.app.tar.gz"
-        }
-    }
+    "version":  "2.2.56",
+    "notes":  "主播工时一点就进真页：结构先出，并行分段填入。工时记住上次、进直播预热；任务/文档库先出缓存。后端工时相关接口低风险并行。",
+    "pub_date":  "2026-11-06T05:06:08Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2c1ZURVSUZCbGduVHlyaGlhdEhjRXM5bEVpRFJodUM5TGJJTFM4UzZJTy9GQ3BZQ1NEM0x3Q0c3NjhGMW5ON0pNRFVLMmZDNTVVN2NVN01RTVNEMEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTQxNDgxCWZpbGU65r6c5p6iIHYyXzIuMi41Nl94NjQtc2V0dXAuZXhlCnNOSk5NVVorbGF4Q0JIQjFSLzJyNEVEcmtGMDBuWGhyQ1lJSjVEOTM1OGs0azFGOGpYOGYzVmZHVTBhaXRFRS9xQ0ljSk1KUlBOTitnUDZxS01YbkJRPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.56/lanshu-v2_2.2.56_x64-setup.exe"
+                                         }
+                  }
 }
