@@ -6,6 +6,14 @@
                       "windows-x86_64":  {
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3J5VENPb3FIemorUFJFbDlaSi8rMjIwRmx6N2gremQwZUFBTXM2eHF4bDMyWHdVSzlpbSswK0Z2ZXoxSkpuVXVyMklCMGxxT0tHSWluWlY0SWFJMmdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTI2OTk5CWZpbGU65r6c5p6iIHYyXzIuMi41M194NjQtc2V0dXAuZXhlCnpXMUlXRXpnQ0lkWVpJeWFOdWUzQno4SzBSS0toNlF5dkdZRzdiNkNJQnNleGU1RE9CSDZmTE1peWFHaVVSRUNLdld5V2s5c1UxNml6Q1dEV2NPNURnPT0K",
                                              "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.53/lanshu-v2_2.2.53_x64-setup.exe"
-                                         }
+                                         },
+                      "darwin-aarch64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tlN2xNS1BBT3puY09yU2lvY0I3ZGJLWHBxc0hRZTZORW02YlUrOGRFbTJ1aGVuRGNxYUJTT1pSK3BxakR6UlQzQ2xCZ2thL01DZE5PK2N0aitOYWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTI3MjI3CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKdWxkcUVLMEhzN1J1WkdVSnlHM0NsaHgrNkw1T0VMK2ZaR2YyNWVsVXZZN2hJNUVJMDlOSXkxL2JaTmk2Yi9ocG5Oa1IwQW5BRTJzVUJxZFBvSHpRREE9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.53/LANSHU-v2.2.53-macOS-universal.app.tar.gz"
+                                         },
+                      "darwin-x86_64":  {
+                                            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tlN2xNS1BBT3puY09yU2lvY0I3ZGJLWHBxc0hRZTZORW02YlUrOGRFbTJ1aGVuRGNxYUJTT1pSK3BxakR6UlQzQ2xCZ2thL01DZE5PK2N0aitOYWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTI3MjI3CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKdWxkcUVLMEhzN1J1WkdVSnlHM0NsaHgrNkw1T0VMK2ZaR2YyNWVsVXZZN2hJNUVJMDlOSXkxL2JaTmk2Yi9ocG5Oa1IwQW5BRTJzVUJxZFBvSHpRREE9PQo=",
+                                            "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.53/LANSHU-v2.2.53-macOS-universal.app.tar.gz"
+                                        }
                   }
 }
