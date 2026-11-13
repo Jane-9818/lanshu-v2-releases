@@ -1,11 +1,11 @@
 {
-  "version": "2.2.58",
-  "notes": "佣金页和导出表把品牌和直播账号分成两列；品牌列只显示排班网站的品牌名，对不上的留空。运营 GMV 增加该运营在该品牌下的直播时长（分钟）。服务端 0.22.2。",
-  "pub_date": "2026-11-12T23:44:26Z",
+  "version": "2.2.59",
+  "notes": "换主播补录、直播间排版、侧栏整理、佣金页汇总卡片。服务端与各端统一 2.2.59。",
+  "pub_date": "2026-11-13T05:07:59Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3Z6dkV1Q3l0N3lpU21yODBVeWZ3WEdxOG9paElVakhoN245ZVk1M0I3NnFzU240VjdvNnNlV3luQWJnSi9KVVh2Z3VlWlErdk9uREN1NEF4cTJUWlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDY2MTEyCWZpbGU65r6c5p6iIHYyXzIuMi41OF94NjQtc2V0dXAuZXhlCnVzSWROZ2dUcjk1aDQvdEVKNUdWQUI4Z3F4V0RhaHh2QVF0OGlraDIycHFMakNMVWF3ZXNDc0hkNXBNOEpYbmZrcHJ6L3E4KzlhazBYU2FTOVdxS0FBPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.58/lanshu-v2_2.2.58_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3N2MGpZQUhhcmZMSi9uVnRyRTJtV3pmVFd0MUxMVThpYVNVamZkWENkYlpRQVo1cmZ4OEJEdzVzQ3o3WnF5OEkvNXEwQXpMUmE1ZS9nd3h2dXdSQmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQ1NjU4CWZpbGU65r6c5p6iIHYyXzIuMi41OV94NjQtc2V0dXAuZXhlCkc5WVFCaERtOXU3UDV6NktSQzdSS21EUllUOGVYdUUxSVo5aXRqQ2xZSW9XOHBtSjlWWWMxU0Rmc240V0JiWnNxUjdndmlUZ0srWWxlVjJaRHFqeER3PT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.59/lanshu-v2_2.2.59_x64-setup.exe"
     }
   }
 }
