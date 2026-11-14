@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.62",
-    "notes":  "规则问答多篇原文都列出处、卡片跟壁纸走、小图标统一线条图标。服务端与各端统一 2.2.62。",
-    "pub_date":  "2026-11-14T09:00:32Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2pXNnoyYWdHUHgwR2I1LzlNU2VNZWM5SkxrMmc0cGhNSHlzYzA1a1ZpTGtaYk95WWN1TDhGQkwvdjRmTUU5aHpidEljemF0VkFaN1RMU3A2aUhoUFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjQ2NzQ5CWZpbGU65r6c5p6iIHYyXzIuMi42Ml94NjQtc2V0dXAuZXhlCjdqbFFpOWllcDlZRi95Z21yK3d3UVorMHJlU0o5K0tQL3V2c3ljS204TlpJUVFneEsvZjlFdEZCQ0tPOXJXd3A1a2UwUVJCdlJNeGhncnc5NTA5ZUFRPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.62/lanshu-v2_2.2.62_x64-setup.exe"
-                                         }
-                  }
+    "version": "2.2.62",
+    "notes": "规则问答多篇原文都列出处、卡片跟壁纸走、小图标统一线条图标。服务端与各端统一 2.2.62。",
+    "pub_date": "2026-11-14T09:00:32Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2pXNnoyYWdHUHgwR2I1LzlNU2VNZWM5SkxrMmc0cGhNSHlzYzA1a1ZpTGtaYk95WWN1TDhGQkwvdjRmTUU5aHpidEljemF0VkFaN1RMU3A2aUhoUFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjQ2NzQ5CWZpbGU65r6c5p6iIHYyXzIuMi42Ml94NjQtc2V0dXAuZXhlCjdqbFFpOWllcDlZRi95Z21yK3d3UVorMHJlU0o5K0tQL3V2c3ljS204TlpJUVFneEsvZjlFdEZCQ0tPOXJXd3A1a2UwUVJCdlJNeGhncnc5NTA5ZUFRPT0K",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.62/lanshu-v2_2.2.62_x64-setup.exe"
+        },
+        "darwin-aarch64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY21KdTVQYjBYSEhGWGFzVzBSbUczb2xmZzdkZHJqaldReVJDK0tEUVVwWWp5T0drSko0b05ydDJUVDllYmlhWHFpRkxCeGhlRWV3UVJ2b01mN0RZVWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjQ2NzYzCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKdE9FRlBUNVZkUnlsY056dHd1blhQMVN1SjBkWmJ1YUVEQzlvYVdQcHJGVDF0QjVZVnY1eUdUdHk3SHA3WklhdHdKbW03S2MrWnBpQXgxaU5acTZqQVE9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.62/LANSHU-v2.2.62-macOS-universal.app.tar.gz"
+        },
+        "darwin-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY21KdTVQYjBYSEhGWGFzVzBSbUczb2xmZzdkZHJqaldReVJDK0tEUVVwWWp5T0drSko0b05ydDJUVDllYmlhWHFpRkxCeGhlRWV3UVJ2b01mN0RZVWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjQ2NzYzCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKdE9FRlBUNVZkUnlsY056dHd1blhQMVN1SjBkWmJ1YUVEQzlvYVdQcHJGVDF0QjVZVnY1eUdUdHk3SHA3WklhdHdKbW03S2MrWnBpQXgxaU5acTZqQVE9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.62/LANSHU-v2.2.62-macOS-universal.app.tar.gz"
+        }
+    }
 }
