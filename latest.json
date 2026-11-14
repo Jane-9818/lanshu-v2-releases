@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.63",
-    "notes":  "壁纸上的卡片看得清：卡面更实、合计卡/校验框/黄色提示文字跟卡片走；佣金页改品牌/人员对应排版理顺；今日份小测验卡跟壁纸、周报图标更清晰；有面包屑的页面只留一个返回；切回直播工具回到首页。",
-    "pub_date":  "2026-11-14T10:42:40Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3V0WWs2Z0EyTE1IbnNqdTBUdEU0d1hOMlFUNjhMUnl5T2NFT2lhdnNBVTQ4M1A3VlRubHJKSDdWM3VRNFRrMVZkRFNyYTE5SEhyTTZMMmhvS0RobWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjUyODc3CWZpbGU65r6c5p6iIHYyXzIuMi42M194NjQtc2V0dXAuZXhlCkpxVVQ4TjJPVGxBa2dsc1pJNjNIL2d2c014UmVKZnFxbFlFQkJ3OW5MdXNSWEtUTnVBZzJCZzFXaW92Tmtjb0hkMHh0eUdpcG5EK0s3WmRNWFN5K0JRPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.63/lanshu-v2_2.2.63_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.2.63",
+  "notes": "壁纸上的卡片看得清：卡面更实、合计卡/校验框/黄色提示文字跟卡片走；佣金页改品牌/人员对应排版理顺；今日份小测验卡跟壁纸、周报图标更清晰；有面包屑的页面只留一个返回；切回直播工具回到首页。",
+  "pub_date": "2026-11-14T10:42:40Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3V0WWs2Z0EyTE1IbnNqdTBUdEU0d1hOMlFUNjhMUnl5T2NFT2lhdnNBVTQ4M1A3VlRubHJKSDdWM3VRNFRrMVZkRFNyYTE5SEhyTTZMMmhvS0RobWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjUyODc3CWZpbGU65r6c5p6iIHYyXzIuMi42M194NjQtc2V0dXAuZXhlCkpxVVQ4TjJPVGxBa2dsc1pJNjNIL2d2c014UmVKZnFxbFlFQkJ3OW5MdXNSWEtUTnVBZzJCZzFXaW92Tmtjb0hkMHh0eUdpcG5EK0s3WmRNWFN5K0JRPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.63/lanshu-v2_2.2.63_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3RUTEtGNDRLVlk2QjhSZjExSU1sQWpvaS9YbXdSc2RJZkF2VWJlcFkycjZZUTRUREV1T2UzUHpRUWJnS0xZSW9pNDVuQnoveEptVVY4Zml3b3dTRmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjUyOTM2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKQnRwR1Q3SnFoRUVJMWxSeG1ZWWw2T2xsTmg1VnluS2svcVB4N2FHN1I0Z3RYNlVMdExTOExoSk5ucjRidlF3OEZWUkpKSTRoQzVxRE5RT1ZsOUVnQ1E9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.63/LANSHU-v2.2.63-macOS-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3RUTEtGNDRLVlk2QjhSZjExSU1sQWpvaS9YbXdSc2RJZkF2VWJlcFkycjZZUTRUREV1T2UzUHpRUWJnS0xZSW9pNDVuQnoveEptVVY4Zml3b3dTRmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjUyOTM2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKQnRwR1Q3SnFoRUVJMWxSeG1ZWWw2T2xsTmg1VnluS2svcVB4N2FHN1I0Z3RYNlVMdExTOExoSk5ucjRidlF3OEZWUkpKSTRoQzVxRE5RT1ZsOUVnQ1E9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.63/LANSHU-v2.2.63-macOS-universal.app.tar.gz"
+    }
+  }
 }
