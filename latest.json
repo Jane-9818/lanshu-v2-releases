@@ -1,19 +1,11 @@
 {
-  "version": "2.2.59",
-  "notes": "换主播补录、直播间排版、侧栏整理、佣金页汇总卡片。服务端与各端统一 2.2.59。",
-  "pub_date": "2026-11-13T05:07:59Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3N2MGpZQUhhcmZMSi9uVnRyRTJtV3pmVFd0MUxMVThpYVNVamZkWENkYlpRQVo1cmZ4OEJEdzVzQ3o3WnF5OEkvNXEwQXpMUmE1ZS9nd3h2dXdSQmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTQ1NjU4CWZpbGU65r6c5p6iIHYyXzIuMi41OV94NjQtc2V0dXAuZXhlCkc5WVFCaERtOXU3UDV6NktSQzdSS21EUllUOGVYdUUxSVo5aXRqQ2xZSW9XOHBtSjlWWWMxU0Rmc240V0JiWnNxUjdndmlUZ0srWWxlVjJaRHFqeER3PT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.59/lanshu-v2_2.2.59_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY285V0hXdHNTSmtMUUE2SUs2cGtBcDc0VnI5a0RNaWprcUVmZC82QlNPSGdNdU1vb0dqWXJ4QmdWMXhvUC9CbWMrN0ZyZGg5RFZheUZNQ3NocnNoNkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTY4MjEzCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKc2FJM3UyM3FvbVA3OEZrMzRrdmlWempIYmNYYUpTaCtBL3Q5UzlKT2UvTUozMkJENXY1dFNmUHd5VTZ3QitqejNKRWptMnNuM2pqaHQxVVU2c3Z6QWc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.59/LANSHU-v2.2.59-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY285V0hXdHNTSmtMUUE2SUs2cGtBcDc0VnI5a0RNaWprcUVmZC82QlNPSGdNdU1vb0dqWXJ4QmdWMXhvUC9CbWMrN0ZyZGg5RFZheUZNQ3NocnNoNkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTY4MjEzCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKc2FJM3UyM3FvbVA3OEZrMzRrdmlWempIYmNYYUpTaCtBL3Q5UzlKT2UvTUozMkJENXY1dFNmUHd5VTZ3QitqejNKRWptMnNuM2pqaHQxVVU2c3Z6QWc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.59/LANSHU-v2.2.59-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.60",
+    "notes":  "去掉任务功能；白皮书、每日测验和规则更新照常。服务端与各端统一 2.2.60。",
+    "pub_date":  "2026-11-14T01:09:55Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZsdVlDWHR5QzlBOHFCOGZ0SXhabGg5c3lKMlBRNFZMUWhkN21KWEsyV3UvaFNrN2hTbkdDRFFxQklBaC9rMVVHRFc0TE1hZkhta2ZGM3krVGJJU2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjE4NTA4CWZpbGU65r6c5p6iIHYyXzIuMi42MF94NjQtc2V0dXAuZXhlCmFOSWtGSmV1WjRUQ2pxZm5wQTU5VURJdy9ML2RIaG9WV1FqM1RweENIMXlaMWNEdyttN2U3M254RHdQNmJEa2EzZTVLYyttdHVuU05UcU4zVnJkYUR3PT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.60/lanshu-v2_2.2.60_x64-setup.exe"
+                                         }
+                  }
 }
