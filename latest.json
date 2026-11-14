@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.61",
-    "notes":  "规则问答更稳、快捷按钮换行、佣金改品牌可收起。服务端与各端统一 2.2.61。",
-    "pub_date":  "2026-11-14T04:30:28Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3AyRUY5UlFVQy9CUkhrU01LZVV2Ny9vd3ZyYTlZQ0JqbitqejE4bHphUEtjV1hBZDgyZGtCZ1YydFo5c1RDNGNxNEZVVFo5TjI0ejh5WjRXSFhoa1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjMwNTQ1CWZpbGU65r6c5p6iIHYyXzIuMi42MV94NjQtc2V0dXAuZXhlCk9iQzgwWXNxSjhtY0M1TStUQ3psMW13aGNqWDJKVXVFT0ZaNUl5ZnA0cFNjcFFqR0ZOajh0S2VnQmtOVnpRS1pNd2hqVHk0R29HU3NiM2JCWTh6MERRPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.61/lanshu-v2_2.2.61_x64-setup.exe"
-                                         }
-                  }
+    "version": "2.2.61",
+    "notes": "规则问答更稳、快捷按钮换行、佣金改品牌可收起。服务端与各端统一 2.2.61。",
+    "pub_date": "2026-11-14T04:30:28Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3AyRUY5UlFVQy9CUkhrU01LZVV2Ny9vd3ZyYTlZQ0JqbitqejE4bHphUEtjV1hBZDgyZGtCZ1YydFo5c1RDNGNxNEZVVFo5TjI0ejh5WjRXSFhoa1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjMwNTQ1CWZpbGU65r6c5p6iIHYyXzIuMi42MV94NjQtc2V0dXAuZXhlCk9iQzgwWXNxSjhtY0M1TStUQ3psMW13aGNqWDJKVXVFT0ZaNUl5ZnA0cFNjcFFqR0ZOajh0S2VnQmtOVnpRS1pNd2hqVHk0R29HU3NiM2JCWTh6MERRPT0K",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.61/lanshu-v2_2.2.61_x64-setup.exe"
+        },
+        "darwin-aarch64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3J4VjRnbHdTYkNBTEV2cHJXc2IraGdEV3JrZE9EcnhyVXArVUNGTWNZSjVGaHFRdWkrK2o4ZmpLYnBPVTYwZHFlVkw3SkhDbVpXOW5IZE1UaHkxbXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjMwNTU2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKdXJNbHNqQU5OWXZ4SjRmUXIzQnhaZjZBV3dPcGFKNmdlSXdic2pDZWU2N2h1SUdGaHJQSDdjUEs1QXFHQWdIUjcxeUpkQnI3cUV6V2J0ZDlXOXoyQVE9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.61/LANSHU-v2.2.61-macOS-universal.app.tar.gz"
+        },
+        "darwin-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3J4VjRnbHdTYkNBTEV2cHJXc2IraGdEV3JrZE9EcnhyVXArVUNGTWNZSjVGaHFRdWkrK2o4ZmpLYnBPVTYwZHFlVkw3SkhDbVpXOW5IZE1UaHkxbXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjMwNTU2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKdXJNbHNqQU5OWXZ4SjRmUXIzQnhaZjZBV3dPcGFKNmdlSXdic2pDZWU2N2h1SUdGaHJQSDdjUEs1QXFHQWdIUjcxeUpkQnI3cUV6V2J0ZDlXOXoyQVE9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.61/LANSHU-v2.2.61-macOS-universal.app.tar.gz"
+        }
+    }
 }
