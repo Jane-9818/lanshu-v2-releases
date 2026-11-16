@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.64",
-    "notes":  "AI 聊天出错时说清原因（网络断、连接提前结束、服务出错、提问太快），只有所有免费模型都忙时才说额度用完；回答被截断时自动换模型重答，不把半截当完整；问「定邀」「定邀请」等简称能找到官方达人合作主页和定向合作指南；待补充真正记上才说已记入。",
-    "pub_date":  "2026-11-16T09:16:19Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2hFdWc3TDBUbEthVzloV2RPOTB2eEczSlBrMnU2ZkM0SXROaDVqL2R4NEQwVDRCdVdHMWJLS25oYnVTcUI5YmlpVkh5RWVrWDFDWXEwZUMyOXJHa2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIwNDk0CWZpbGU65r6c5p6iIHYyXzIuMi42NF94NjQtc2V0dXAuZXhlCkgzeGdLNzBNajV4MWI2QmRsNTFxOVhYOE9KdVFSOVZ5bzc3NkoxWXEyYk5BK0JlUmJiK0FzY0huRkxjQXBPOVF0ZTQvQ0hBOVNQRzUzRmcyZ1VWekNnPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.64/lanshu-v2_2.2.64_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.2.64",
+  "notes": "AI 聊天出错时说清原因（网络断、连接提前结束、服务出错、提问太快），只有所有免费模型都忙时才说额度用完；回答被截断时自动换模型重答，不把半截当完整；问「定邀」「定邀请」等简称能找到官方达人合作主页和定向合作指南；待补充真正记上才说已记入。",
+  "pub_date": "2026-11-16T09:16:19Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2hFdWc3TDBUbEthVzloV2RPOTB2eEczSlBrMnU2ZkM0SXROaDVqL2R4NEQwVDRCdVdHMWJLS25oYnVTcUI5YmlpVkh5RWVrWDFDWXEwZUMyOXJHa2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIwNDk0CWZpbGU65r6c5p6iIHYyXzIuMi42NF94NjQtc2V0dXAuZXhlCkgzeGdLNzBNajV4MWI2QmRsNTFxOVhYOE9KdVFSOVZ5bzc3NkoxWXEyYk5BK0JlUmJiK0FzY0huRkxjQXBPOVF0ZTQvQ0hBOVNQRzUzRmcyZ1VWekNnPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.64/lanshu-v2_2.2.64_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2lnOS94REhpUTYvLytjWmw2U3EvbU9keHFCSy9KOGJWL1lIK0NDUnU2WE8zMldvZExpV2xTL29zcUFXK0hVaUw3Z3Z1OEEvblI4UnVjMm5weldhSlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIwNDk5CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKMk9HS2R3VlJScDd4SFdmWWN4eDR4VjJtaFM4WCs5RDM5SDd0WWoxbkcxZ1E3M0t1TDdMZlJDaWxMb0U3MnlWcUtvRzlGSVgzUkF2SkZMaFVzWWo3QWc9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.64/LANSHU-v2.2.64-macOS-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2lnOS94REhpUTYvLytjWmw2U3EvbU9keHFCSy9KOGJWL1lIK0NDUnU2WE8zMldvZExpV2xTL29zcUFXK0hVaUw3Z3Z1OEEvblI4UnVjMm5weldhSlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIwNDk5CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKMk9HS2R3VlJScDd4SFdmWWN4eDR4VjJtaFM4WCs5RDM5SDd0WWoxbkcxZ1E3M0t1TDdMZlJDaWxMb0U3MnlWcUtvRzlGSVgzUkF2SkZMaFVzWWo3QWc9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.64/LANSHU-v2.2.64-macOS-universal.app.tar.gz"
+    }
+  }
 }
