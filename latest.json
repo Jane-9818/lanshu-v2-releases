@@ -1,19 +1,11 @@
 {
-  "version": "2.2.70",
-  "notes": "排班和工时主播不一致的场次，卡片上直接显示核对原因框，写清排班主播和工时主播；组长填原因后可确认；一致的场次照常一键确认，不要求填原因。",
-  "pub_date": "2026-11-17T10:34:50Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY25zekNMUjl4VDBSMFJiSmF4UitMV3dWT3hKSHpwU3hJUk1jcTZtWUNKK25XWGxHQ3dUWU1jaE1DN25KU0krMkd0T01ZeWpsVU1YaHNqQWl5dHBMVkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTExNjAzCWZpbGU65r6c5p6iIHYyXzIuMi43MF94NjQtc2V0dXAuZXhlCks1MENVUEx6R2FMODZxUlpJR0lVMjdOd1B6WjN2NkpTcFdtT1cxK3ptZW0wS3MzcHBrQnlYRkpBM1hEWmRyNzdVYUpxSTIwci9KUmJ4eTVPT25mbER3PT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.70/lanshu-v2_2.2.70_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2pTNk41MXhBM0NXdUh0MEJpK3FyeStQQS9SRTc5WENKTVcyNklXeDBGdy9BQTNMY08wM0hHRHVVN1ZsM2pDQUZRMExZMnhhMnBjU3hKY093RDBRb2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTExNjE2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKamlKcE9OSkt3Z28wMmJObm5PSktHSHBnVW5ROGJFUHJXMFRvd1FtYWluVnF0VHhVUk05aGVXYTdEK1BlTDlSS0ZVR09rSTErWXNDblpSZzNHS2ZqQUE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.70/LANSHU-v2.2.70-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2pTNk41MXhBM0NXdUh0MEJpK3FyeStQQS9SRTc5WENKTVcyNklXeDBGdy9BQTNMY08wM0hHRHVVN1ZsM2pDQUZRMExZMnhhMnBjU3hKY093RDBRb2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTExNjE2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKamlKcE9OSkt3Z28wMmJObm5PSktHSHBnVW5ROGJFUHJXMFRvd1FtYWluVnF0VHhVUk05aGVXYTdEK1BlTDlSS0ZVR09rSTErWXNDblpSZzNHS2ZqQUE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.70/LANSHU-v2.2.70-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.71",
+    "notes":  "店铺直播时长确认时，排班和工时主播不一致也要填核对原因：这一行直接显示原因框，逐段写清排班主播和工时主播；组长填原因后可确认，原因记进连带确认的工时场次；一致的照常一键确认。",
+    "pub_date":  "2026-11-17T19:00:46Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2lrMWtWUnllRjVpMEZxZit2T0pVemM4dnQ4WndWZ3p4czlzY3NYTkRQM29xNlNaV3NnQ2ZwcGtPbFhyOXNUdHd4TnRSOWNvREJ1RFZmbzFYRy9SMHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQxOTYyCWZpbGU65r6c5p6iIHYyXzIuMi43MV94NjQtc2V0dXAuZXhlCm5ZeVRlcFI1R1Z2VTZkWlRKVEI0Y2RGaDNNdzFkRGNjUjdLbC8rOVVqRnlPTGIyeDVzOTY4QW51ZGdNUmJiaFliSEJyR0d3TlVEWTBISGIvR0JKckN3PT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.71/lanshu-v2_2.2.71_x64-setup.exe"
+                                         }
+                  }
 }
