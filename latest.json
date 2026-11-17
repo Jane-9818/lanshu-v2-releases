@@ -1,19 +1,11 @@
 {
-  "version": "2.2.73",
-  "notes": "修改已确认场次也按同一套规则核对：改了主播、日期或时段，主播不一致要填核对原因、需补录换人会被拦，没有确认权限的人改了会回到待组长确认；主播不一致的提示统一成一句话。",
-  "pub_date": "2026-11-17T19:57:56Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY25pU2JJVG9HSXhvYzJEZFZTVW9GTVF4RHlINlJkSkxYYW5VZGRqRUxNZVNEM3I3aGxwN3A2NjVVSEd2VXc2eWdUcHJDMkErUkV1N1ZwMUdJTG9JWUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQ1Mzg3CWZpbGU65r6c5p6iIHYyXzIuMi43M194NjQtc2V0dXAuZXhlCmJjQUgvS1MrdVNweUQ0TkFMNkI3d1FRYnJIT3M3a2g1SzlzS3RhNVpOLzVUV0VYdlBzdDNvbmZmNDRHWXV0U2piT0hMUWpwUGdEL0VwSlZOUUY5NURnPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.73/lanshu-v2_2.2.73_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY29XcE9XT3paTm9IcXBUbFFKN1ZzL0thTExaZDZ0WlhMYzhYdzcwZ1BkcE1YTDYvMENUN1FDTWh1YUFqRVBQSG5FcGhLdkRORzMrRGpTQnRzUnowZlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQ1NDQ4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKcFRyUHFwZ1g5KzhsQ3JibnBsU1AwclRLZ2xOVEl1eVhDTTV4WUw3SFVZVHJkUnA0QTdwb0dkWFFnd2lDNWFmSzdhMGdMdlV5YjFHVUxnTjlSeVVXQUE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.73/LANSHU-v2.2.73-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY29XcE9XT3paTm9IcXBUbFFKN1ZzL0thTExaZDZ0WlhMYzhYdzcwZ1BkcE1YTDYvMENUN1FDTWh1YUFqRVBQSG5FcGhLdkRORzMrRGpTQnRzUnowZlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQ1NDQ4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKcFRyUHFwZ1g5KzhsQ3JibnBsU1AwclRLZ2xOVEl1eVhDTTV4WUw3SFVZVHJkUnA0QTdwb0dkWFFnd2lDNWFmSzdhMGdMdlV5YjFHVUxnTjlSeVVXQUE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.73/LANSHU-v2.2.73-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.74",
+    "notes":  "主播核对的提示说清楚：哪个名字来自排班网站当天交接班记录、哪个是澜枢工时登记、该去哪里改；按钮改叫「修改这场工时登记的主播」。只改文字，规则不变。",
+    "pub_date":  "2026-11-17T21:11:29Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3Ivb0VQakpxYSs1MFNoVHdSSWI2TUhzYllOdVh4eFVkVjVWRXNseUlpQ2RscmlPdElncTRUTnh3SXJqZEd2YTF4QllPR2ZBOERFQ3dHVmUzeGpyQ2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQ5ODAwCWZpbGU65r6c5p6iIHYyXzIuMi43NF94NjQtc2V0dXAuZXhlCmI5QUViaWowbVFYN0J5YUNTdTVPTk41WFYwZFB6a1k2RWdGa0R5NDZIV1ErYUpwTjFTY25sQzhpUWJJaXZSM3hPVmc5byt3bFFRSGpFL09MNEJLNURRPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.74/lanshu-v2_2.2.74_x64-setup.exe"
+                                         }
+                  }
 }
