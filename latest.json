@@ -1,19 +1,11 @@
 {
-  "version": "2.2.65",
-  "notes": "AI 聊天：输入区和停止按钮收成一条，生成中仍可继续输入；官方政策放到标题栏，壁纸上按钮更清楚；处罚、时限、样品题按官方原文回答，只调用免费模型。",
-  "pub_date": "2026-11-17T02:24:06Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3E1T2RITUJZUTBqbGJ6bythK0RmUlF4bGEwTXBYQ09rUi9iQlFXUFJTYWQ4Z1g4dzl5OEJSVFpEVnFoc2VpWEVwU25XWGlTYmZMTHV2MlI0ZVpBekFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODgyMTYxCWZpbGU65r6c5p6iIHYyXzIuMi42NV94NjQtc2V0dXAuZXhlClFqY2xVeXN3YW1ubEhpdVlCa3RnUlV5MXBzTWxLNXJnUjZXcm1TV21mSjhtQzNyWW03WWpneStmRkk3K3RsaUtKSzVpSklOTUZQY1BQMXdUVUhTd0F3PT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.65/lanshu-v2_2.2.65_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY21vdjJQSHhQUXJoTThRRlplaEhPN2hWTlA2bGFvQVN0aEYrTFAzcm80aGxidHo3bVcrZHVIQW15VDlYb0k3aExqMnlZdDhJN0lDNU52QXBSUm5LZ3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODgyMTc3CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKRFl3WUZ0UC9PV0Vtd0RrVG9XRkgxeGZPZWFJUG9QdklkWkhRSDM1cEFsMHJKTlJHNlpEMTZrZ1UzR2Yyd1ZTZHZFOHJSMHpXU1Q4ZVNlSGI5bjl1Qnc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.65/LANSHU-v2.2.65-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY21vdjJQSHhQUXJoTThRRlplaEhPN2hWTlA2bGFvQVN0aEYrTFAzcm80aGxidHo3bVcrZHVIQW15VDlYb0k3aExqMnlZdDhJN0lDNU52QXBSUm5LZ3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODgyMTc3CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKRFl3WUZ0UC9PV0Vtd0RrVG9XRkgxeGZPZWFJUG9QdklkWkhRSDM1cEFsMHJKTlJHNlpEMTZrZ1UzR2Yyd1ZTZHZFOHJSMHpXU1Q4ZVNlSGI5bjl1Qnc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.65/LANSHU-v2.2.65-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.66",
+    "notes":  "AI 聊天：会话列表和对话区撑满内容区，只留和其他页一样的小边距；主播工时导出对齐表格模版，培训时长放在视频时长旁边由运营填写，不计入总工时。",
+    "pub_date":  "2026-11-17T03:06:44Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JNMUdDMlNGanZFdFl5UUFIdlkyOTdlTkRXY3RpQXd1U2YvRHdEVkxFQisyckZzRlZnRWpiYnptRUJaaHlWd0QwaGJ0ZnVuOGFqN1hqbVJjcnJGL0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODg0NzE5CWZpbGU65r6c5p6iIHYyXzIuMi42Nl94NjQtc2V0dXAuZXhlCisrZWM0S2VwYlV6TmpHdEptdVZoNnlwSVlJbnZyRFlSZDlBNTg4NERIZms2RXY4amY1QUFMKzhVM2ZLc0ZwYjdKY0VneFhaaS9hOGxVb3dUeTVzb0RRPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.66/lanshu-v2_2.2.66_x64-setup.exe"
+                                         }
+                  }
 }
