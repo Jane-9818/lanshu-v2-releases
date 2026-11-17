@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.72",
-    "notes":  "店铺直播时长、主播工时、手动新增场次三处确认统一核对规则：排班主播和工时主播不一致都要填核对原因，一段里有几个主播都要先补录换人；手动新增时原因框直接出现在表单里；一致的照常确认。",
-    "pub_date":  "2026-11-17T19:36:49Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY242dTNucmlDaDNaQ2JadE9iTkNCZVRyZlVHc2FvV01IZmN1RjBFWUNORy9nUXkxR1k3d25zU1BaT3l5NDFGeVR0RTMxVWpGOXppcmZjbDlsb0lvZVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQ0MTI1CWZpbGU65r6c5p6iIHYyXzIuMi43Ml94NjQtc2V0dXAuZXhlClZUR0JzdlRsS1Z2RjZXSFduYjBFSlpSTGdldFhkbzZpUWd1d2l3RDZDQ0J3VHFUaUk5d2xzaGhoNmRuL1NyMXNndG4rOEdnbXFmREZLVnljbGdRb0JBPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.72/lanshu-v2_2.2.72_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.2.72",
+  "notes": "店铺直播时长、主播工时、手动新增场次三处确认统一核对规则：排班主播和工时主播不一致都要填核对原因，一段里有几个主播都要先补录换人；手动新增时原因框直接出现在表单里；一致的照常确认。",
+  "pub_date": "2026-11-17T19:36:49Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY242dTNucmlDaDNaQ2JadE9iTkNCZVRyZlVHc2FvV01IZmN1RjBFWUNORy9nUXkxR1k3d25zU1BaT3l5NDFGeVR0RTMxVWpGOXppcmZjbDlsb0lvZVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQ0MTI1CWZpbGU65r6c5p6iIHYyXzIuMi43Ml94NjQtc2V0dXAuZXhlClZUR0JzdlRsS1Z2RjZXSFduYjBFSlpSTGdldFhkbzZpUWd1d2l3RDZDQ0J3VHFUaUk5d2xzaGhoNmRuL1NyMXNndG4rOEdnbXFmREZLVnljbGdRb0JBPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.72/lanshu-v2_2.2.72_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3A5N2lFVTBvczhtVkU0QktyWTY5aE9zM3VkRit1M2owUDAzRjhoNlVhSFMwSVRTWlR0ZHcwZmUzeG5EamY2R1c3VlNvdTJWaDFHSGgvUEVHMW5GU2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQ0MTU1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKbjV0dThCNk1nUmhIRlN1N1Z6Q0xHeEI5bjNIN3pZT3dVZHBBODBrcjJ2L2M4Wmh1S0tSSnpBVjVGNzlvVTZKL0llbW8vcE9kK0hESjhWTFFFazdjQmc9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.72/LANSHU-v2.2.72-macOS-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3A5N2lFVTBvczhtVkU0QktyWTY5aE9zM3VkRit1M2owUDAzRjhoNlVhSFMwSVRTWlR0ZHcwZmUzeG5EamY2R1c3VlNvdTJWaDFHSGgvUEVHMW5GU2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQ0MTU1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKbjV0dThCNk1nUmhIRlN1N1Z6Q0xHeEI5bjNIN3pZT3dVZHBBODBrcjJ2L2M4Wmh1S0tSSnpBVjVGNzlvVTZKL0llbW8vcE9kK0hESjhWTFFFazdjQmc9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.72/LANSHU-v2.2.72-macOS-universal.app.tar.gz"
+    }
+  }
 }
