@@ -1,19 +1,11 @@
 {
-  "version": "2.2.66",
-  "notes": "AI 聊天：会话列表和对话区撑满内容区，只留和其他页一样的小边距；主播工时导出对齐表格模版，培训时长放在视频时长旁边由运营填写，不计入总工时。",
-  "pub_date": "2026-11-17T03:06:44Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JNMUdDMlNGanZFdFl5UUFIdlkyOTdlTkRXY3RpQXd1U2YvRHdEVkxFQisyckZzRlZnRWpiYnptRUJaaHlWd0QwaGJ0ZnVuOGFqN1hqbVJjcnJGL0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODg0NzE5CWZpbGU65r6c5p6iIHYyXzIuMi42Nl94NjQtc2V0dXAuZXhlCisrZWM0S2VwYlV6TmpHdEptdVZoNnlwSVlJbnZyRFlSZDlBNTg4NERIZms2RXY4amY1QUFMKzhVM2ZLc0ZwYjdKY0VneFhaaS9hOGxVb3dUeTVzb0RRPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.66/lanshu-v2_2.2.66_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tNOFFienJackVTeU1td1hHeXdEQW9RQnpabzBmYzlJRW1yWkFMdHBsZHdYM1hRSjVWTlZUSEJKOWxOTUNmVUxiS1VCVHlVQmU0aWdCbXRSWXFTc3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODg0NzQ4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKa3QyMlFDZVVHTldCSG1NWkd3TnBJU1VDdkJPaTJOck12NHhSbWdhbVN5emxWcFdPYmRFdGV2MVdXUkdtbFlHaGpINnVSVkE5YXU4UFp3a3ZQVllIRFE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.66/LANSHU-v2.2.66-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tNOFFienJackVTeU1td1hHeXdEQW9RQnpabzBmYzlJRW1yWkFMdHBsZHdYM1hRSjVWTlZUSEJKOWxOTUNmVUxiS1VCVHlVQmU0aWdCbXRSWXFTc3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODg0NzQ4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKa3QyMlFDZVVHTldCSG1NWkd3TnBJU1VDdkJPaTJOck12NHhSbWdhbVN5emxWcFdPYmRFdGV2MVdXUkdtbFlHaGpINnVSVkE5YXU4UFp3a3ZQVllIRFE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.66/LANSHU-v2.2.66-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.67",
+    "notes":  "排班与工时主播不一致时，组长核对并填写原因后可确认；表里写了两名运营时，组长在场次上选定一人，不会把已确认场次打回待确认。",
+    "pub_date":  "2026-11-17T06:12:40Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2pNbE1na3FVVitzQVRmOXpoMDZjemJaUzNDeWFBbmRZQ1IxTjl4elVMcFh6NVBWejgzb2hqaFVncGx4U2YxZ2x1VTlId0ltNmhwcTZteVFHWGFxRXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODk1ODc2CWZpbGU65r6c5p6iIHYyXzIuMi42N194NjQtc2V0dXAuZXhlCjFBZWRRdHNlTGU1ZzNyODhWVFNBbFJKNmxZZmhpN3ZVemxBRTE3MGRZdVdNemZCNnR5ckE5aVNYL0FEYmpuZmczM0pEQ0g3Z3h5c2h6Y3hXbFVoYkFBPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.67/lanshu-v2_2.2.67_x64-setup.exe"
+                                         }
+                  }
 }
