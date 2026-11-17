@@ -1,19 +1,11 @@
 {
-  "version": "2.2.67",
-  "notes": "排班与工时主播不一致时，组长核对并填写原因后可确认；表里写了两名运营时，组长在场次上选定一人，不会把已确认场次打回待确认。",
-  "pub_date": "2026-11-17T06:12:40Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2pNbE1na3FVVitzQVRmOXpoMDZjemJaUzNDeWFBbmRZQ1IxTjl4elVMcFh6NVBWejgzb2hqaFVncGx4U2YxZ2x1VTlId0ltNmhwcTZteVFHWGFxRXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODk1ODc2CWZpbGU65r6c5p6iIHYyXzIuMi42N194NjQtc2V0dXAuZXhlCjFBZWRRdHNlTGU1ZzNyODhWVFNBbFJKNmxZZmhpN3ZVemxBRTE3MGRZdVdNemZCNnR5ckE5aVNYL0FEYmpuZmczM0pEQ0g3Z3h5c2h6Y3hXbFVoYkFBPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.67/lanshu-v2_2.2.67_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3NjS3NvcXZJVHltbVBxL0o5ZG5KdFp2bDRzVkw5NjhXVTJBbDR5MjliY04yY0ZJNkFEUm1qK01LZ0syenB3cmh6bTZQbGhxc0pwaW92R2dqMzNldUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODk1ODk2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKdjVnam04ZkM4cmgzR3VTT1ozY0pkMUVaMExxNkhTYTNtREhCMmc5cHIycnJ5YXhsOFhadEsyNWdCUDJIRlBSRGh4cUZDcVJVcGU2VW5oS2dWV2ZUQnc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.67/LANSHU-v2.2.67-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3NjS3NvcXZJVHltbVBxL0o5ZG5KdFp2bDRzVkw5NjhXVTJBbDR5MjliY04yY0ZJNkFEUm1qK01LZ0syenB3cmh6bTZQbGhxc0pwaW92R2dqMzNldUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODk1ODk2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKdjVnam04ZkM4cmgzR3VTT1ozY0pkMUVaMExxNkhTYTNtREhCMmc5cHIycnJ5YXhsOFhadEsyNWdCUDJIRlBSRGh4cUZDcVJVcGU2VW5oS2dWV2ZUQnc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.67/LANSHU-v2.2.67-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.68",
+    "notes":  "有拍视频待核实的主播卡片会标明，组长可直接核实计入分钟；场次已确认也能补核。确认计入佣金时会写全该主播当天所有待核实行。",
+    "pub_date":  "2026-11-17T07:09:34Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2dPNE1FMSs3bC84UHZIUjdzL0FZWXc0QWsrZE5HYnJwTnhEZ1p1ajEyVW9weWRqUVF5M1dxUVFXY2ZCZFllWXZkRGRwZzJpeW1wcnhvbHdScFJVclFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODk5Mjg4CWZpbGU65r6c5p6iIHYyXzIuMi42OF94NjQtc2V0dXAuZXhlCjUrSnNrUkk0am5CZ0pkQ0E3SlE1UEY0dlFWQkQxb2Y1M1Brdll1Q21jSkJ5VlUyWjd0bUI3UkpZS3dFdmdWTDdpdktBaWdvaVQ2eGE3dFVxS0E4ckR3PT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.68/lanshu-v2_2.2.68_x64-setup.exe"
+                                         }
+                  }
 }
