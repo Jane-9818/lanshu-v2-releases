@@ -1,19 +1,11 @@
 {
-    "version": "2.2.78",
-    "notes": "已有场次每一段可「在这段里补录换人」，只拆这一段并显示剩余；多个主播只有一段只按工时登记算，排班对不上请填原因确认。",
-    "pub_date": "2026-11-18T08:30:21Z",
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tDZExFL1VEZmR1Yk9vK0FJdjRjRW85bWk3VWFBekYwT0Z2ZTYwd1Fod01VcUNxWXJyN2NhYnF5UkZ5MkFuOWJNa0VFQ3MrcGIrVTRoU1ZNeDA0S1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTkwNTM2CWZpbGU65r6c5p6iIHYyXzIuMi43OF94NjQtc2V0dXAuZXhlCktjTkxJM1VWUzZ6N3pCc1JIWVFKK0ZhR3hzVVI1SDJyT3ZFNUZJdDN5ZVJOdkRtYXoyejJic1pVT3M1VEljQ05DZUhZd3lIbmlZS1pLdTZqYVgyY0JnPT0K",
-            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.78/lanshu-v2_2.2.78_x64-setup.exe"
-        },
-        "darwin-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JEdCtBNmhxek1JaVJjZ29rU3Q4REZyZkZCSks3RjR2b1A3MSswem1pdWxjZUZYMENvTy8yM2NyTUNQakNVRkpIQ1cyY2dOa2JiQlBGN09JYWhPZndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTkwNTIzCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKSUtPSVhQeGJqdEVIeVRQYjNsbGliZEdETUpCMDFKQUlaM2E4QmZMV1hEV0g4WG5NR3Z6MXA1TVpJOXVWMjhhbzkzTmEzNkZpU29hbWNhS1ZQckhWRGc9PQo=",
-            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.78/LANSHU-v2.2.78-macOS-universal.app.tar.gz"
-        },
-        "darwin-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JEdCtBNmhxek1JaVJjZ29rU3Q4REZyZkZCSks3RjR2b1A3MSswem1pdWxjZUZYMENvTy8yM2NyTUNQakNVRkpIQ1cyY2dOa2JiQlBGN09JYWhPZndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTkwNTIzCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKSUtPSVhQeGJqdEVIeVRQYjNsbGliZEdETUpCMDFKQUlaM2E4QmZMV1hEV0g4WG5NR3Z6MXA1TVpJOXVWMjhhbzkzTmEzNkZpU29hbWNhS1ZQckhWRGc9PQo=",
-            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.78/LANSHU-v2.2.78-macOS-universal.app.tar.gz"
-        }
-    }
+    "version":  "2.2.79",
+    "notes":  "店铺直播时长的筛选改成按品牌：选一个品牌就含它下面所有直播账号，没设品牌的单列未设品牌。",
+    "pub_date":  "2026-11-18T21:48:41Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2cydmlwOFdOMUdaUlRBVXBTZ3JPd0R5UFVPZC9UbnBZQjRIQ1VjdXZvanl6UFhKRnJYcnN4NFdmVUpUQnlBMHJ5ak0zWkZiZ1dxekZ4ejhab2lpbGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM4NDMyCWZpbGU65r6c5p6iIHYyXzIuMi43OV94NjQtc2V0dXAuZXhlCnNXVVdYMmxsV0dKSHdjN2tMSGRYNGZENm9wZUhTbVh6Ym1TKzBnU2xLWHhyN3A4NmpCem1qOVF1ZWxucGRjSWFGMC9kQmZtekFiZndNYWpiRENXaURBPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.79/lanshu-v2_2.2.79_x64-setup.exe"
+                                         }
+                  }
 }
