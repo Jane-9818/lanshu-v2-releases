@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.81",
-    "notes":  "直播的导出表格改成中英双语：表头、sheet 名、说明行、合计行、状态值都是「中文 English」，数据和列顺序不变。",
-    "pub_date":  "2026-11-18T23:44:10Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2lITzZJeFN4U0Q5ZjNBK0R2TTBXTVpkbWtta2ZpeTdBMWNnV1h3K0habUxEdEF5WjNEMTIrOW9pUlRSNGdoZ2dBTnk3WXhwczBBR2YwRGtGQVdXbEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQ1MzYwCWZpbGU65r6c5p6iIHYyXzIuMi44MV94NjQtc2V0dXAuZXhlCktVY3JxQ2I4YXJ3cXpIaXNWcC9QM1pZYmdMNFRCZjc5SWZvWUZtVTFDSW5QbDZYWVh5WXhUTmYva0Z3NEtFMU1IT3hrUmhRK2Y3RFJnb0Y1K0xDY0NRPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.81/lanshu-v2_2.2.81_x64-setup.exe"
-                                         }
-                  }
+    "version": "2.2.81",
+    "notes": "直播的导出表格改成中英双语：表头、sheet 名、说明行、合计行、状态值都是「中文 English」，数据和列顺序不变。",
+    "pub_date": "2026-11-18T23:44:10Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2lITzZJeFN4U0Q5ZjNBK0R2TTBXTVpkbWtta2ZpeTdBMWNnV1h3K0habUxEdEF5WjNEMTIrOW9pUlRSNGdoZ2dBTnk3WXhwczBBR2YwRGtGQVdXbEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQ1MzYwCWZpbGU65r6c5p6iIHYyXzIuMi44MV94NjQtc2V0dXAuZXhlCktVY3JxQ2I4YXJ3cXpIaXNWcC9QM1pZYmdMNFRCZjc5SWZvWUZtVTFDSW5QbDZYWVh5WXhUTmYva0Z3NEtFMU1IT3hrUmhRK2Y3RFJnb0Y1K0xDY0NRPT0K",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.81/lanshu-v2_2.2.81_x64-setup.exe"
+        },
+        "darwin-aarch64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FaVkxwVlJnQ2M3elFjaDFwL0QwNGpMOERnVFh2MGRVK1JpNXBxNWp4bUs4WGZTcElRbEl3SnduNjZNSW44TDdWYktPdzhwV3pmb1V1amtkcXVHbGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQ0ODE0CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKL0ZFRUhXNzVHeXpJZFVZdkV3ZlB2S0lNYU5tY3ZGNVJDTG0xR2MxVERuNnNXeW0rQWgrU2lJa1c4dXZMTWdpcXFncTdwbEdvUW9abzJ4MTIrbHZORFE9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.81/LANSHU-v2.2.81-macOS-universal.app.tar.gz"
+        },
+        "darwin-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FaVkxwVlJnQ2M3elFjaDFwL0QwNGpMOERnVFh2MGRVK1JpNXBxNWp4bUs4WGZTcElRbEl3SnduNjZNSW44TDdWYktPdzhwV3pmb1V1amtkcXVHbGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQ0ODE0CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKL0ZFRUhXNzVHeXpJZFVZdkV3ZlB2S0lNYU5tY3ZGNVJDTG0xR2MxVERuNnNXeW0rQWgrU2lJa1c4dXZMTWdpcXFncTdwbEdvUW9abzJ4MTIrbHZORFE9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.81/LANSHU-v2.2.81-macOS-universal.app.tar.gz"
+        }
+    }
 }
