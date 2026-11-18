@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.80",
-    "notes":  "待确认的场次新增「不确认，不计入」：不算佣金、不进导出合计、不再算待确认，记录不删，可撤回；主播工时、店铺直播时长、拍视频待核实都有。",
-    "pub_date":  "2026-11-18T22:53:33Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2hUVmQrWERnTkZhb0VvWEVNc3UxdlBmeTFwUFhZRjUxZzFIVmY5bUMrUGliTzFFZlZ2QWpNUjA2YTJLeHBhRWpWbldnU2NFL2tFQTRBVzh1MGJWS0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQyMzI2CWZpbGU65r6c5p6iIHYyXzIuMi44MF94NjQtc2V0dXAuZXhlCmFDcU5rUGRuZDhiUmZUaDBtWWJnYnU2Y1hEbkl1WCsxTTZVT1F5R3R6c1NJa0VUUitKWVNYRlVxc2szRXBuZWYyMmEwVjBpRVJ4am9tcjVrRHdGa0RRPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.80/lanshu-v2_2.2.80_x64-setup.exe"
-                                         }
-                  }
+    "version": "2.2.80",
+    "notes": "待确认的场次新增「不确认，不计入」：不算佣金、不进导出合计、不再算待确认，记录不删，可撤回；主播工时、店铺直播时长、拍视频待核实都有。",
+    "pub_date": "2026-11-18T22:53:33Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2hUVmQrWERnTkZhb0VvWEVNc3UxdlBmeTFwUFhZRjUxZzFIVmY5bUMrUGliTzFFZlZ2QWpNUjA2YTJLeHBhRWpWbldnU2NFL2tFQTRBVzh1MGJWS0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQyMzI2CWZpbGU65r6c5p6iIHYyXzIuMi44MF94NjQtc2V0dXAuZXhlCmFDcU5rUGRuZDhiUmZUaDBtWWJnYnU2Y1hEbkl1WCsxTTZVT1F5R3R6c1NJa0VUUitKWVNYRlVxc2szRXBuZWYyMmEwVjBpRVJ4am9tcjVrRHdGa0RRPT0K",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.80/lanshu-v2_2.2.80_x64-setup.exe"
+        },
+        "darwin-aarch64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3VTNFd6RGxGZ3BwT01rc2NIYkhTdDQwT3d4eWFZckY3Yzg4ZEtCVEhqY2lWNDVSZyt0Tk10NDRlQXZOM0JUNmNkV3ZCbnVmaVlvanhraTF5ejJuN0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQyMjU2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKcmJYeHUzUjhPdE1wOGd2VmdzNm9jbE9sNkM5UE5ZUlQvMXBJT0FiVmVrQ1c5LzBvZGRjbEdrczdzamI4ejlpOUlMQmdQMk01TzI1THhKdFJYR0ZhQ0E9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.80/LANSHU-v2.2.80-macOS-universal.app.tar.gz"
+        },
+        "darwin-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3VTNFd6RGxGZ3BwT01rc2NIYkhTdDQwT3d4eWFZckY3Yzg4ZEtCVEhqY2lWNDVSZyt0Tk10NDRlQXZOM0JUNmNkV3ZCbnVmaVlvanhraTF5ejJuN0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQyMjU2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKcmJYeHUzUjhPdE1wOGd2VmdzNm9jbE9sNkM5UE5ZUlQvMXBJT0FiVmVrQ1c5LzBvZGRjbEdrczdzamI4ejlpOUlMQmdQMk01TzI1THhKdFJYR0ZhQ0E9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.80/LANSHU-v2.2.80-macOS-universal.app.tar.gz"
+        }
+    }
 }
