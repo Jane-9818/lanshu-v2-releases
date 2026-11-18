@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.79",
-    "notes":  "店铺直播时长的筛选改成按品牌：选一个品牌就含它下面所有直播账号，没设品牌的单列未设品牌。",
-    "pub_date":  "2026-11-18T21:48:41Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2cydmlwOFdOMUdaUlRBVXBTZ3JPd0R5UFVPZC9UbnBZQjRIQ1VjdXZvanl6UFhKRnJYcnN4NFdmVUpUQnlBMHJ5ak0zWkZiZ1dxekZ4ejhab2lpbGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM4NDMyCWZpbGU65r6c5p6iIHYyXzIuMi43OV94NjQtc2V0dXAuZXhlCnNXVVdYMmxsV0dKSHdjN2tMSGRYNGZENm9wZUhTbVh6Ym1TKzBnU2xLWHhyN3A4NmpCem1qOVF1ZWxucGRjSWFGMC9kQmZtekFiZndNYWpiRENXaURBPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.79/lanshu-v2_2.2.79_x64-setup.exe"
-                                         }
-                  }
+    "version": "2.2.79",
+    "notes": "店铺直播时长的筛选改成按品牌：选一个品牌就含它下面所有直播账号，没设品牌的单列未设品牌。",
+    "pub_date": "2026-11-18T21:48:41Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2cydmlwOFdOMUdaUlRBVXBTZ3JPd0R5UFVPZC9UbnBZQjRIQ1VjdXZvanl6UFhKRnJYcnN4NFdmVUpUQnlBMHJ5ak0zWkZiZ1dxekZ4ejhab2lpbGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM4NDMyCWZpbGU65r6c5p6iIHYyXzIuMi43OV94NjQtc2V0dXAuZXhlCnNXVVdYMmxsV0dKSHdjN2tMSGRYNGZENm9wZUhTbVh6Ym1TKzBnU2xLWHhyN3A4NmpCem1qOVF1ZWxucGRjSWFGMC9kQmZtekFiZndNYWpiRENXaURBPT0K",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.79/lanshu-v2_2.2.79_x64-setup.exe"
+        },
+        "darwin-aarch64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY21GWStrM2RCU3Q2WXNmZEJyRTRGS1RQNzdaVWJjZjRPTFZDYVhSZ3hiWGp5L0JXU3NBNFpqQ2VDVjNKV0VzZHhsUVdvVDcyaDJadEtqWWQwS0p2NXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM4NDQxCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKODdlN3Y3dklBSGpQRDRZMzVrVlRjVUxtUm5SeTgrNEQ1akM2eE5WalVUQmdrK1grQ3ViOTJzVmlZMCs0RlkyU25nQjdVZjQxWGhzRmJOWXR1WGFVQUE9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.79/LANSHU-v2.2.79-macOS-universal.app.tar.gz"
+        },
+        "darwin-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY21GWStrM2RCU3Q2WXNmZEJyRTRGS1RQNzdaVWJjZjRPTFZDYVhSZ3hiWGp5L0JXU3NBNFpqQ2VDVjNKV0VzZHhsUVdvVDcyaDJadEtqWWQwS0p2NXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDM4NDQxCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKODdlN3Y3dklBSGpQRDRZMzVrVlRjVUxtUm5SeTgrNEQ1akM2eE5WalVUQmdrK1grQ3ViOTJzVmlZMCs0RlkyU25nQjdVZjQxWGhzRmJOWXR1WGFVQUE9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.79/LANSHU-v2.2.79-macOS-universal.app.tar.gz"
+        }
+    }
 }
