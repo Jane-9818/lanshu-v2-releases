@@ -1,19 +1,11 @@
 {
-    "version": "2.2.76",
-    "notes": "导出表新增「拍视频明细」，每一条拍视频一条一行；同一主播同一天几条已核实拍视频都算，未核实的列出来但不算；汇总表写清每个总数算了哪些（只算已确认的场次和已核实的拍视频）。",
-    "pub_date": "2026-11-18T00:27:13Z",
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2hnQkU4K2VDYlFLS3ovU1FsSUFmOGd5NUozQWhWQ2xOdDc3amNSUUdMWk5uc1NMMDM0UkpPbGVUdlVLZ0FwSllRdE9ubkRaK0JucG5zYTY0M2lHdkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTYxNTQ1CWZpbGU65r6c5p6iIHYyXzIuMi43Nl94NjQtc2V0dXAuZXhlCnRNeVBId0V6VVB6TjhKenRjdHg3OG0rTEtVdXUrRGdWN0JHWFJzajBwaEl3eTFHUHVseS8rQ3N5UHVOQUNFdXc5dS90OG5DQjdCTDh0ZFcwd1A3a0FnPT0K",
-            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.76/lanshu-v2_2.2.76_x64-setup.exe"
-        },
-        "darwin-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tpcHh0cy9QdFZpRnNWZlVVeXB2WTdOakZaekFsU3c3RitjRzJwS3A0bmZoWCtxUW5OVkZXZzVnaURYS3RhaTlxS2c4elh3dk51SGtFZ3ZZZTdkZkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTYxNDg1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKQUJ6MVIvbmkveHZ3Z1F3NDN0UURFMHpuam1TSHZpaTk4ckhnUzE1OVVpc01IY0d1NE4zR2ZvUDI5TFArdHJSR3VPcUtHM1lsYUlNbFZTR1VmY0JsREE9PQo=",
-            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.76/LANSHU-v2.2.76-macOS-universal.app.tar.gz"
-        },
-        "darwin-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tpcHh0cy9QdFZpRnNWZlVVeXB2WTdOakZaekFsU3c3RitjRzJwS3A0bmZoWCtxUW5OVkZXZzVnaURYS3RhaTlxS2c4elh3dk51SGtFZ3ZZZTdkZkFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTYxNDg1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKQUJ6MVIvbmkveHZ3Z1F3NDN0UURFMHpuam1TSHZpaTk4ckhnUzE1OVVpc01IY0d1NE4zR2ZvUDI5TFArdHJSR3VPcUtHM1lsYUlNbFZTR1VmY0JsREE9PQo=",
-            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.76/LANSHU-v2.2.76-macOS-universal.app.tar.gz"
-        }
-    }
+    "version":  "2.2.77",
+    "notes":  "编辑或确认已有场次、以及今天以前的日报和补录，主播和运营下拉能选已离职的人（名字旁标「已离职」）；当天新建仍只选在职。",
+    "pub_date":  "2026-11-18T06:46:08Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3RhWDN1OVhiMnVjSWxZQnVhREdUZDZqSWtsaE5tODhCT2ZXOEYyY3lRckRnQVNLOU5yMXJFNWhnZnVBTy9QSzRZaVJ0RWk3blFTWUJiTERqQm1IWkFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTg0MjgxCWZpbGU65r6c5p6iIHYyXzIuMi43N194NjQtc2V0dXAuZXhlCjBDOUMzeWpqOE5lUHFQNTBDZW9VUUtHdjY0cXY4ZkNKd2N6YndqNnp4M3RQZFR2U3lQZnlRemJUbk4yRG05cURZazRqN0VrV2x6Y2ZzR1VXaUYyWENRPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.77/lanshu-v2_2.2.77_x64-setup.exe"
+                                         }
+                  }
 }
