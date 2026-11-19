@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.82",
-    "notes":  "前一天的直播日报第二天也能「换大屏截图」：替换、补传或删掉贴错的那张；先看改动再确认替换，改动留记录；数字变了直播时长和主播工时回到待组长确认。",
-    "pub_date":  "2026-11-19T02:24:37Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2pETk4yTSsydmtLQ3U0N053cm8wdjJBamlsc2tpZ1ovYWhJVXY3VkE1UDVjZkt4N1NwNDdtamFUL0w4UXRZbkUvc1hId3hZSStTcnB6ZndTcHN2NUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDU0OTg5CWZpbGU65r6c5p6iIHYyXzIuMi44Ml94NjQtc2V0dXAuZXhlCk9MS1NXRUZNRjQ5bVRoN0UyTmczVlN5VTN2ZVQrWGpVOCtGQkd3bnpoNU9qbS93VFBoUTlOWUJhNGtvT0RGRlEvaFZFZXZXclVwOThqcDJYR2FqYkF3PT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.82/lanshu-v2_2.2.82_x64-setup.exe"
-                                         }
-                  }
+    "version": "2.2.82",
+    "notes": "前一天的直播日报第二天也能「换大屏截图」：替换、补传或删掉贴错的那张；先看改动再确认替换，改动留记录；数字变了直播时长和主播工时回到待组长确认。",
+    "pub_date": "2026-11-19T02:24:37Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2pETk4yTSsydmtLQ3U0N053cm8wdjJBamlsc2tpZ1ovYWhJVXY3VkE1UDVjZkt4N1NwNDdtamFUL0w4UXRZbkUvc1hId3hZSStTcnB6ZndTcHN2NUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDU0OTg5CWZpbGU65r6c5p6iIHYyXzIuMi44Ml94NjQtc2V0dXAuZXhlCk9MS1NXRUZNRjQ5bVRoN0UyTmczVlN5VTN2ZVQrWGpVOCtGQkd3bnpoNU9qbS93VFBoUTlOWUJhNGtvT0RGRlEvaFZFZXZXclVwOThqcDJYR2FqYkF3PT0K",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.82/lanshu-v2_2.2.82_x64-setup.exe"
+        },
+        "darwin-aarch64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2x6MzlocWE0bWJ3VHRkUis0YUR3YVNETXpGT3VMVG84Y2tUOGE4akl1Y3QxMkFQelFYejlrYU9NMjQ1L1ltWXFvSUNIc3E0aTdDbm8xamp6d0ZaclFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDU0OTk0CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKUHo5MWRSK29FbDZVcFU3VWk3MnZ4bnlFbEY0OXl4RjRvT3NRKzBqRlFheXI5K2ZNZmE4VUNRWEFDTnBIOXNlQlpUUFFRbitnbitnQS94ejdJQXE3QUE9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.82/LANSHU-v2.2.82-macOS-universal.app.tar.gz"
+        },
+        "darwin-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2x6MzlocWE0bWJ3VHRkUis0YUR3YVNETXpGT3VMVG84Y2tUOGE4akl1Y3QxMkFQelFYejlrYU9NMjQ1L1ltWXFvSUNIc3E0aTdDbm8xamp6d0ZaclFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDU0OTk0CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKUHo5MWRSK29FbDZVcFU3VWk3MnZ4bnlFbEY0OXl4RjRvT3NRKzBqRlFheXI5K2ZNZmE4VUNRWEFDTnBIOXNlQlpUUFFRbitnbitnQS94ejdJQXE3QUE9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.82/LANSHU-v2.2.82-macOS-universal.app.tar.gz"
+        }
+    }
 }
