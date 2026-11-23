@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.87",
-    "notes":  "贴直播大屏截图时 Google 识别服务忙也会自动换模型再试；识别没读出来的截图可以点「重新识别」，日报、换大屏截图、补录和工时都一样。",
-    "pub_date":  "2026-11-23T21:59:41Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tvSkR3TU9BbSs3ZXo5V09abC9uZnhxRTBEZkIrSUlEWnB2M3hQTW8wM3Jpbm01WWlSVTNOUVdUNEJ1NGh5bS9SWTY3QmxBK0xYbWtISXlKNXRYM2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcxMDkxCWZpbGU65r6c5p6iIHYyXzIuMi44N194NjQtc2V0dXAuZXhlCmE1YnVSaDJSZFRGNEJnbVR4MlJEWU5kVWNzOEFTVzA0Mkp6cVF6NVFpV0RoN0NSK216RUhGVm1CYWR2b042bEM1ZnFTSithT05XakFGOHQ0eFJDd0J3PT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.87/lanshu-v2_2.2.87_x64-setup.exe"
-                                         }
-                  }
+    "version": "2.2.87",
+    "notes": "贴直播大屏截图时 Google 识别服务忙也会自动换模型再试；识别没读出来的截图可以点「重新识别」，日报、换大屏截图、补录和工时都一样。",
+    "pub_date": "2026-11-23T21:59:41Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tvSkR3TU9BbSs3ZXo5V09abC9uZnhxRTBEZkIrSUlEWnB2M3hQTW8wM3Jpbm01WWlSVTNOUVdUNEJ1NGh5bS9SWTY3QmxBK0xYbWtISXlKNXRYM2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcxMDkxCWZpbGU65r6c5p6iIHYyXzIuMi44N194NjQtc2V0dXAuZXhlCmE1YnVSaDJSZFRGNEJnbVR4MlJEWU5kVWNzOEFTVzA0Mkp6cVF6NVFpV0RoN0NSK216RUhGVm1CYWR2b042bEM1ZnFTSithT05XakFGOHQ0eFJDd0J3PT0K",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.87/lanshu-v2_2.2.87_x64-setup.exe"
+        },
+        "darwin-aarch64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY245WU5MNVJlUkpXSUlGMzNBOXNEbzltTVlkRTJYWTNQNFJTR1ZZNlhuaDNyRVZHa0xiSUd3NkZnaCtrcnMzSGNMakZickIzTzBsWmZlNjBjZG5Jd3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcxMTE2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKS29zQ3lvdWRjYnl0K0c2U2h5OGJxREwyRVNFMk02d1A3U3VxRHdvcEVBSGx5VEtURnNzdG9KTG9wckJTRlkzQU5ueEZKMmVYcVNudDBBQkJFWTdIRHc9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.87/LANSHU-v2.2.87-macOS-universal.app.tar.gz"
+        },
+        "darwin-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY245WU5MNVJlUkpXSUlGMzNBOXNEbzltTVlkRTJYWTNQNFJTR1ZZNlhuaDNyRVZHa0xiSUd3NkZnaCtrcnMzSGNMakZickIzTzBsWmZlNjBjZG5Jd3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcxMTE2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKS29zQ3lvdWRjYnl0K0c2U2h5OGJxREwyRVNFMk02d1A3U3VxRHdvcEVBSGx5VEtURnNzdG9KTG9wckJTRlkzQU5ueEZKMmVYcVNudDBBQkJFWTdIRHc9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.87/LANSHU-v2.2.87-macOS-universal.app.tar.gz"
+        }
+    }
 }
