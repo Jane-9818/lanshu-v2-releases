@@ -1,19 +1,11 @@
 {
-  "version": "2.2.86",
-  "notes": "直播工具「以前的日报」可以按运营账号、主播和日期段筛选（日期按洛杉矶时间），默认只显示最近 3 份，点「显示更早的」每次多看 10 份，一键清空筛选。",
-  "pub_date": "2026-11-23T21:45:00Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3MzNFpXU0dTVTNZTEJ5OWN0OHEremw0V3lCZXd5Rm14WmxrK1VtMmpLU1NUTVZvTVZDeE90OWR1NnRIaE5qd0pPM2gxRDNVZzRlaEZiTkJybW8xUEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcwMjExCWZpbGU65r6c5p6iIHYyXzIuMi44Nl94NjQtc2V0dXAuZXhlClJZS1NDaXAyaUtiTnhUYmNFQWJvZ2dvMWZiajVCMS9lQ3JhK1lNVC9JZVJNYUdUd2NYNWRnNTNmcFFLNUVuMHkyYU43QU1ZcmRDL0FWRjBmRWpvRUNRPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.86/lanshu-v2_2.2.86_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2x4OXlxWHhBS1Bqa0RLVkRtZTNheGFBa21nUzh3RXNjVFRDVFR3anROcmxFZWx0WHRDNURweGFrOVM3Y252eG9hUlV4Z2VTcHhUMWFFaWkvYkxRRmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcwMjA1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKNHlxMVVyUlF6WmxCSjl5WktjRFpZK3BuNzc0aGFubzY5OUY2K3dSdERuaFdlYUM4UlpJTE5lSUl3YTRTSmE5NHZxaUN0cDhkWjlKS2ZMQms1Zmt4QXc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.86/LANSHU-v2.2.86-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2x4OXlxWHhBS1Bqa0RLVkRtZTNheGFBa21nUzh3RXNjVFRDVFR3anROcmxFZWx0WHRDNURweGFrOVM3Y252eG9hUlV4Z2VTcHhUMWFFaWkvYkxRRmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcwMjA1CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKNHlxMVVyUlF6WmxCSjl5WktjRFpZK3BuNzc0aGFubzY5OUY2K3dSdERuaFdlYUM4UlpJTE5lSUl3YTRTSmE5NHZxaUN0cDhkWjlKS2ZMQms1Zmt4QXc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.86/LANSHU-v2.2.86-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.87",
+    "notes":  "贴直播大屏截图时 Google 识别服务忙也会自动换模型再试；识别没读出来的截图可以点「重新识别」，日报、换大屏截图、补录和工时都一样。",
+    "pub_date":  "2026-11-23T21:59:41Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tvSkR3TU9BbSs3ZXo5V09abC9uZnhxRTBEZkIrSUlEWnB2M3hQTW8wM3Jpbm01WWlSVTNOUVdUNEJ1NGh5bS9SWTY3QmxBK0xYbWtISXlKNXRYM2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDcxMDkxCWZpbGU65r6c5p6iIHYyXzIuMi44N194NjQtc2V0dXAuZXhlCmE1YnVSaDJSZFRGNEJnbVR4MlJEWU5kVWNzOEFTVzA0Mkp6cVF6NVFpV0RoN0NSK216RUhGVm1CYWR2b042bEM1ZnFTSithT05XakFGOHQ0eFJDd0J3PT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.87/lanshu-v2_2.2.87_x64-setup.exe"
+                                         }
+                  }
 }
