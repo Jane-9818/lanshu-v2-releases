@@ -1,19 +1,11 @@
 {
-  "version": "2.2.93",
-  "notes": "新增「访客」和「管理员」两种身份；成员管理按组分开，可以展开收起、搜名字或邮箱。",
-  "pub_date": "2026-11-24T22:21:06Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3RDWFY4Tkg0WnJLTXFVTytuQitDN0hYWHVnb0k0dkdtWUQveEZJc1ZxL1pjNDI3QnJHWFQ1dThDUkpHT1o5bzhxNmlMSHpLY25rcFNFeHhzblVOM1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTU4NzY5CWZpbGU65r6c5p6iIHYyXzIuMi45M194NjQtc2V0dXAuZXhlCkh2cmpScWtCNTdzVjJQQnFlNW9LOUZkTVZBODdORGs0ZlVPdDVuejRDbkkwZ2VqcFgxSnhNa1NDNVdSZG5QLzhXbm8vVE00dmRrdWNFMjFzTm5CaUJ3PT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.93/lanshu-v2_2.2.93_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZBdGNOTUI3bnp1ZnMzTXBGZXRkQ0ZoMWpZaFlGK0ZuZitBSDc1OG9aWStHdWVsRjd1TWlWL0I1bEpyTVlLOUJUWHpYd0pJd3cySi9hTzdFVmZtSVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTU4NzUwCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKN3MybXIxTml1ZmRSNG1ZT0JBQ1JUY2VjTXNTNkJUOHYzTWJEOWwxNzRkQzhtRERPclgvMFRxYUpFWTh0NW5WRHBIa0dDZzB4cDJGNjdvTCtSeGlyQmc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.93/LANSHU-v2.2.93-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZBdGNOTUI3bnp1ZnMzTXBGZXRkQ0ZoMWpZaFlGK0ZuZitBSDc1OG9aWStHdWVsRjd1TWlWL0I1bEpyTVlLOUJUWHpYd0pJd3cySi9hTzdFVmZtSVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTU4NzUwCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKN3MybXIxTml1ZmRSNG1ZT0JBQ1JUY2VjTXNTNkJUOHYzTWJEOWwxNzRkQzhtRERPclgvMFRxYUpFWTh0NW5WRHBIa0dDZzB4cDJGNjdvTCtSeGlyQmc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.93/LANSHU-v2.2.93-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.94",
+    "notes":  "选组卡片只写组名，不再写权限说明；访客的 AI 聊天空白页不再提「官方原文」。",
+    "pub_date":  "2026-11-24T22:49:02Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2tHcnRXdDJxcHpvKzd4SHhGVW1nZFVrUW0zNFA4em5NL2JhWWlrZnpuQW44UDZDUTkwcGJpY1MwYldGcFpLQWEvM083Tys5WVRoRG9hbXpWb3puTWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTYwNDUzCWZpbGU65r6c5p6iIHYyXzIuMi45NF94NjQtc2V0dXAuZXhlClNjOFhKbzY4Smg0b0EzN1FRVTRHRWdEOG1RaXNGUXp6OVc5TDFCbERoSUQ5RER6Qnk0TVNjWmVQYUpGUTFjRyt4RDAxQ2tMRFRPWlhQd2ZmQmtISERRPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.94/lanshu-v2_2.2.94_x64-setup.exe"
+                                         }
+                  }
 }
