@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.89",
-    "notes":  "修好「改品牌」：点了直接在那一行打开输入框，不再整页刷新、不跳位置；保存和取消也只更新这一行。",
-    "pub_date":  "2026-11-24T00:12:48Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JYZFpWRFhLZnFjaVlGNWdJY1RGN2dMZkJVc0hvZmZNOTlZTjNneUk5ay9xY3plNE9oNUJ0ZUdwZ2kyNlJnSld3R0xDc2hnNENyVGZZKzd1S0x6UkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDc5MDc1CWZpbGU65r6c5p6iIHYyXzIuMi44OV94NjQtc2V0dXAuZXhlCjlieFVwdlJQbDl0NFBLSXgwRGhYTmcycXQ3WGtRTDZJN25QVWZhZThZdFJJeml0Tmk0ekUweU5ocDVOa1lvdzVrYWNybDNtV2owK0F6NWtIVzZQekJRPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.89/lanshu-v2_2.2.89_x64-setup.exe"
-                                         }
-                  }
+    "version": "2.2.89",
+    "notes": "修好「改品牌」：点了直接在那一行打开输入框，不再整页刷新、不跳位置；保存和取消也只更新这一行。",
+    "pub_date": "2026-11-24T00:12:48Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JYZFpWRFhLZnFjaVlGNWdJY1RGN2dMZkJVc0hvZmZNOTlZTjNneUk5ay9xY3plNE9oNUJ0ZUdwZ2kyNlJnSld3R0xDc2hnNENyVGZZKzd1S0x6UkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDc5MDc1CWZpbGU65r6c5p6iIHYyXzIuMi44OV94NjQtc2V0dXAuZXhlCjlieFVwdlJQbDl0NFBLSXgwRGhYTmcycXQ3WGtRTDZJN25QVWZhZThZdFJJeml0Tmk0ekUweU5ocDVOa1lvdzVrYWNybDNtV2owK0F6NWtIVzZQekJRPT0K",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.89/lanshu-v2_2.2.89_x64-setup.exe"
+        },
+        "darwin-aarch64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JNTnVIYjU5ejJQT0lJaEhuREUyZkdZdEFjYXczbGdqcFE4NDQ2SEVxR3lmb3Q4ZkEybE1jN1hBajR1RUd5bDRsc3JXK0xQSjBGRUJxR21BVmUyckFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDc5MDM2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKeDJZQVY5NVc5SkxoRkxEM0NnbWU3clc0Zm9uRGxHYVd6WDdXcWJDdFVZbm55RVlSSEZKRFNCdlNzZVBsTS9kVnE4QXRjOGtBbUI1M2g3Q0xXVVNJQ1E9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.89/LANSHU-v2.2.89-macOS-universal.app.tar.gz"
+        },
+        "darwin-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JNTnVIYjU5ejJQT0lJaEhuREUyZkdZdEFjYXczbGdqcFE4NDQ2SEVxR3lmb3Q4ZkEybE1jN1hBajR1RUd5bDRsc3JXK0xQSjBGRUJxR21BVmUyckFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDc5MDM2CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKeDJZQVY5NVc5SkxoRkxEM0NnbWU3clc0Zm9uRGxHYVd6WDdXcWJDdFVZbm55RVlSSEZKRFNCdlNzZVBsTS9kVnE4QXRjOGtBbUI1M2g3Q0xXVVNJQ1E9PQo=",
+            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.89/LANSHU-v2.2.89-macOS-universal.app.tar.gz"
+        }
+    }
 }
