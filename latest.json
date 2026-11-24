@@ -1,19 +1,11 @@
 {
-    "version": "2.2.88",
-    "notes": "违规记录本、改品牌和拍视频记录、AI 聊天历史、违规自查记录都能一行筛选，默认只显示最近 3 条，「显示更早的」每次多 10 条；点「改品牌」会直接跳到输入框。",
-    "pub_date": "2026-11-23T23:54:55Z",
-    "platforms": {
-        "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JmSkpobm1lTUlZdGFwSFFrczczdFlRb0pLR2NhSEp4QTd0cXBVcHdBWGVZTjVlQ1d1QXpuY28zZHpsaU1vanltcDhlWlhIbTB5UEtkZVp2dUczbGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDc4MDA1CWZpbGU65r6c5p6iIHYyXzIuMi44OF94NjQtc2V0dXAuZXhlClkraW1oSkJ2YmNsb1VRdXN0bkRqbUd1MGR0SHhuT0JpRmQzWFFNbzZ4ZFRzbGhYTGVMZ2RBcVlCdjJMMjJFSzkybUdjWVZaclFmeEQ3MGtnZzVzeER3PT0K",
-            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.88/lanshu-v2_2.2.88_x64-setup.exe"
-        },
-        "darwin-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3J5OEcwdkZjQ0FURUZuU0hvZWRCeDI3cExMc1E1MDNSL2w3bXRJMTFMWkJ5Q1RacEJCeGpyYTcxcEhwRlNmbXg0SmJ6SWhSZC90RE9vTW1TOHA0UVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDc3OTk4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKMmNJK3pDbndRTElnZ2xuN0Zscm1qOUFScjRKcFhlSWZXY3QzZFAwam8xVmVrNkcwcFZ5VnBRWC9qTFRTWXIwK2RrYU9kS0pZaXNVL1NTaE53cjluQlE9PQo=",
-            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.88/LANSHU-v2.2.88-macOS-universal.app.tar.gz"
-        },
-        "darwin-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3J5OEcwdkZjQ0FURUZuU0hvZWRCeDI3cExMc1E1MDNSL2w3bXRJMTFMWkJ5Q1RacEJCeGpyYTcxcEhwRlNmbXg0SmJ6SWhSZC90RE9vTW1TOHA0UVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDc3OTk4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKMmNJK3pDbndRTElnZ2xuN0Zscm1qOUFScjRKcFhlSWZXY3QzZFAwam8xVmVrNkcwcFZ5VnBRWC9qTFRTWXIwK2RrYU9kS0pZaXNVL1NTaE53cjluQlE9PQo=",
-            "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.88/LANSHU-v2.2.88-macOS-universal.app.tar.gz"
-        }
-    }
+    "version":  "2.2.89",
+    "notes":  "修好「改品牌」：点了直接在那一行打开输入框，不再整页刷新、不跳位置；保存和取消也只更新这一行。",
+    "pub_date":  "2026-11-24T00:12:48Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JYZFpWRFhLZnFjaVlGNWdJY1RGN2dMZkJVc0hvZmZNOTlZTjNneUk5ay9xY3plNE9oNUJ0ZUdwZ2kyNlJnSld3R0xDc2hnNENyVGZZKzd1S0x6UkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDc5MDc1CWZpbGU65r6c5p6iIHYyXzIuMi44OV94NjQtc2V0dXAuZXhlCjlieFVwdlJQbDl0NFBLSXgwRGhYTmcycXQ3WGtRTDZJN25QVWZhZThZdFJJeml0Tmk0ekUweU5ocDVOa1lvdzVrYWNybDNtV2owK0F6NWtIVzZQekJRPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.89/lanshu-v2_2.2.89_x64-setup.exe"
+                                         }
+                  }
 }
