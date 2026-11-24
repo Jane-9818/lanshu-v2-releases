@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.90",
-    "notes":  "主播工时佣金页点展开、收起、显示更早的、筛选，不再整页重新加载，页面不跳不闪；日报、违规记录本也一样，只有换日期或保存后才重新拉数据。",
-    "pub_date":  "2026-11-24T00:39:33Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3I5K1lyYlE2dkhOZUloWDJnZUY5NWRibm0xem9XU2h1Sm5qUEp0dDdIaUxqNSsvYUlqWXRxdVczY3psRW5ZNzZ2QnljUkxiRW4zTmNnVG9iYUdINWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDgwNjgzCWZpbGU65r6c5p6iIHYyXzIuMi45MF94NjQtc2V0dXAuZXhlCnAwbG5hVCtpWVdDdkxLRlBTSWZ2SWtib1V1a2RGZnh2V1ZHZytDangwZVBIQU5Da0RhckdIbmdaMjVSTUkvRUZzS0dNM1VYUkQrRjFQaGtrUUt0SkNBPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.90/lanshu-v2_2.2.90_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.2.90",
+  "notes": "主播工时佣金页点展开、收起、显示更早的、筛选，不再整页重新加载，页面不跳不闪；日报、违规记录本也一样，只有换日期或保存后才重新拉数据。",
+  "pub_date": "2026-11-24T00:39:33Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3I5K1lyYlE2dkhOZUloWDJnZUY5NWRibm0xem9XU2h1Sm5qUEp0dDdIaUxqNSsvYUlqWXRxdVczY3psRW5ZNzZ2QnljUkxiRW4zTmNnVG9iYUdINWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDgwNjgzCWZpbGU65r6c5p6iIHYyXzIuMi45MF94NjQtc2V0dXAuZXhlCnAwbG5hVCtpWVdDdkxLRlBTSWZ2SWtib1V1a2RGZnh2V1ZHZytDangwZVBIQU5Da0RhckdIbmdaMjVSTUkvRUZzS0dNM1VYUkQrRjFQaGtrUUt0SkNBPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.90/lanshu-v2_2.2.90_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZWODU1R2s3d25WYnNISURWbVlBeWpzWW90N3NtYUF2S2pCU1o4QkJPdXJBQUxCWlBsRmpTRTE3dTZKaE1Ja0VCYW1BaWd1NndsQ0psa0dtU3pya1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDgwNjg0CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKYUZYUWNHQjd3VXVOMGFWRGp2dmg4TkFyR0w1Z3pheG5XUyt6Y3c4b2wvdWp6b0tKSUZ6b29QTzNmTXBhS05vdXpUa2FBL2FxdlVJUlhsRGFmakVYQnc9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.90/LANSHU-v2.2.90-macOS-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZWODU1R2s3d25WYnNISURWbVlBeWpzWW90N3NtYUF2S2pCU1o4QkJPdXJBQUxCWlBsRmpTRTE3dTZKaE1Ja0VCYW1BaWd1NndsQ0psa0dtU3pya1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDgwNjg0CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKYUZYUWNHQjd3VXVOMGFWRGp2dmg4TkFyR0w1Z3pheG5XUyt6Y3c4b2wvdWp6b0tKSUZ6b29QTzNmTXBhS05vdXpUa2FBL2FxdlVJUlhsRGFmakVYQnc9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.90/LANSHU-v2.2.90-macOS-universal.app.tar.gz"
+    }
+  }
 }
