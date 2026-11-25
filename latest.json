@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.95",
-    "notes":  "直播日报的日期跟着截图走，对不上时先问这场是哪天播的；同一场重复交日报会提醒；主播工时每张场次卡片都写上录入人。",
-    "pub_date":  "2026-11-25T07:33:03Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2xBSldVZWZTTkljN0dWVE1neDhmWmlmeEFzZGwvSnFiOTFhdTRIUnBzOGFudGd4TTVEVmNIVEhwKytrTVpmdzF1VjlHZGdSU3VmRzNOUCt2THJJaEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTkxODkxCWZpbGU65r6c5p6iIHYyXzIuMi45NV94NjQtc2V0dXAuZXhlCjY4Ni9VY013UWtUdEtwZ05RUXRwbk80cGZaLzBmRjQ1YUFTdHFERW1UWllqU1NDUnRUamUyZ0phZEN5NXRQVXREZjRrUjgrR0owNlVNclVFaThOQUNnPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.95/lanshu-v2_2.2.95_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.2.95",
+  "notes": "直播日报的日期跟着截图走，对不上时先问这场是哪天播的；同一场重复交日报会提醒；主播工时每张场次卡片都写上录入人。",
+  "pub_date": "2026-11-25T07:33:03Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2xBSldVZWZTTkljN0dWVE1neDhmWmlmeEFzZGwvSnFiOTFhdTRIUnBzOGFudGd4TTVEVmNIVEhwKytrTVpmdzF1VjlHZGdSU3VmRzNOUCt2THJJaEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTkxODkxCWZpbGU65r6c5p6iIHYyXzIuMi45NV94NjQtc2V0dXAuZXhlCjY4Ni9VY013UWtUdEtwZ05RUXRwbk80cGZaLzBmRjQ1YUFTdHFERW1UWllqU1NDUnRUamUyZ0phZEN5NXRQVXREZjRrUjgrR0owNlVNclVFaThOQUNnPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.95/lanshu-v2_2.2.95_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY294Q2lROU5pTnZZZXhqa3FHa0NlM1Y5YXZ0bmpiUjlQbDNWZDlLTGxUNjN0WWVoWlFLN1JQWHpSek0vZjAzaTAxM0s3RmRkRVlwK3hsMWJuWGhyeEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTkxOTMwCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKaDFvN0hNR3FoNnVPRjlFSFIrZFEwWktUaGFBenJRQmVZUi9MUzhMeG9mMWFGdEhmRmNBTGNiZFN0Q3hyWEpDdEdlc2hiSnJpNU9rdXZ4M05veUVLRGc9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.95/LANSHU-v2.2.95-macOS-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY294Q2lROU5pTnZZZXhqa3FHa0NlM1Y5YXZ0bmpiUjlQbDNWZDlLTGxUNjN0WWVoWlFLN1JQWHpSek0vZjAzaTAxM0s3RmRkRVlwK3hsMWJuWGhyeEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTkxOTMwCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKaDFvN0hNR3FoNnVPRjlFSFIrZFEwWktUaGFBenJRQmVZUi9MUzhMeG9mMWFGdEhmRmNBTGNiZFN0Q3hyWEpDdEdlc2hiSnJpNU9rdXZ4M05veUVLRGc9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.95/LANSHU-v2.2.95-macOS-universal.app.tar.gz"
+    }
+  }
 }
