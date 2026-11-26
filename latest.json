@@ -1,19 +1,11 @@
 {
-  "version": "2.2.97",
-  "notes": "组长给的重置码修好了：不记得注册时用的邮箱也能用，邮箱可以不填；重设成功后会告诉你登录邮箱，组长的重置码卡片上也写出 TA 的登录邮箱。",
-  "pub_date": "2026-11-26T04:10:20Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FQdVA3Q01jejZRRXFoZmxTR0crRStWb1JRRThHVVRpMDE5OHltVnhNQ01pZkdvREZqeENEek1vdFZteFJmZ1VRdFUyZjFGc0hlMHJrK29hdHBvL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY2MTMxCWZpbGU65r6c5p6iIHYyXzIuMi45N194NjQtc2V0dXAuZXhlCk5CR0dXN3RNUHloUFhuYkxQeFEreWJCN0hwdWlkQmdjM1paZW52WUFMamd3UXFVNmNUNGpTeDVVWk5Db0FVcTZwMTRrVWRNcnJLRE1kaHFGaGViSUFRPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.97/lanshu-v2_2.2.97_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2xtMDhXY2tEM2dwZnNvY0xVUW9lQW5TV0E0Y250NnAyR2dsTGFPUXR0MU5CdjFpTEhXSy9yZkNvK3pTRVMxNWdSVUpaSWdOR1Z6R1IrMENod1Z0cndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY2MDc4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKWTRjNkxyTEhTZE1ONzBoQkZoN3ZuTUp0V1NqTGQySVhDd2lFdzlTalpxdzVwOHR2ZUZERnhqYTZtODR5Qng5NUJqN254RzlRVXdraDhqSU5qWmZIQ2c9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.97/LANSHU-v2.2.97-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2xtMDhXY2tEM2dwZnNvY0xVUW9lQW5TV0E0Y250NnAyR2dsTGFPUXR0MU5CdjFpTEhXSy9yZkNvK3pTRVMxNWdSVUpaSWdOR1Z6R1IrMENod1Z0cndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY2MDc4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKWTRjNkxyTEhTZE1ONzBoQkZoN3ZuTUp0V1NqTGQySVhDd2lFdzlTalpxdzVwOHR2ZUZERnhqYTZtODR5Qng5NUJqN254RzlRVXdraDhqSU5qWmZIQ2c9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.97/LANSHU-v2.2.97-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.98",
+    "notes":  "左下角和手机「更多」里的身份写对了：管理员显示管理员、访客显示访客；所有者改了身份，不用重新登录就会更新。",
+    "pub_date":  "2026-11-26T04:56:22Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JOMUVTeVgyaXljZWJyNmVwRFlxalUvQk5QamwyVlBHKzdlZEZYdkJmZ2JCbkVuSXVZYjAvN2xYVVJ6dmZ4R2lmejFKcCtKYzhqLzVSVXpXV2pBUUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY4ODk0CWZpbGU65r6c5p6iIHYyXzIuMi45OF94NjQtc2V0dXAuZXhlCmVEWkZKWTRRbjNzZmtFZUtGSmQ4ZlYxdzJzRXVYWmZtMkJHQ2F2UHFmWVp5NkhJU0ZhZjQwTU5rNEU2SktweEk2NFZPVExMSDgrTkVob2J2SjZSdURRPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.98/lanshu-v2_2.2.98_x64-setup.exe"
+                                         }
+                  }
 }
