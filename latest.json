@@ -1,11 +1,19 @@
 {
-    "version":  "2.2.97",
-    "notes":  "组长给的重置码修好了：不记得注册时用的邮箱也能用，邮箱可以不填；重设成功后会告诉你登录邮箱，组长的重置码卡片上也写出 TA 的登录邮箱。",
-    "pub_date":  "2026-11-26T04:10:20Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FQdVA3Q01jejZRRXFoZmxTR0crRStWb1JRRThHVVRpMDE5OHltVnhNQ01pZkdvREZqeENEek1vdFZteFJmZ1VRdFUyZjFGc0hlMHJrK29hdHBvL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY2MTMxCWZpbGU65r6c5p6iIHYyXzIuMi45N194NjQtc2V0dXAuZXhlCk5CR0dXN3RNUHloUFhuYkxQeFEreWJCN0hwdWlkQmdjM1paZW52WUFMamd3UXFVNmNUNGpTeDVVWk5Db0FVcTZwMTRrVWRNcnJLRE1kaHFGaGViSUFRPT0K",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.97/lanshu-v2_2.2.97_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.2.97",
+  "notes": "组长给的重置码修好了：不记得注册时用的邮箱也能用，邮箱可以不填；重设成功后会告诉你登录邮箱，组长的重置码卡片上也写出 TA 的登录邮箱。",
+  "pub_date": "2026-11-26T04:10:20Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FQdVA3Q01jejZRRXFoZmxTR0crRStWb1JRRThHVVRpMDE5OHltVnhNQ01pZkdvREZqeENEek1vdFZteFJmZ1VRdFUyZjFGc0hlMHJrK29hdHBvL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY2MTMxCWZpbGU65r6c5p6iIHYyXzIuMi45N194NjQtc2V0dXAuZXhlCk5CR0dXN3RNUHloUFhuYkxQeFEreWJCN0hwdWlkQmdjM1paZW52WUFMamd3UXFVNmNUNGpTeDVVWk5Db0FVcTZwMTRrVWRNcnJLRE1kaHFGaGViSUFRPT0K",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.97/lanshu-v2_2.2.97_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2xtMDhXY2tEM2dwZnNvY0xVUW9lQW5TV0E0Y250NnAyR2dsTGFPUXR0MU5CdjFpTEhXSy9yZkNvK3pTRVMxNWdSVUpaSWdOR1Z6R1IrMENod1Z0cndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY2MDc4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKWTRjNkxyTEhTZE1ONzBoQkZoN3ZuTUp0V1NqTGQySVhDd2lFdzlTalpxdzVwOHR2ZUZERnhqYTZtODR5Qng5NUJqN254RzlRVXdraDhqSU5qWmZIQ2c9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.97/LANSHU-v2.2.97-macOS-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2xtMDhXY2tEM2dwZnNvY0xVUW9lQW5TV0E0Y250NnAyR2dsTGFPUXR0MU5CdjFpTEhXSy9yZkNvK3pTRVMxNWdSVUpaSWdOR1Z6R1IrMENod1Z0cndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY2MDc4CWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKWTRjNkxyTEhTZE1ONzBoQkZoN3ZuTUp0V1NqTGQySVhDd2lFdzlTalpxdzVwOHR2ZUZERnhqYTZtODR5Qng5NUJqN254RzlRVXdraDhqSU5qWmZIQ2c9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.97/LANSHU-v2.2.97-macOS-universal.app.tar.gz"
+    }
+  }
 }
