@@ -1,19 +1,11 @@
 {
-  "version": "2.2.96",
-  "notes": "修改密码时忘了现在的密码，点「忘记现在的密码？」用邮箱验证码或组长给的重置码就能重设，不用退出登录；组长生成的重置码写明几点前有效，旧码作废时会说清楚。",
-  "pub_date": "2026-11-26T03:22:25Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2xMdDIyNk9rQzRtUHdERER2V0xrS0VvME5hMFk2N3NZM0pwWmozS2pFQ3FERTMvU242L3NDL1RSQXJBSkFwZS9zT2pJQTg0SFhFampteTZYbmUzY0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjYzMjU0CWZpbGU65r6c5p6iIHYyXzIuMi45Nl94NjQtc2V0dXAuZXhlClZtVjU5OFliVFRJbFlQUVJMMHlpNmtZZGxaaHlKL0xLMysxcjdtK3l1NlFGNCtVSFA0b0VXSHBzOEtXRzhSWUd6bXIxejFpbUhheEpwUFhOSUtyZkN3PT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.96/lanshu-v2_2.2.96_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3YzYkdaUG9jMW1ncm12OUdwNnZvTEU0SHRDd1JvOVlLZUZZajJiSTBNTzJCSGhCUHJiMXpPbkppMFNxTDVCNElCSGFxTUNkbEtaMWhBakk5WHN3UkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjYzMjczCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKSGFWTFlFb2Y0WWxnMHp4ajkvL2lXMWlKSlVJaTdnREwvNDdZS3AyQlBQVUE2TGNLN2IvNy9na0ZFWjNFY3pEUmtjSHdDTWtMMWdXOXllbURCblNXQlE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.96/LANSHU-v2.2.96-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3YzYkdaUG9jMW1ncm12OUdwNnZvTEU0SHRDd1JvOVlLZUZZajJiSTBNTzJCSGhCUHJiMXpPbkppMFNxTDVCNElCSGFxTUNkbEtaMWhBakk5WHN3UkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjYzMjczCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKSGFWTFlFb2Y0WWxnMHp4ajkvL2lXMWlKSlVJaTdnREwvNDdZS3AyQlBQVUE2TGNLN2IvNy9na0ZFWjNFY3pEUmtjSHdDTWtMMWdXOXllbURCblNXQlE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.96/LANSHU-v2.2.96-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.97",
+    "notes":  "组长给的重置码修好了：不记得注册时用的邮箱也能用，邮箱可以不填；重设成功后会告诉你登录邮箱，组长的重置码卡片上也写出 TA 的登录邮箱。",
+    "pub_date":  "2026-11-26T04:10:20Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3FQdVA3Q01jejZRRXFoZmxTR0crRStWb1JRRThHVVRpMDE5OHltVnhNQ01pZkdvREZqeENEek1vdFZteFJmZ1VRdFUyZjFGc0hlMHJrK29hdHBvL2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY2MTMxCWZpbGU65r6c5p6iIHYyXzIuMi45N194NjQtc2V0dXAuZXhlCk5CR0dXN3RNUHloUFhuYkxQeFEreWJCN0hwdWlkQmdjM1paZW52WUFMamd3UXFVNmNUNGpTeDVVWk5Db0FVcTZwMTRrVWRNcnJLRE1kaHFGaGViSUFRPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.97/lanshu-v2_2.2.97_x64-setup.exe"
+                                         }
+                  }
 }
