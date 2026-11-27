@@ -1,11 +1,19 @@
 {
-    "version":  "2.3.0",
-    "notes":  "忘记密码发验证码时，发没发出去会直接告诉你；邮箱没注册或打错会提示；收不到可以 60 秒后重新发送；注册时 gmail.con 这类错后缀会提醒改对。",
-    "pub_date":  "2026-11-27T19:13:55Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2x5dGZwQnQwckNxYzhxQkJBMnpHRUJzcDVMdkVyMEpkZnJHZW5EYS9pSXdWaFlLaWRaV1dkQ3ZUT1laMGRhVzRzV3RDelhDNENKbUtDdG1KU0JVa3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODA2NzQ0CWZpbGU65r6c5p6iIHYyXzIuMy4wX3g2NC1zZXR1cC5leGUKTTRtbHhYakxIVUVKbUZKSkdRMW4xSm1HRWFjVEJFWllURFNhVms2U0pmbUhoUFZta2JxZUluTjJSblJmSGQvMW5QcjVyTm1iMlQyTWJ2Wm9OMHNIQ2c9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.0/lanshu-v2_2.3.0_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.3.0",
+  "notes": "忘记密码发验证码时，发没发出去会直接告诉你；邮箱没注册或打错会提示；收不到可以 60 秒后重新发送；注册时 gmail.con 这类错后缀会提醒改对。",
+  "pub_date": "2026-11-27T19:13:55Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2x5dGZwQnQwckNxYzhxQkJBMnpHRUJzcDVMdkVyMEpkZnJHZW5EYS9pSXdWaFlLaWRaV1dkQ3ZUT1laMGRhVzRzV3RDelhDNENKbUtDdG1KU0JVa3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODA2NzQ0CWZpbGU65r6c5p6iIHYyXzIuMy4wX3g2NC1zZXR1cC5leGUKTTRtbHhYakxIVUVKbUZKSkdRMW4xSm1HRWFjVEJFWllURFNhVms2U0pmbUhoUFZta2JxZUluTjJSblJmSGQvMW5QcjVyTm1iMlQyTWJ2Wm9OMHNIQ2c9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.0/lanshu-v2_2.3.0_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY25vVERkdDVNdkZ0WWdUMVNGMXdSWVhTTTlqWGxydDkxdTZBbWJublhSc0tMVCtRd2NOek1oSm5kZHdMWk00cnU4L3ZzbXFFYUppVDB5SVlONnRUVlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODA2NzYyCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKRkVGdTN0cUoya0pXMTR4RFFxRzFVOVhnUU0xTDNMS1lIUlREUUxMZnpFSlgvNGJtZmN3Z1JMUDVJZVdmSWtla2Rzb3BTNXYraVM0YVRCRnZXV3lxQWc9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.0/LANSHU-v2.3.0-macOS-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY25vVERkdDVNdkZ0WWdUMVNGMXdSWVhTTTlqWGxydDkxdTZBbWJublhSc0tMVCtRd2NOek1oSm5kZHdMWk00cnU4L3ZzbXFFYUppVDB5SVlONnRUVlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODA2NzYyCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKRkVGdTN0cUoya0pXMTR4RFFxRzFVOVhnUU0xTDNMS1lIUlREUUxMZnpFSlgvNGJtZmN3Z1JMUDVJZVdmSWtla2Rzb3BTNXYraVM0YVRCRnZXV3lxQWc9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.0/LANSHU-v2.3.0-macOS-universal.app.tar.gz"
+    }
+  }
 }
