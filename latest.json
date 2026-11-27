@@ -1,19 +1,11 @@
 {
-  "version": "2.2.98",
-  "notes": "左下角和手机「更多」里的身份写对了：管理员显示管理员、访客显示访客；所有者改了身份，不用重新登录就会更新。",
-  "pub_date": "2026-11-26T04:56:22Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JOMUVTeVgyaXljZWJyNmVwRFlxalUvQk5QamwyVlBHKzdlZEZYdkJmZ2JCbkVuSXVZYjAvN2xYVVJ6dmZ4R2lmejFKcCtKYzhqLzVSVXpXV2pBUUFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY4ODk0CWZpbGU65r6c5p6iIHYyXzIuMi45OF94NjQtc2V0dXAuZXhlCmVEWkZKWTRRbjNzZmtFZUtGSmQ4ZlYxdzJzRXVYWmZtMkJHQ2F2UHFmWVp5NkhJU0ZhZjQwTU5rNEU2SktweEk2NFZPVExMSDgrTkVob2J2SjZSdURRPT0K",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.98/lanshu-v2_2.2.98_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY29aZEFMZHoybnYwQnBjZ2cyRUgrRVVTRFNDeWlTL2ZEbDg1ejFhZVJXME9UYnFsaEIzVVYwV3pZM1JueGZ3T0R5ay91cUo4QlExaU53QzRuanB5MFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY4OTMwCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKWlVoNlBuVlUyR0R3SzNVUEhnSnlROXhhRHNJTkVxTUJoaHB6S050ZnhaRDdXTG5NZEszRGU0SjhWRVVYQlN1YzRmM1JVZnJjVGlDbnF0L2RCTHpIQ1E9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.98/LANSHU-v2.2.98-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY29aZEFMZHoybnYwQnBjZ2cyRUgrRVVTRFNDeWlTL2ZEbDg1ejFhZVJXME9UYnFsaEIzVVYwV3pZM1JueGZ3T0R5ay91cUo4QlExaU53QzRuanB5MFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjY4OTMwCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKWlVoNlBuVlUyR0R3SzNVUEhnSnlROXhhRHNJTkVxTUJoaHB6S050ZnhaRDdXTG5NZEszRGU0SjhWRVVYQlN1YzRmM1JVZnJjVGlDbnF0L2RCTHpIQ1E9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.98/LANSHU-v2.2.98-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.2.99",
+    "notes":  "下拉选项、日期、时间全换成澜枢自己的样子，不再是系统灰色菜单；店铺账号加了「仓库系统」分类，账号类型跟着分类变。",
+    "pub_date":  "2026-11-27T02:50:24Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3NWdDNCZ0xrVTJJVUhLbWRuV1hCK01vMkRmYUp6YWw2dEloRlhpZU00czYrU3c0YkJyb2lBK0h2a0k5TzZMTytNUVhCU3RkRExIVDF2TEhMU3ZsaXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NzQ3NzI3CWZpbGU65r6c5p6iIHYyXzIuMi45OV94NjQtc2V0dXAuZXhlCnVaQ1NzQXQ1dzNsNWt6SFhNT01kcjI0VVMwcm56OWpVdnM4T3RudWkrNGM3dnVScG9qVXNORVJSWEFFOFhvUzlqQUVQcmVya2F5K1hxNG1HZGNndkNnPT0K",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.2.99/lanshu-v2_2.2.99_x64-setup.exe"
+                                         }
+                  }
 }
