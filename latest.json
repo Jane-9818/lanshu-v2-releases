@@ -1,11 +1,19 @@
 {
-    "version":  "2.3.2",
-    "notes":  "直播日报现在只有写这份日报的本人能改，别人的日报只能看和导出；想改别人写的，请找组长、管理员或所有者。别人的日报不再显示编辑、换大屏截图和换人按钮。",
-    "pub_date":  "2026-11-28T04:17:00Z",
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY21qTzY0aGdjcG1FZmw3bVN3Qk9jbDIrMGw2aWJVOXNmMXluTFA1ZGppWm0wSE4wSDFteHJuNkdoNEw3WGZGdlVnR0UvN08xQXlyK284R25EOUU3WEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODM5MzMwCWZpbGU65r6c5p6iIHYyXzIuMy4yX3g2NC1zZXR1cC5leGUKVFNCOVFhU3pyaDhqdUdRQ0RpTjRkMGcyanUzOWlER1hiZkVvWlZjQTFHQ29rL2dLb21mV0N2UXNxVVc0VGZ3blZjWXl4YkdkSjZSSW5Nb2hWL2F4RGc9PQo=",
-                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.2/lanshu-v2_2.3.2_x64-setup.exe"
-                                         }
-                  }
+  "version": "2.3.2",
+  "notes": "直播日报现在只有写这份日报的本人能改，别人的日报只能看和导出；想改别人写的，请找组长、管理员或所有者。别人的日报不再显示编辑、换大屏截图和换人按钮。",
+  "pub_date": "2026-11-28T04:17:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY21qTzY0aGdjcG1FZmw3bVN3Qk9jbDIrMGw2aWJVOXNmMXluTFA1ZGppWm0wSE4wSDFteHJuNkdoNEw3WGZGdlVnR0UvN08xQXlyK284R25EOUU3WEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODM5MzMwCWZpbGU65r6c5p6iIHYyXzIuMy4yX3g2NC1zZXR1cC5leGUKVFNCOVFhU3pyaDhqdUdRQ0RpTjRkMGcyanUzOWlER1hiZkVvWlZjQTFHQ29rL2dLb21mV0N2UXNxVVc0VGZ3blZjWXl4YkdkSjZSSW5Nb2hWL2F4RGc9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.2/lanshu-v2_2.3.2_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZHSEFBWkpvcjI1YnRDeUVwQVFBcjRYRklnWmttZDE5ZHM0bFpDTWdCN3pJc2RFbkRBR0haUVJJNzZNNmExZHlDM1BPRlY1SmVQZ3p4c2VGejFPc1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODM5MzMwCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKcE1KUWw1a1l2SG90Vk9USEx1Y0l2eUtJODVud3haTTB5MHZBajJCMCtKbFhlekxLc1RQK1RyR1JZUkFMLzJneGhVemVLZmZIdko2eXZVWURmRSsxQ0E9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.2/LANSHU-v2.3.2-macOS-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3ZHSEFBWkpvcjI1YnRDeUVwQVFBcjRYRklnWmttZDE5ZHM0bFpDTWdCN3pJc2RFbkRBR0haUVJJNzZNNmExZHlDM1BPRlY1SmVQZ3p4c2VGejFPc1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODM5MzMwCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKcE1KUWw1a1l2SG90Vk9USEx1Y0l2eUtJODVud3haTTB5MHZBajJCMCtKbFhlekxLc1RQK1RyR1JZUkFMLzJneGhVemVLZmZIdko2eXZVWURmRSsxQ0E9PQo=",
+      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.2/LANSHU-v2.3.2-macOS-universal.app.tar.gz"
+    }
+  }
 }
