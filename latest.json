@@ -1,19 +1,11 @@
 {
-  "version": "2.3.4",
-  "notes": "主播工时换成「‹ 日期 ›」小条，日历实底不透图，绿点已确认、橙点待确认；主播工时、日报、成员管理都能按时间、主播、状态筛选，条件一键重置；日报先看历史，「新建日报」一个按钮，不常用的操作收进「更多」。",
-  "pub_date": "2026-11-28T07:01:30Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3BHeWVpYnBUT1ZTbEUrN3VRVnNlOCtxaHNHS0ttUHFMaTVIVUtYWVk4aGtFODkxYVVtQ0VzZitNUjhTWFF5UTRUUzJXb2xWS3NQZGlLVkZmekZsZndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQ5MjAyCWZpbGU65r6c5p6iIHYyXzIuMy40X3g2NC1zZXR1cC5leGUKSVZvR0MxbmJUY0pucHlFdTVnQmo3MmdQOS9Ca3ZEY3E4T2N2YnpXalNFQ1ZUZFJ6SFF1YmE2WllIbW5WRFFHdDI1RlpSQ2xubEJxMGxYRmFaTVZpQ1E9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.4/lanshu-v2_2.3.4_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY241Zy9iamZlakw0Y1BnWjAwMFg2S3BaQVRSRkpTTURCbzZPZkp2YWJLSEJEd0ZtVUlQa2c5Q0M1dFNUMXpGbm1EN3FEQ2FtSldVYlR0ZHZFOWZZcVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQ5MjMyCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKUFZGN3JxSnhkWmNIaUdhTHpzejBYbHZYWDQyY1ZpLzBRMTM4dlJUSEQ4SWFDREJFUmhmejgzWGV0WHlpcFc4QnMwcjNSU2JxbVFuYk51NWw4WmtHQXc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.4/LANSHU-v2.3.4-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY241Zy9iamZlakw0Y1BnWjAwMFg2S3BaQVRSRkpTTURCbzZPZkp2YWJLSEJEd0ZtVUlQa2c5Q0M1dFNUMXpGbm1EN3FEQ2FtSldVYlR0ZHZFOWZZcVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQ5MjMyCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKUFZGN3JxSnhkWmNIaUdhTHpzejBYbHZYWDQyY1ZpLzBRMTM4dlJUSEQ4SWFDREJFUmhmejgzWGV0WHlpcFc4QnMwcjNSU2JxbVFuYk51NWw4WmtHQXc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.4/LANSHU-v2.3.4-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.3.5",
+    "notes":  "直播日报打开就是填写表单，不用先点「新建」，交过的记录在下面。",
+    "pub_date":  "2026-11-28T10:22:00Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY2oxYkFxcWVxeFV2OTdsR2RqbG1YaHdNbTlyS0kxZHVDUVJJMFF1Z2JpVzd2UEJVTjYwMlRxSmVzZTh2SXJTdCt6UXB4bStPcE5JY1ZHWHIvblFqT2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODYxMjMxCWZpbGU65r6c5p6iIHYyXzIuMy41X3g2NC1zZXR1cC5leGUKN2hsWDczRGFLbmp3b0xtb2YzaU8wM1M4ZG1zejd5RldxbzlHMlNiY2hnb3dMZm8zL2xlc3B0cWFlaXhqSENVMGNBN0piZGdGWHpOc09CU0tqWDlFQnc9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.5/lanshu-v2_2.3.5_x64-setup.exe"
+                                         }
+                  }
 }
