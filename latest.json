@@ -1,19 +1,11 @@
 {
-  "version": "2.3.3",
-  "notes": "白皮书再打开时，规则没变化就不再重新下载整份列表；官方来源、排班名单等页面少发了重复请求，切换更跟手；清理了一批没人用的旧代码、旧字体和旧图片。",
-  "pub_date": "2026-11-28T05:46:42Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY250WDVlZXNlYTJENGtnNUhGdnRwNHJTd0JvbE1FUEUwYk1ZUjNXN3d6c2Jkc25ZQVVUWGdOSkZIQjMvOXp3M0Z1cVRkZ083UjdXQXY1VHlVQUczL2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQ0NjQzCWZpbGU65r6c5p6iIHYyXzIuMy4zX3g2NC1zZXR1cC5leGUKN0Q2b25TNFpxSjJwTlpvMFJCZTFNdWF0bFRQQU1GVmc2c2hnU0xNdVlwaG5yRUduZUdKN09IYkFBeUNHYmM0TnJlcnIwTGlmeXNxRVk4amxROXZoQUE9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.3/lanshu-v2_2.3.3_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JKbVlJS2k5dTJGMGxJUjlLMmxJcklhZTBLdWQ5SnFqVEtIKzZFcTZJZGIrU1hSMkVsTy9UemYrVFg3MVR5WEtIYkYyL3VwUkM0Y1poWG5vSVVTaWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQ0NjgxCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKWjg2MDd6VHpsSWgvcHVyeVJVK25NeXljT3ZpbmNGQi9xYUl4TFQrV1hkcEdGNktqY0lDTW8waU0xN3NaRkZ5T2txWStMWEoxNFhVZ0VZTUloamRTQnc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.3/LANSHU-v2.3.3-macOS-universal.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3JKbVlJS2k5dTJGMGxJUjlLMmxJcklhZTBLdWQ5SnFqVEtIKzZFcTZJZGIrU1hSMkVsTy9UemYrVFg3MVR5WEtIYkYyL3VwUkM0Y1poWG5vSVVTaWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQ0NjgxCWZpbGU65r6c5p6iIHYyLmFwcC50YXIuZ3oKWjg2MDd6VHpsSWgvcHVyeVJVK25NeXljT3ZpbmNGQi9xYUl4TFQrV1hkcEdGNktqY0lDTW8waU0xN3NaRkZ5T2txWStMWEoxNFhVZ0VZTUloamRTQnc9PQo=",
-      "url": "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.3/LANSHU-v2.3.3-macOS-universal.app.tar.gz"
-    }
-  }
+    "version":  "2.3.4",
+    "notes":  "主播工时换成「‹ 日期 ›」小条，日历实底不透图，绿点已确认、橙点待确认；主播工时、日报、成员管理都能按时间、主播、状态筛选，条件一键重置；日报先看历史，「新建日报」一个按钮，不常用的操作收进「更多」。",
+    "pub_date":  "2026-11-28T07:01:30Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRK1liYndRbmpkY3BHeWVpYnBUT1ZTbEUrN3VRVnNlOCtxaHNHS0ttUHFMaTVIVUtYWVk4aGtFODkxYVVtQ0VzZitNUjhTWFF5UTRUUzJXb2xWS3NQZGlLVkZmekZsZndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQ5MjAyCWZpbGU65r6c5p6iIHYyXzIuMy40X3g2NC1zZXR1cC5leGUKSVZvR0MxbmJUY0pucHlFdTVnQmo3MmdQOS9Ca3ZEY3E4T2N2YnpXalNFQ1ZUZFJ6SFF1YmE2WllIbW5WRFFHdDI1RlpSQ2xubEJxMGxYRmFaTVZpQ1E9PQo=",
+                                             "url":  "https://github.com/Jane-9818/lanshu-v2-releases/releases/download/v2.3.4/lanshu-v2_2.3.4_x64-setup.exe"
+                                         }
+                  }
 }
